@@ -204,6 +204,12 @@
     "contextual inference",
     "language-model scoring"
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "kind": "verification",
+   "what": "Full-texts pass: both entries listed the reading file as the transcription. The cipher runs as written were extracted from the figures_as_read column of the align files into texts/R2785_transcription.txt (26 runs) and texts/R2786_transcription.txt (14 runs), which now stand as the transcription with the align files; the reading files hold the plaintext. outcome.key_file was missing: texts/key_checked.tsv compiled from the key_check column of the align files (the values of Tomokiyo's key stated there, and the project's theta = null). Tomokiyo's full key table is not in the folder and was not copied.",
+   "result": "worked"
   }
  ],
  "outcome": {
@@ -246,11 +252,11 @@
      "texts/R2785_reading.md",
      "https://de-crypt.org/decrypt-web/RecordsView/2785"
     ],
-    "summary": "Louis XIII, countersigned by Brûlart de Sillery, to Léon Brûlart, his ambassador in Venice: clear French with cipher runs (contemporary decipherments above them mention 'Marini', 'retirer a Gennes', 'domestiques', 'aucun ombrage'); the King is still held in the town by his eldest sister's illness, which fits the court at Poitiers in September 1615. The reading is Satoshi Tomokiyo's, with his key, on DECODE R2785 and cryptiana louisxiii.htm.",
+    "summary": "Louis XIII, countersigned by Brûlart de Sillery, to Léon Brûlart, his ambassador in Venice: clear French with cipher runs (contemporary decipherments above them mention 'Marini', 'retirer a Gennes', 'domestiques', 'aucun ombrage'); the King is still held in the town by his eldest sister's illness, which fits the court at Poitiers in September 1615. The King disapproves of the Duke of Mantua's harshness and orders Marini to withdraw to Genoa. The text given here follows the contemporary interlinear decipherment, transcribed on 22 Oct 2026 and checked run by run against Satoshi Tomokiyo's key (DECODE R2785, cryptiana louisxiii.htm).",
     "state": "read",
     "language": "fr",
     "transcription": [
-     "texts/R2785_reading.md",
+     "texts/R2785_transcription.txt",
      "texts/R2785_align.tsv"
     ],
     "reading": "texts/R2785_reading.md",
@@ -270,11 +276,11 @@
      "texts/R2786_reading.md",
      "https://de-crypt.org/decrypt-web/RecordsView/2786"
     ],
-    "summary": "Louis XIII (countersigned Brûlart de Sillery) to Léon Brûlart, ambassador in Venice; read by Satoshi Tomokiyo with his reconstructed Brûlart de Léon key (1615-18). Its contents are not described in the repository; only the address leaf was fetched.",
+    "summary": "Louis XIII (countersigned Brûlart de Sillery) to Léon Brûlart, ambassador in Venice: Venice should take the openings offered to end the war; the Duke of Savoy should use the forces sent to his help to conclude an agreement rather than prolong the war; the Venetian secretary Padavin has had to withdraw from the Grisons, and Gueffier has reported on the Leagues. The text given here follows the contemporary interlinear decipherment, transcribed on 22 Oct 2026 and checked against Satoshi Tomokiyo's reconstructed Brûlart de Léon key (1615-18); one unglossed run was decoded with that key.",
     "state": "read",
     "language": "fr",
     "transcription": [
-     "texts/R2786_reading.md",
+     "texts/R2786_transcription.txt",
      "texts/R2786_align.tsv"
     ],
     "reading": "texts/R2786_reading.md",
@@ -300,6 +306,7 @@
     "detail": "the decipherer's hand is small and blotted at the resolution of the DECODE photographs; the letter signs under them are partly ambiguous in the key (the circled sign is l or y); the Gallica full-resolution images (23 Oct 2026) are no clearer, and no sibling letter repeats these clauses"
    }
   ],
-  "fraction_read_source": "22 Oct 2026, re-read (b17): both documents of outcome.texts read (2 of 2). The unread pieces inside them (R2785's three spaced-sign lines, about 60 signs, probably nulls; parts of R2786 f. 109v rows 9-11) are named in gaps. 23 Oct 2026 (siblings pass): R2785's spaced-sign lines judged nulls and left out of the reading; read_share by v10_relabel.share 0.971 (R2785) and 0.961 (R2786). 23 Oct 2026 (cl): the 1.0 counts documents whose sentences read; it is not a share of signs: both documents stay read in part (documents[].read) because of those passages, so the class is read in part."
+  "fraction_read_source": "22 Oct 2026, re-read (b17): both documents of outcome.texts read (2 of 2). The unread pieces inside them (R2785's three spaced-sign lines, about 60 signs, probably nulls; parts of R2786 f. 109v rows 9-11) are named in gaps. 23 Oct 2026 (siblings pass): R2785's spaced-sign lines judged nulls and left out of the reading; read_share by v10_relabel.share 0.971 (R2785) and 0.961 (R2786). 23 Oct 2026 (cl): the 1.0 counts documents whose sentences read; it is not a share of signs: both documents stay read in part (documents[].read) because of those passages, so the class is read in part.",
+  "key_file": "texts/key_checked.tsv"
  }
 }

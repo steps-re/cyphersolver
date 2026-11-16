@@ -501,6 +501,12 @@
       ],
       "what": "Integration check of PR #449: test_folded.py and test_round2.py re-run on the archive.org vol. 6 OCR (sha256 204906c7... matches): T1 folded 1593 key on Lomenie 1595 + Duplessis 1597 coverage 0.655 against best 0.616 (inconclusive; no words), T2 Rohan 1594 key on Rohan 1597 coverage 0.78 and language beats 197/200 (fits, 50 groups), T3 Rohan key on 1599-1612 does not fit, T4 inferred values not supported; all identical. Strictly, only 4 of the 50 Rohan 1597 groups read without an inferred value or a name-code letter; read share recounted 0.182, not 0.247. No second decoder and no image check at the integration check.",
       "result": "worked"
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "verification",
+      "what": "Full-texts audit: the seven documents that are not read (Loménie 1595, Duplessis 1597, 1597-98 and 1599, Rohan 1599 and 1611-12, unsigned 1612) listed in outcome.texts with their transcriptions and the pre-registered mechanical decodes already in beling/results (mechanical.txt, round2_mechanical.txt), state decoded, not read. No new decode was run and no file changed.",
+      "result": "worked"
     }
   ],
   "outcome": {
@@ -602,6 +608,66 @@
         "language": "fr",
         "state": "not prose",
         "note": "Names and short phrases inside clear letters, so sentences are not expected. The decryption is section T2 of beling/results/mechanical.txt (the Rohan 1594 key unchanged); rohan1597_reading.md proposes M. de Villeroy et de Lomenie, M. de Cargrois, M. de Chastillon and le roy with four inferred values (672 roy, 134 lo, 38 g, 160 ro), untested; runs R1 and R18 not read."
+      },
+      {
+        "doc": "Lomenie-1595-02-24",
+        "label": "Loménie to Duplessis-Mornay, 24 Feb 1595: cipher runs L1 onward (and D runs, Duplessis to his wife, vol. 6 CIX)",
+        "transcription": "lomenie1595.txt",
+        "decryption": "beling/results/mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Figures inside a clear letter; the clear words around each run are in the transcription.",
+        "note": "The decryption is the pre-registered mechanical test, not a reading: sections T1_folded_on_A (Dudout's 1593 key) and extra_rohan_on_A (Rohan 1594 key) of beling/results/mechanical.txt, lines L and D. Neither key gives words (L1 '[84] td da [610] ut x te ad [32] t'). Blocker: no key material."
+      },
+      {
+        "doc": "Duplessis-1597-01",
+        "label": "Duplessis-Mornay to Cargroy and to his wife, 18-19 Jan 1597: cipher runs C1 onward",
+        "transcription": "duplessis1597.txt",
+        "decryption": "beling/results/mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Figures inside clear letters about a friend who is to bring Cargroy by the king's command; the clear words around each run are in the transcription.",
+        "note": "The decryption is the pre-registered mechanical test, not a reading: lines C of sections T1_folded_on_A and extra_rohan_on_A of beling/results/mechanical.txt. Neither key gives words (C1 'tc td [24] fe eu [42] dc'). Blocker: no key material."
+      },
+      {
+        "doc": "Duplessis-1597-1598",
+        "label": "Duplessis-Mornay to his wife, Sep 1597 - Apr 1598: cipher runs M1-M15",
+        "transcription": "beling/transcription/v7v8_figures.tsv",
+        "decryption": "beling/results/mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Short runs of figures, mostly names, inside clear letters; the clear words around them are in beling/transcription/v7v8_context.tsv.",
+        "note": "Rows M1-M15 of the transcription file (rows R1-R19 are the Rohan 1597 entry). The decryption is the mechanical test, not a reading: sections T1_folded_on_B and extra_rohan_on_B of beling/results/mechanical.txt. Neither key gives words. Blocker: no key material."
+      },
+      {
+        "doc": "Duplessis-1599",
+        "label": "Duplessis-Mornay to his wife, Jan-Mar 1599: cipher runs D1-D16",
+        "transcription": "beling/transcription/v9v12_figures.tsv",
+        "decryption": "beling/results/round2_mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Short runs of figures, mostly names, inside clear letters; the clear words around them are in beling/transcription/v9v12_context.tsv.",
+        "note": "Rows D1-D16 of the transcription file. The decryption is the mechanical test, not a reading: sections extra_folded_on_Duplessis_1599 and extra_rohan_on_Duplessis_1599 of beling/results/round2_mechanical.txt. Neither key gives words. Blocker: no key material."
+      },
+      {
+        "doc": ["Rohan-1599", "Rohan-1611-1612"],
+        "label": "Mme de Rohan to Duplessis-Mornay, 30 Oct 1599 (R20) and Nov 1611 - Mar 1612 (R21-R62)",
+        "transcription": "beling/transcription/v9v12_figures.tsv",
+        "decryption": "beling/results/round2_mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Short runs of figures, mostly names and single letters, inside clear letters; the clear words around them are in beling/transcription/v9v12_context.tsv.",
+        "note": "Rows R20-R62 of the transcription file. The decryption is the pre-registered round-2 test, not a reading: section T3_rohan_on_new_Rohan of beling/results/round2_mechanical.txt (Rohan 1594 key unchanged; T4 adds the four inferred 1597 values). R20 gives 'la vi [38] ne'; the 1611-12 runs give no words: another table. Blocker: no key material."
+      },
+      {
+        "doc": "Anon-1612",
+        "label": "Unsigned letter to Duplessis-Mornay, 25 Jul 1612: cipher runs U1-U3",
+        "transcription": "beling/transcription/v9v12_figures.tsv",
+        "decryption": "beling/results/round2_mechanical.txt",
+        "language": "fr",
+        "state": "decoded, not read",
+        "summary": "Not read. Three short runs of figures inside a clear letter.",
+        "note": "Rows U1-U3 of the transcription file. The decryption is the mechanical test, not a reading: section extra_rohan_on_unsigned_1612 of beling/results/round2_mechanical.txt (U1 'a [75] [90] u'). Blocker: no key material."
       }
     ],
     "fraction_read_method": "measured",

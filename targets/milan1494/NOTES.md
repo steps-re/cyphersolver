@@ -60,6 +60,19 @@ He also points to P. D. Gabbrielli's copy book of the keys of the Dieci di Balì
 
 Bernardo Rucellai's letters of 1482 in the same fonds (MAP LXXII 196-211) are in another table: in Brice Dudout's key for them 6 is a, 7 is e and = is n, where the sheet LXXII 183 has 6 and 7 for i and ÷ for n and c. The two keys do not relate beyond the family of system (a sign alphabet with homophones, nulls and separate signs for doubled consonants, which both workers found independently for rr and tt).
 
+## 14 Nov 2026: reading review (audit section J)
+
+Both reading files were read as sentences and a `reading_review` recorded for each entry in `profile.json`.
+
+- Ridolfi (docs 112, 113, 115): grade A. Every sentence with cipher in it holds and translates; the holes are two unread
+  groups in doc. 113 and a few words marked (?), most of them in the clear hand.
+- Alamanni (doc. 96): grade A. The cipher passages are short runs inside clear sentences and fit them; the unread cipher
+  is in three runs (11 of 91 words). The clear hand has more gaps than the cipher. The contributor's English abridges
+  the clear text of c. 220r and parts of the rest, so the whole Italian letter was translated here, sentence for
+  sentence, with the same holes: `alamanni_en.md`.
+- The grade says the sentences are coherent. It does not make the words secure: the state stays read in part and the
+  read shares stay the strict tier (0.367 and 0.407). No image was looked at in this pass.
+
 ## Remaining gaps
 
 - 85 + 19 words chosen by sense and 90 + 24 forced words rest on ambiguous signs (÷ for n or c; d and l alike; b, 6 and others at 1272 px) - blocker: none yet; Ridolfi's glossed letters 101-110 and 114 give his letter forms with their values and have not been used to separate them, and doc. 114 with Desjardins's text is a ready test
@@ -89,3 +102,4 @@ Bernardo Rucellai's letters of 1482 in the same fonds (MAP LXXII 196-211) are in
 | `aaymeloglu/images.tsv` | the ASF images used, with their SHA-256 |
 | `aaymeloglu/README_aaymeloglu.md`, `aaymeloglu/AUDIT.md`, `aaymeloglu/audit/` | the contributor's account, the history of the work and the second model's review |
 | `aaymeloglu/own_decode.py` | the project's decoder and count |
+| `alamanni_en.md` | the project's full English of Alamanni's letter (14 Nov 2026) |

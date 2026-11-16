@@ -61,7 +61,8 @@
   {"date": "2026-09-18", "kind": "verification", "what": "Clear text of nos. 25 and 26 compared: identical word for word; cipher runs fall after the same clear words; groups match at the two points checked (run 1 opening, run 3 ending). No group-for-group identity claimed.", "result": "worked"},
   {"date": "2026-09-18", "kind": "reading", "what": "Transcribed the letter with the interlinear decipherment of no. 26 for each cipher run (ct/letter_13feb1626.md); two proper names and 'Soubise' uncertain, a few glossed stretches left as '…'.", "result": "partial"},
   {"date": "2026-10-22", "kind": "verification", "what": "Full texts listed in outcome.texts (George Lasry's request of 22 Oct 2026): decryption ct/letter_13feb1626.md (the twin no. 26's interlinear decipherment with the clear text); the cipher groups were never transcribed (project work).", "result": "partial"},
-  {"date": "2026-10-23", "kind": "verification", "what": "Verification 5 (plain-bar rows): ct/letter_13feb1626.md had no ## Reading heading (header and cipher notes scored, plain 0.588); heading added, body plain 0.754, explicit 0.825. Keeps read.", "result": "worked"}
+  {"date": "2026-10-23", "kind": "verification", "what": "Verification 5 (plain-bar rows): ct/letter_13feb1626.md had no ## Reading heading (header and cipher notes scored, plain 0.588); heading added, body plain 0.754, explicit 0.825. Keeps read.", "result": "worked"},
+  {"date": "2026-11-14", "kind": "access", "what": "Looked for a transcription of the cipher runs: none in the folder (ct/ holds the reading only), no DECODE record. Fetched Gallica image f74 (f. 69r) through openapi.bnf.fr and inspected the first run at full size: figures, letters, superscripts and several drawn signs run together without division; with no key table to decode against, a transcription could not be checked. Not transcribed; recorded as transcription_missing with what would unblock it.", "result": "failed"}
  ],
  "outcome": {
   "method": "read from existing decipherment",
@@ -95,7 +96,8 @@
     },
     "note": "Decryption = the contemporary interlinear decipherment of the twin copy no. 26, transcribed with the clear text (ct/letter_13feb1626.md). No transcription of the cipher groups of no. 25 or no. 26 (project work).",
     "translation": "ct/letter_13feb1626_en.md",
-    "read_share": 0.951
+    "read_share": 0.951,
+    "transcription_missing": "The cipher runs of no. 25 (and of its twin no. 26) were never transcribed, and could not be transcribed faithfully in the pass of 14 Nov 2026: the image is reachable (Gallica btv1b9060205q, image f74 fetched through openapi.bnf.fr and the first run on f. 69r inspected), but the cipher mixes figures, small letters, superscript letters and several drawn signs (a crossed z, a barred t, a double f, a crossed circle, a double-barred sign) written without division, so that neither the sign inventory nor the cuts between tokens (17 or 1 7) can be fixed by eye, and no key table exists to check a transcription by decoding it. What would unblock it: build the sign table first by aligning the runs of no. 26 with their interlinear decipherment (the volume has about thirty glossed letters in this cipher), then transcribe no. 25 in that table's sign names."
    }
   ]
  }

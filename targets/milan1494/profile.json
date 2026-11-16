@@ -168,6 +168,13 @@
    "technique": [
     "key matching"
    ]
+  },
+  {
+   "date": "2026-11-14",
+   "kind": "verification",
+   "what": "Audit section J: both reading files read as sentences and a reading review recorded for each entry (grade A for coherence; state stays read in part, read_share 0.367 and 0.407). The contributor's English of Alamanni's letter abridges the clear text, so the whole Italian letter was translated sentence for sentence with the same holes (alamanni_en.md). No image looked at in this pass.",
+   "result": "worked",
+   "technique": ["contextual inference"]
   }
  ],
  "outcome": {
@@ -229,7 +236,13 @@
     "state": "read in part",
     "read_share": 0.367,
     "summary": "Ridolfi reports from Milan as Charles VIII comes through Lombardy: the King received at Pavia castle by the Duchess Bona; the Pavia citizens' protest against the milling duty; on the day the death of Gian Galeazzo was announced, the King's night visit to Bona and Duchess Isabella's refusal to appear; opinion in Milan that Florence cannot resist the French.",
-    "note": "Reader's note (the project, 14 Nov 2026), not a review grade: Read the Italian and the English of the three letters as sentences: they hold together and fit the dated events. But only 104 of 283 cipher words are free of a choice between sign values, 85 were chosen by sense, and the contributor's own blind calibration got 74% of glossed words right; A connected proposal with a small secure part."
+    "note": "Reader's note (the project, 14 Nov 2026): Read the Italian and the English of the three letters as sentences: they hold together and fit the dated events. But only 104 of 283 cipher words are free of a choice between sign values, 85 were chosen by sense, and the contributor's own blind calibration got 74% of glossed words right; A connected proposal with a small secure part.",
+    "reading_review": {
+     "grade": "A",
+     "by": "Claude (session of 14 Nov 2026)",
+     "date": "2026-11-14",
+     "note": "Read the Italian and the English of the three letters (aaymeloglu/ridolfi-reading.md) as sentences against the word list of reading.txt. Every sentence with cipher in it holds and translates; the holes are two unread groups in doc. 113 and a handful of words marked (?), most of them in the clear hand. The grade is for coherence only: 104 of 283 cipher words are free of a choice between sign values and 85 were chosen by sense, so the state is read in part (read_share 0.367), and the connected text is the contributor's proposal with a small secure part."
+    }
    },
    {
     "doc": [
@@ -239,12 +252,18 @@
     "transcription": "aaymeloglu/alamanni-transcription.tsv",
     "decryption": "aaymeloglu/reading.txt",
     "reading": "aaymeloglu/alamanni-reading.md",
-    "translation": "aaymeloglu/alamanni-reading.md",
+    "translation": ["aaymeloglu/alamanni-reading.md", "alamanni_en.md"],
     "language": "it",
     "state": "read in part",
     "read_share": 0.407,
     "summary": "Alamanni privately urges Piero de' Medici that the King of Naples's plan to turn Genoa is the one remedy, must not be delayed and must be entered only with enough preparation, that name 22 will never trust the King, and that Piero must tell no one; on the last leaf, Lodovico's three threats, the second unread.",
-    "note": "Reader's note (the project, 14 Nov 2026), not a review grade: Read the Italian and the English as sentences: the cipher passages fit the clear text around them, with 11 of 91 cipher words unread and 19 chosen by sense; 37 words are free of a choice between sign values."
+    "note": "Reader's note (the project, 14 Nov 2026): Read the Italian and the English as sentences: the cipher passages fit the clear text around them, with 11 of 91 cipher words unread and 19 chosen by sense; 37 words are free of a choice between sign values.",
+    "reading_review": {
+     "grade": "A",
+     "by": "Claude (session of 14 Nov 2026)",
+     "date": "2026-11-14",
+     "note": "Read the Italian whole letter (aaymeloglu/alamanni-reading.md) as sentences and translated all of it (alamanni_en.md). The cipher passages are short runs inside clear sentences and fit them (voltare Genova; tutto questo male; volessi la guerra per mettere la citta in travaglio; di serrarci la via); the unread cipher is in three runs (11 of 91 words: after name 22 on c. 220v, and two of Lodovico's three threats on c. 221v), so most sentences hold. The clear hand has its own gaps, more than the cipher. The grade is for coherence only: 37 of 91 cipher words are free of a choice between sign values, state read in part (read_share 0.407)."
+    }
    }
   ],
   "key_file": [

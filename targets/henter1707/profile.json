@@ -108,7 +108,8 @@
     {"date": "2026-10-23", "kind": "verification", "what": "Re-read brief b28, step 1: DECODE R496, R533, R534 re-fetched with the cookie (b28_fetch.py): no DOC_ attachment or comment; the text of paragraphs 3-4 is the contemporary interlinear on the leaf, legible at 2-3x on IMG_R496_I3689_P1.", "result": "worked"},
     {"date": "2026-10-23", "kind": "transcription", "what": "Paragraphs 3-4 (and the end of paragraph 2): interlinear transcribed as written and the cipher under it decoded sign by sign with the alphabet fixed by the interlinear of paragraphs 1-2 (texts/mnl-g15-d80-f38_p3-4_cipher.tsv, 9 rows, 51 words). Figures correct the interlinear: 'Magyar' -> jancsarsag, 'twrbabo' -> turbatio, 'naltatnak' -> componalodnak, 'zenenkedem' -> remenkedem; 'Felsegednek' -> Felsegedet.", "result": "worked"},
     {"date": "2026-10-23", "kind": "verification", "what": "Reading of paragraphs 3-4 aligned word by word with the decode (every word carried; 4 [?]; 6 look-alike letters); score 0.000 on the modern Hungarian list (unaccented 1700s spelling), 0.833 explicit holes; sentences hold. Entry set read, grade A.", "result": "worked", "technique": ["language-model scoring"]},
-    {"date": "2026-10-24", "kind": "verification", "what": "Read bar applied per document (v10): 1 of 2 documents marked read measure under 95% of words read as sense (v2_score explicit holes) and are now read in part; read_share recorded for each.", "result": "partial"}
+    {"date": "2026-10-24", "kind": "verification", "what": "Read bar applied per document (v10): 1 of 2 documents marked read measure under 95% of words read as sense (v2_score explicit holes) and are now read in part; read_share recorded for each.", "result": "partial"},
+    {"date": "2026-11-14", "kind": "access", "what": "Looked for a transcription of the cipher signs of paragraphs 1-2: none in the folder (the sign file covers paragraphs 3-4), none on DECODE R496 (public API: no transcription, private_ciphertext true). Tried the image anonymously (decrypt-custom/filesrv, IMG_R496_I3689_P1.png): the server returns an 'Insufficient permissions to see the full image' placeholder. Recorded as transcription_missing with the blocker (DECODE login).", "result": "failed"}
   ],
   "outcome": {
     "method": "read from existing decipherment",
@@ -138,7 +139,8 @@
           "note": "Paragraphs 1-2 of the normalized interlinear read as Hungarian sentences (the pasha received the gift and offers help with troops, powder and grain; Hentér sought an audience for the deputation before the grand vizier) with two bracketed uncertain phrases. Paragraphs 3-4 are mostly [...] and are split off as decoded, not read."
         },
         "translation": "texts/mnl-g15-d80-f38_p1-2_en.md",
-        "read_share": 0.98
+        "read_share": 0.98,
+        "transcription_missing": "The cipher signs of paragraphs 1-2 were never transcribed (only paragraphs 3-4 and the end of paragraph 2 were, in texts/mnl-g15-d80-f38_p3-4_cipher.tsv), and the image cannot be reached from a session without the DECODE login: on 14 Nov 2026 the anonymous file server returned its 'Insufficient permissions to see the full image' placeholder for IMG_R496_I3689_P1.png, and the public API record R496 carries no transcription (private_ciphertext true). To unblock: a logged-in DECODE session (the project cookie), then transcribe the rows of paragraphs 1-2 in the sign names of the paragraphs 3-4 file."
       },
       {
         "doc": "mnl-g15-d80-f38",
