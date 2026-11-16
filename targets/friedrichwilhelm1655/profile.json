@@ -391,6 +391,12 @@
    "kind": "literature search",
    "what": "Integration: Erdmannsdörffer, Graf Georg Friedrich von Waldeck (1869), fetched as text from archive.org (grafgeorgfriedri00erdmuoft and bub_gb_-E06AAAAcAAJ, Fraktur OCR with long-s errors) and searched with OCR-tolerant patterns for Krockow, Cöslin, Radziwill, Danzig, Marienwerder, Culemborg and Chiffre/Ziffer: no hit; the OCR is too poor to exclude a quotation of the letters.",
    "result": "partial"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "verification",
+   "what": "Decrypt audit (research/decrypt_audit): the script flagged 132 of 410 words in four texts. Causes: clear words quoted in the transcriptions and copied by scripts/decrypt.py but not produced by the key, the stated uu = w convention, the scan order 793/795/794 of transcription_c793.txt against 793/794/795 in the reading, and each reading file holding the text twice. Re-checked with a read-only snippet: the six decryption files rebuild identically from transcription and key.tsv; all 148 marked lines resolve to the mechanical decryption; the sentence text equals the reading side of the marked block. Unmarked departures: 0. Nothing changed. The scans were not re-opened.",
+   "result": "worked"
   }
  ],
  "outcome": {

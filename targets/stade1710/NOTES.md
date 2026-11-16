@@ -26,7 +26,7 @@ Structure of the nomenclator, deduced from the recovered values (no table of thi
 - 212–304: endings, alphabetical (e.g. 245 en, 267 ing, 304 tion)
 - 310–1102: words and names, from “af” to “Wismar” (proper names at the end) (e.g. 552 fred, 653 Konung, 956 stille, 1033 wapen)
 
-Full key as recovered: `key.tsv` (334 values).
+Full key as recovered: `key.tsv` (334 values as frozen; 339 since 16 Nov 2026, see "Decrypt audit").
 
 ## Reading
 
@@ -52,6 +52,54 @@ Files: `transcription.txt` (both copies, groups line by line), `decryption.txt` 
 Method: (1) the key was rebuilt by crib. A ciphered troop list in the file (fols. 73 and 82) was aligned with its clear draft (fol. 74); totals and officers’ names fixed the numbers and the first values, then the alphabetical structure of the table. (2) The key was frozen (SHA-256 fingerprint recorded) and applied to pages never opened before: a German letter to von Müllern (fol. 100, 93% of words recognised) and two pages of a letter to the King (fols. 78v and 79r, 96%). By the same measure, control keys (permuted values, shuffled groups) reach at most 77–80%. (3) Charles XII’s letter was read by comparing the two copies. (4) Brice Dudout checked the doubtful numbers blind on the image (16 points).
 
 Prior work, checked on 27 October 2026: Daniel Bourdeau’s catalogue lists no. 599 as open, not attempted. We found no edition of this letter: not in Konung Karl XII:s egenhändiga bref (Carlson, 1893, autograph letters only), nor in the Handlingar rörande Skandinaviens historia, nor by web search (Swedish, English, German). The Historiska handlingar volumes and the Riksarkivet registers are not searchable online. What we present is a reading of the Stade cipher copies. The Rådet’s clear copy is probably kept in the Riksarkivet; we have not consulted it.
+
+## Decrypt audit, 16 Nov 2026
+
+The decrypt audit (`research/decrypt_audit/`) applied `key.tsv` to `transcription.txt` and compared the letters
+with `reading.md` (case, accents, u/v and i/j/y folded). Before: 26 of 259 compared words departed, the key
+covering 94% of the groups. After the key file was completed (below): 29 of 268, the key covering 98%; more words
+are compared because fewer groups are missing, and the departures that remain are in the reading, not in the key.
+
+Causes, checked group by group against `decryption.txt` (640 group=value pairs; its group numbers agree with
+`transcription.txt` on every line):
+
+- Key file incomplete (A). `key.tsv` lacked five groups that the reading uses: 25 {ak}, 238 {det}, 345 {andra},
+  473 {Dansk}, 891 såsom (12 occurrences in all). It gave 88 as the placeholder "?54" where the reading has sk
+  ("sk-o-le", L34), 1049 as ⟨wis?⟩ where the reading has {wilkor}, and 183 as "1" where the reading writes "en".
+  The PR review of 27 Oct had already noted 238, 473, 345, 25, 1049 and 160. Example: "på {Dansk}e sidan" could
+  not be regenerated from the key file.
+- Spelling normalised without a statement (C). The Conventions line of `reading.md` names only [..], ‹x› and {x},
+  but the reading doubles consonants the cipher writes single (o-s "os" printed "oss" five times; "oförrät",
+  "förskafa", "uprätta", "et", "betäma" printed "oförrätt", "förskaffa", "upprätta", "ett", "be{s}tämma"), respells
+  vowels (be-te-n-k "obetenksamhet" printed "obetänksamhet" twice; mo-st "most" printed "måst" twice; lo-n-g "long"
+  printed "lång" twice; hand-der printed "händer") and adds diacritics the cipher does not write (about 22 words:
+  "giora" printed "giöra", "pa" printed "på", "noi-ak-tig" printed "nöjaktig").
+- Letters supplied or changed without a mark (B), nine words: ro-ra "herrora" printed "herrorna" in both copies,
+  and in the envoys' copy sta-t-ä-r printed "Stater" (ä to e); fi-en-te-lig-heter printed "fiendteligheter";
+  ut 183 "ut en" printed "uti en"; kom-ma printed "kommas"; he-l-t printed "heelt"; Minist-i printed "Ministri";
+  w-ä-r-t (61 66 52 93, both copies) printed "wårt". Also in the Rådet copy "hwartill de låtit sig" is printed
+  outside brackets although `decryption.txt` L08 gives those four words as clear text, and the groups "ra" after
+  the struck word in L31 are replaced by ‹…›. None of these was changed here; the wording of the reading is
+  left for a central decision.
+- Marked departures (no defect): {ge(r)na}, {sig} for 108, satisfa{c}tion for 31, Statä{r} for 58, Konung‹se›en,
+  be{s}tämma, dan{a}.
+
+Changed in `key.tsv` (each with a comment line giving its source): added 25, 238, 345, 473 (probable values, from
+the Notes above and `decryption.txt`) and 891 (from `decryption.txt` E08 and L33); 88 "?54" to sk (second-series
+rule 54 + 34, `decryption.txt` L34); 1049 ⟨wis?⟩ to ⟨wilkor?⟩ (Notes above); 183 "1" to "en (1)" (System above,
+`decryption.txt` L21). The file now holds 339 values; the frozen key had 334, and the SHA-256 named in its header
+did not match the file before this change either (the file carries a header line).
+
+Left as they were: 160 is qi in the key (place in the q series) and "qui" in `decryption.txt` ("re-qui-re-ra-de");
+58 stays unknown in the key, its {r} in "Statä{r}" is a clerk's slip read from the other copy, not a key value;
+85, 90 and 92 still carry placeholders ("?51", "?56", "?58") and do not occur in the letter; 212 is unread.
+The clear passages of the two copies were not compared with the images.
+**Marked on 16 Nov 2026.** No place was marked inside `reading.md`: it is the contributor's established text and is
+kept as contributed. Its header now says so in one paragraph, names `decryption.txt` as the output of the key, states
+the spelling normalisation, and lists the nine words that carry a letter the groups do not give and the four clear
+words printed outside brackets; these 13 words stay unmarked in the text. No letter of the reading changed. On
+the page, "334 values" (twice) became "339 values" and "spelling of the copies kept" became "spelling normalised
+(doubled consonants, å, ä, ö)".
 
 ## Remaining gaps
 

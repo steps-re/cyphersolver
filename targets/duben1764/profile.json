@@ -736,6 +736,12 @@
    ],
    "what": "Strict counts with research/reading_audit/v10_relabel.share: 6 Mar 1764 622 words, 1 doubtful, read share 0.998; 15 Nov 1765 610 words (gloss 367), no hole, 1.000. English translations and summaries in sysA_1616/reading_1764-03-06.md and reading_1765-11-15.md. Both read from the existing decipherment; reading_review left to a reviewer.",
    "result": "worked"
+  },
+  {
+   "date": "2026-11-16",
+   "kind": "verification",
+   "what": "Decrypt audit of the two system B texts: key c04 re-applied to tx/c1764-10-05.txt and tx/c-chiffer2-121-124.txt and compared letter by letter with the clears of the time listed as readings. Script figures 74 of 358 words (5 Oct 1764) and 40 of 501 (31 Dec 1764); with whole-group tokenisation 76 of 358 and 28 of 501 (the script had cut unknown groups into shorter signs, read line labels as groups and dropped groups written with a mark). The published texts are transcriptions of the contemporary clears, not decodes, so the departures are places where the partial key does not regenerate the clear: groups with no value (18 of 44 gaps on 5 Oct, 2 of 19 on 31 Dec), empty or differing key values (387 'on' under 'honneur', 24 empty under 'be'), wording that differs between cipher and clear (122L.04 'procurer' / 'accorder') and groups marked doubtful in the transcription. No letter changed without a mark was found. No key value added: the values the clears suggest for 24, 333, 387 and 566 are in no file of the folder. System A texts not compared.",
+   "result": "partial"
   }
  ],
  "outcome": {
