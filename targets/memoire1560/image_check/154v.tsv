@@ -1,0 +1,110 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+154v.00	0	(page)	S			high	c: the code c does not occur on this page
+154v.00	0	(page)	S			medium	D has two shapes on this page: an upright short cross with two bars on the line (lines 3, 7, 11, 12, 24, 27: all read a; also line 11 difficil, read i) and a barred 7 with a slanted stem descending below the line (lines 1, 4, 7 zoDWWx, 8, 13, 15, 16, 18: all read i)
+154v.01	0	Tzox, Wzoxs	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.01	1	Ddr:fxrQ	K		i[n]nocent	medium	Image matches: barred-7 D, small RAISED delta, r, :, f, x, r, Q. The reading's first n falls on the raised delta (key u); looks like a superscript nasal mark rather than a letter on the line
+154v.01	1	Ddr:fxrQ	S		i[n]nocent	high	d #2 in word: delta (small, written raised above the line, loop with tall curved ascender); reading takes n
+154v.01	4	f:mHDS+Qi:r	K		co[n]spiration	high	Image matches; no sign for n between : and m (line 15 writes the same word with r: f:rmHDS...). Scribe omitted it
+154v.01	8	Wzoxs	K		le[u]r	high	Image matches in this order: W, z, o, x, long s = l-u-e-r; scribe's transposition (line 3 has Wxzos)
+154v.02	0	mzom..	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.02	5	mzomihxfQ3	T	mzonnhifQ3	susd[i]cts	medium	After zo there are 4 minims, then h (dot above), then a short wavy dash (the i-dash, as in TzoiW line 26), then f, Q, 3. No x-shaped sign between h and f. 4 minims = nn (s) gives s-u-s-d-i-c-t-s; whether the 4 minims are nn or m+i cannot be told from shape
+154v.03	0	Wxzos, d:zofgx	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.03	1	+HHiQ+irxm	K		[c]appitaines	high	Image matches; line starts at + in the left margin, nothing before it. The c is not written
+154v.03	3	WxmJn	U		les [..]	low	W x m, then a thick slanted overline stroke whose stem looks like a word slash, a small o-loop, and two minims. Possibly two words (Wxm / J+n). Cannot say what the second is
+154v.03	5	Q	K		[a]	medium	Not the usual circled-n Q: a larger open spiral circle with a small x-like sign inside (the two Q of word 8 on this line hold an n-shape and are flat ovals). Code Q conflates two signs; this one is the word 'a'
+154v.03	7	d:zofgx	S		bouche	high	d #1 in word: delta (loop with ascender curving left); reading takes b
+154v.03	8	DQQxrhn	K		attend[u]	medium	Image matches; last sign is two joined minims (n, key e), reading takes u
+154v.03	8	DQQxrhn	S		attend[u]	medium	D #1: upright short cross with two bars, on the line, no descender; reading takes a
+154v.04	1	ppxmippxm	T	ppxnnppxm	mes[]mes	medium	Between x and pp there are 4 minims (3+1). As nn (unit = s) the word is m-e-s-m-e-s; no separate i needed. Segmentation, not a wrong shape
+154v.04	2	Dd	T	fed	[qu'ils]	medium	Three signs, not two: tall crossed descending stroke, a c/e-shape joined to it, then a large arch-hook. This is the recurring 'fed' group. The c-shape is missing from the transcription
+154v.04	2	Dd	S		[qu'ils]	medium	d #2 in word: hook (large arch like ')' , no loop-and-ascender); part of the fed group; reading takes the whole group as qu'ils
+154v.04	3	3xrQ	K		[o]nt	medium	Image matches: z with tail below, x (raised), r, Q = s-e-n-t. No o sign. Reading 'ont' not supported by the signs
+154v.04	4	SxmDhx	K		resid[e]	high	Image matches (accent only)
+154v.04	5	fxhxio+rQ	T	fyhxio+rQ	[cy] devant	high	Sign 2 has a long tail looping below the line (y), unlike the x after h. f y = cy
+154v.05	0	hio.. none; nnzoxQx, f:zoSQ	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.05	5	nnzoxQx	T	nnzoyQx	su[i]te	high	Sign after zo has a clear loop/tail below the line (y); the final sign is a plain x
+154v.06	0	d:zoio.., dzoxxrrx	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.06	3	d:zoioxSrxppxrQ	S		gouvernement	high	d #1: delta (large, loop with tall curved ascender); reading takes g
+154v.06	5	dzoxxrrx	T	dzoyxrrx	Gu[y]enne	high	Sign 4 (first after zo) is an x-head with a loop below the line (y); then x, r, r, x
+154v.06	5	dzoxxrrx	S		Gu[y]enne	high	d #1: delta (loop low left, tall curved ascender); reading takes g
+154v.06	6	3+	T	e+	sa	medium	Not a 3: an epsilon/z-like sign sitting in a wide C-shaped bowl, followed by +. Same sign as line 22 word 3 (transcribed 3+) and line 24 word 1 (transcribed C+). Probably the whole-word 'et' (e+)
+154v.06	6	3+	R		sa	medium	If it is 'et': '... de Guyenne, et resident a present en sa ville de Nerac', which needs no change to the next word
+154v.07	0	zoDWWx	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.07	1	SxmdhxrQ	T	SxmyhxrQ	res[i]den[ce]	low	Sign 4 is not the tall delta: a small x-height sign with a closed lower loop and a short flick at upper left, on the line. Same small form as line 18 word 3, where the reading also takes i. Probably a y variant
+154v.07	1	SxmdhxrQ	S		res[i]den[ce]	medium	d #4 in word: other: small 8/delta-like loop at x-height with a short flick, no tall ascender, not below the line; reading takes i
+154v.07	1	SxmdhxrQ	R		res[i]den[ce]	medium	Word ends r, Q (n, t) clearly: 'resident', not 'residence'
+154v.07	2	DHSxmxrQ	S		a present	medium	D #1: upright short two-barred cross on the line; reading takes a
+154v.08	0	HWzomH+SQ	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.08	7	pp+dxmQx	K		ma[j]este	high	Image matches; delta for j
+154v.08	7	pp+dxmQx	S		ma[j]este	high	d #3: delta (loop with tall curved ascender); reading takes j
+154v.09	4	mx	K		[ce]	high	Image matches: three minims, x = se
+154v.09	6	Jixr	K		[b]ien	medium	Overline stroke ending in a loop, minim, x (looped form), r. Image matches; J read b
+154v.10	0	H:zoio:is, Sxf:zoioSxs	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.10	2	pp3xoxr	T	pp?yxr	m[oy]en	medium	After pp: (1) a compound sign, a small x on top of a z-like curl (same sign as line 19 word 7 sign 2 and line 26 word 3), (2) an x-head with loop below (y), (3) the looped x, (4) r. The transcribed '3x' is one sign and the 'o' is the loop of the next x. If the compound sign = o: m-o-y-e-n
+154v.11	0	DzoWQ.., QSxmTzox	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.11	1	DzoWQSxppxrQ	S		aultrement	high	D #1: upright short two-barred cross on the line; reading takes a
+154v.11	2	bex	K		[q]ui	medium	Image matches: b, epsilon, x. Reading takes the group as qui
+154v.11	5	h.77DfiW	S		difficil	medium	D #5: two-barred cross, fairly upright (not the barred-7 form); reading takes i here, the one exception to 'upright cross = a' on this page
+154v.12	0	Sxf:zoioxSQ3, mzomhxfQ3	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.12	1	Dx+rQ3	T	Dy+rQ3	a[y]ants	high	Sign 2 is an x-head with a large loop sweeping below the line (y)
+154v.12	1	Dx+rQ3	S		a[y]ants	high	D #1: upright two-barred cross on the line; reading takes a
+154v.12	2	Sxf:zoioxSQ3	K		recouvert[z]	high	Image matches; final sign is 3 with its tail, read z
+154v.12	4	mzomhxfQ3	T	mzomhifQ3	susd[i]cts	medium	Between h and f there is a short dash/minim (i), not an x-shaped sign. Minims before h: 3 or 4, unclear
+154v.12	5	f+HHiQ+x	T	f+HHiQ+y	cappita[ines]	high	Last sign is an x-head with a large loop below the line (y)
+154v.12	5	f+HHiQ+x	M	f+HHiQ+y^(sup)	cappita[ines]	medium	Small raised signs above the last sign at the page edge (an epsilon-like mark and minims), an abbreviation for the ending; missing from cipher
+154v.13	0	dxzo, QS:zoHHx, hifxzoW3	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.13	1	dxzo	S		veu	medium	d #1: delta, but large and lying over: big loop low left with a diagonal ascender, the x perched at its top; reading takes v
+154v.13	2	Zs	K		[par]	medium	7/z-like sign with small loop at right and long underline flourish, then long s. Image matches. Z is 'pour' on line 3; here Z+s is read par
+154v.13	4	pp:Dxd3	K		moye[n]	medium	Image matches: pp, :, barred-7 D, x, delta, 3. The delta again sits where an n is wanted (as in line 1 word 1), and the final 3 is there: moiens/moyens
+154v.13	4	pp:Dxd3	R		moye[n]	medium	Signs give six letters, m-o-i-e-(delta)-s: 'moyens' with delta as n, not 'moyen'
+154v.13	4	pp:Dxd3	S		moye[n]	high	d #5: delta (small loop low left, tall curved ascender); reading takes n
+154v.13	8	hifxzoW3	K		diceul[x]	high	Image matches; final 3 with tail, read x
+154v.14	0	f+zox, smf+zoiS	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.14	2	f+zox	K		Ca[z]e	high	Image matches: f, +, z, o, x = caue
+154v.14	4	ppxmippd	T	ppxnnppx	mesm[es]	medium	Last sign is not a delta: an x-head with a long stroke sweeping under and to the right (x with end flourish, or y). 4 minims after the first x (nn). Reads mesme, with no final s sign
+154v.14	4	ppxmippd	S		mesm[es]	medium	d #8: other: x-head with long under-sweep to the right, no loop-and-ascender; reading takes es
+154v.14	7	3S+	T	ZS+	[sera]	medium	Sign 1 is not the tailed z: a Z/7-like sign with a small loop at upper right and a curl at the foot, the same sign as Z of line 13 word 2 without the long underline. Then S, +
+154v.14	7	3S+	R		[sera]	medium	Z = pour, so Z S + = pour-r-a = 'pourra': 'et mesme le roy pourra scavoir par la entierement les conspirations'
+154v.14	8	smf+zoiS	T	nnf+zoiS	[a] [s]cav[o]ir	low	The initial 's' looks like one stroke of a doubled word slash, not a letter. Then 4 minims (nn = s), f, +, zo, i, S = scavir. No sign for the reading's 'a', and no o
+154v.17	0	S:x+zoWppx	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.17	1	pp+dxmQx	K		ma[j]est[e]	high	Image matches; delta for j
+154v.17	1	pp+dxmQx	S		ma[j]est[e]	high	d #3: delta (loop with tall curved ascender); reading takes j
+154v.17	2	C	K		[et]	medium	Large open C-curve with a small loop at the top, alone between slashes. Image matches; a word sign
+154v.17	4	S:x+zoWppx	T	S:y+zoWppx	ro[y]aulme	high	Sign 3 is an x-head with a loop below the line (y)
+154v.18	0	pp:rmDxzos, Wd:zo3, pp:rQWzof	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.18	3	Wd:zo3	T	Wy:zo3	L[i]ou[x]	medium	Sign 2 is not the tall delta: a small x-height sign with a closed loop and an upper-left stroke joining W (same form as line 7 word 1 sign 4). As y: l-i-o-u-x
+154v.18	3	Wd:zo3	S		L[i]ou[x]	medium	d #2: other: small x-height looped sign, no tall ascender; reading takes i
+154v.18	4	7S+iSx	K		fr[e]re	high	Image matches: 7, S, +, i, S, x = fraire; the reading normalised it
+154v.19	0	zo+, f:zoSQ	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.19	5	bex	K		[q]ui	medium	Image matches: b, epsilon, x
+154v.19	7	f3ppH:mx	T	f?ppH:mx	c[o]mpose	medium	Sign 2 is not a plain 3: a small x written over a z-like curl (xi-shaped). Same compound sign as line 10 word 2 and line 26 word 3; in all three the reading needs o
+154v.20	0	gzoppxzos, Tzox x2, Jx+zof:zoH, h+zoWQSxm, zoxioWWxrQ	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.20	3	Jx+zof:zoH	K		[b]eaucoup	medium	Image matches: thick overline stroke ending in a loop, then x, +, zo, f, :, zo, H
+154v.20	5	Tzox	K		qu[i]	high	Image matches: T, z, o, x = que. Reading 'qui' is not what is written
+154v.21	0	nnxSzoiS, pp+mTzoxm	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.21	6	Je	K		[qu'il]	medium	Thick slanted stroke crossing the word slash, then o-loop and an epsilon/c. Image matches the transcription. Same group as line 23 word 6
+154v.21	6	Je	R		[qu'il] en a donne	low	With 'ay' the verb is first person, and line 23 ends in 'fierez' (second person plural). 'vous' for the Je group fits both: 'ce [que] vous en ay donne cy devant advertissement' and 'ne vous y fierez'. A proposal from context, not from the key
+154v.21	8	+x	T	+y	a	high	Second sign is an x-head with a large loop well below the line (y): a-y = 'ay'
+154v.22	0	fzox, Tzox	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.22	1	fxhxio+rQ	T	fyhxio+rQ	[cy] devant	high	Sign 2 has a long tail hooking below the line (y); f y = cy. Same as line 4 word 5
+154v.22	2	+hioxSQDmmxppxrQ	U		advertissement	medium	A hole in the paper sits on the S / Q; the rest matches
+154v.22	3	3+	T	e+	[a]	medium	Same sign as line 6 word 6 and line 24 word 1: epsilon-like sign in a C-shaped bowl, then +. Not a tailed z. Probably 'et'
+154v.22	4	fzox	T	fzoy	ce	medium	Last sign has a tail sweeping below the line (y): f, z, o, y = c-u-y. The reading's 'ce' is not what is written
+154v.23	0	zomQSx, dS+rhxzoS	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.23	3	zomQSx	K		[vo]stre	high	Image matches: zo, m, Q, S, x = ustre; abbreviated spelling
+154v.23	4	dS+rhxzoS	S		grandeur	high	d #1: delta (loop with tall curved ascender); reading takes g
+154v.23	6	Je	K		s'	medium	Same group as line 21 word 6: thick stroke, o-loop, epsilon/c
+154v.23	7	x	T	y	y	high	Single sign between slashes: an x-head with a large loop below the line (y)
+154v.23	8	7ixSx3	R		[fient]	high	Image clearly matches the transcription: 7, i, x, S, x, 3 = f-i-e-r-e-z (final 3 = z/x). 'fierez', not 'fient'
+154v.24	0	DzoSx3, WxzoSm	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.24	1	C+	T	e+	[..]	medium	Not the C of line 17: the epsilon-in-a-bowl sign of lines 6 and 22, then +. The three places should carry one code. Probably 'et'
+154v.24	2	DzoSx3	R		[..]	medium	Image matches: upright two-barred cross, zo, S, x, 3 = a-u-r-e-z: 'aurez'. With word 1: 'et aurez entendu leurs menees et factions'
+154v.24	2	DzoSx3	S		[..]	medium	D #1: upright short two-barred cross on the line; value a fits (aurez)
+154v.24	3	SxrQffrhio	T	xrQffrhio	entendu	medium	No S at the start: after the word slash the word begins with the looped x. The stroke taken as S is the slash or a descender from line 23. x r Q ff r h io = entendu
+154v.24	5	ppxrxfSm	T	ppxrxffm	mene[e]s	high	Signs 6-7 are two tall crossed f's, the same pair as 'ff' in word 3 of this line: pp x r x ff m = menees
+154v.26	0	Wixzo3, TzoiW	S			medium	every z on this line is the first half of a zo unit: a small z on the line, no tail below (judged on the line strips, not each one enlarged)
+154v.26	3	Wixzo3	T	Wi?zo3	Li[o]u[x]	medium	The sign after i is an x with a z-like curl written beneath it: the compound sign of lines 10 and 19, not a plain x. With that sign = o: l-i-o-u-x, the same name as line 18
+154v.27	5	dS+rh3	S		grands	high	d #1: delta (loop with tall curved ascender); reading takes g
+154v.27	6	ppxr+nnmixm	T	ppxr+nnnnxm	menass[]es	medium	Eight minims between + and x (4 + 4, the last with a small tail), then x, m. As nn nn: m-e-n-a-s-s-e-s. Segmentation, not a wrong shape
+154v.27	7	D	K		a	medium	Image matches: a cross with two bars
+154v.27	7	D	S		a	medium	D #1: upright short two-barred cross on the line (no descender); reading takes a

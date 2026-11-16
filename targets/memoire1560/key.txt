@@ -56,3 +56,9 @@ q	t
 =g	sieur
 y	i
 lz	d
+# 16 Nov 2026: signs separated by the image check of all ten pages (they had been transcribed d, D, x or y)
+B	b
+G	g
+j	i
+X	a
+O	o

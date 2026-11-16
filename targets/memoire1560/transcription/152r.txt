@@ -8,32 +8,36 @@
 # Lines 16, 17, 26: a heavy diagonal stroke runs across the word "on" (overline or cancellation stroke, not a letter).
 # Line 11 ends with a struck-through word that is rewritten at the start of line 12.
 # NEW code "y" (checking pass 22 Sept): an x- or r-headed sign whose stroke descends into a large loop below the line; earlier coded "3" (or "3x", or r/h). By context it reads y/i (vray, ayant, quoy, luy, pis, avoir, pourroyent) and o (ordinairement, ont); word-initial examples may be a flourished x. Not yet in key.txt.
-lzxNNHzoxm [??] Wxm hxsrDxsm +hioxsQDmmxppffrm
-Tzox xrio:.tm + [zox] zo:nnQs3x S+rhxzos Wxnn
-D77+isxm hxH+shxft yrQ hDnnf:s3xzo hx pp+W
+# 16 Nov 2026: every line re-checked against the full-resolution image (openapi.bnf.fr), one independent checker per page.
+# New codes (SIGNS.md): B = barred delta (b), G = tall curled delta (g), j = crossed delta (i), X = short double-barred
+# cross on the line (a), O = x-head on a closed loop or curl (o). d is kept for the hook of the group fed and for an
+# unclassified delta; D is now only the tall double dagger. Changes are listed in corrections_152r.tsv.
+lzxNNHzoym [??] Wxm hxsrDxsm +hioxsQDmmxppffrm
+Tzox xrio:.tm + [zox] zo:nnQs3x Gs+rhxzos Wxnn
+X77+isxm hxH+shxf+ OrQ hDnnf:s3xzo hx pp+W
 ffr Hym f:.rQDrio+rQ Wxm Hs3xmfgxm c+
-+mmxppdWxffm HWzom Tzox 4+pp+dm c+ cio3 zoDWWxm
-:zo nn:WW:iQ Dio:is zoxd Hsxhdf+xQ Wx xr y +
-D Hs3xNNxrQ hxio3 ciomTzoxW3 Hs3xmfgxm Wx
-y c hxio3 r:.Q+dWxm 7xppppxm Tzox y DnnmDnnQxrQ
-yshDr+is3xppxrQ DioxfTzoxnn S+rh nnzoxQQx Tzox
++mmxppBWxffm HWzom Tzox 4+pp+jm c+ cio3 zoDWWxm
+:zo nn:WW:iQ Xio:is zorG Hsxhjf+xQ box xr y +
+X Hs3xNNxrQ hxio3 ciomTzoxW3 Hs3xmfgxm box
+y c hxio3 r:.Q+BWxm 7xppppxm Tzox y XnnmDnnQxrQ
+OshDr+is3xppxrQ XioxfTzoxnn Gs+rh nnzoyQQx Tzox
 nn:.rQ pp+h+ppx hx f+mQxW Hxsm c+ pp+h+pp:.? WWx
-hx d:xmmx 7Dfpppppx hio fiHHDQ+4rx [pp:.xQmx??]
-pp:.rQmxzoDdr+f
-zos+y xmQ Tzox Wxm s3xdxWWxm Dy+rQ xrQxrhio
-Tzox Wx 4 ffrio:y:.Q H+shxf+ Wx g hx [QxSffp]
-Qxsppxm +zoxfTzoxm TzoxWTzoxm f:.ppH+idrDxm fz
-yrQ Hs+QDfTzox TzoxWTzoxm mxidrxzosm x on
-xmfsDHs3x + m+ pp+dxmQx c+ Wzoy on xrQxrhs3x
-Tzox zoxd fg+fzor hx H+shxf+ zoiQ m:zod3
-W:dxDnnm+rf3x hio 4 f3x fed H:.zoss3WxQ
-Dzo:ys 7+ifQ fxzo s+HH:.zosQx Q+Q Z zoxd
-Hs3x7isQ H+sQDszoWxs fed mx [H] H:.zoss:.yxrQ
+hx B:xmmx 7Dfppppx hio fiHHDQ+4rx [pp:.xQmx??]
+pp:.rQmxzoDGr+f
+zos+y xmQ Tzox Wxm s3xBxWWxm Xy+rQ xrQxrhio
+Tzox Wx 4 ffrio:y:.iQ H+shxf+ Wx g hx [QxSffp]
+Qxsppxm +zoxfTzoxm TzoxWTzoxm f:.ppH+iGrDxm fz
+OrQ Hs+QDfTzox TzoxWTzoxm mxiGrxzosm x Bn
+xmfsDHs3x + m+ pp+GxmQx c+ Wzoy Bn xrQxrhs3x
+Tzox zorG fg+fzor hx H+shxf+ zoiQ m:zoB3
+W:BxDnnm+rf3x hio 4 f3x fed H:.zoss3OyxrQ
+Xzo:ys 7+ifQ fxzo s+HH:.zosQx Q+Q Z zorG
+Hs3O7ifQ H+sQDfzoWixs fed mx [H] H:.zoss:.yxrQ
 ymQs3x s3xmfxrQDm Tzox Z xmQs3x hx W+
-Widzox hxnnhifQ3 s3xdxWWxm
-D [Tzoy] Tzo:y rx 7+zoWQ Tzox Wx 4 c+ zo:mQs3x
-S+xhxzos m+ss3xmQx +zoWfzorxppxrQ fcs rx 7:.rQ
-fxWW+ Tzox Z mx on 3xsQ3 +zodpfxrQxs Wxzosm
-Qs:.zoHHxm c+ S+idrxs QxppHm Z +zois mxf:.zosm
-hx TzoxWTzoxm xmQs4rdyxsm fed hD nnxrQ mx Q3xris
-Dmmxios3xm
+WiGzox hxnnhifQ3 s3xBxWWxm
+X [Tzoy] Tzo:y rx 7+zoWQ Tzox Wx 4 c+ zo:mQs3x
+Gs+xhxzos m+ss3xmQx +zoWfzorxppxrQ fcs rx 7:.rQ
+fxWW+ Tzox Z mx Bn OsQ3 +zoGppxrQxs Wxzosm
+Qs:.zoHHxm c+ G+iGrxs QxppHm Z +zois mxf:.zosm
+hx TzoxWTzoxm xmQs+rGyxsm fed hDnnxrQ mx Qxris
+Xmmxios3xm

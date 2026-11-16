@@ -1,0 +1,92 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+156r.01	1	73xrhxppxrQ	T	7{x+tail}rhxppxrQ	f[o]ndement	high	Transcribed '3x' is ONE sign: an x head with a z-like tail/loop hanging below it; sequence is 7, that sign, r, h, x, pp, x, r, Q = f-o-n-d-e-m-e-n-t. No separate x. Same sign as 156r.04 w1 and w5; reading takes o each time.
+156r.01	3	mDW	U		s'il	low	Minims before the cross sign look like 4 (m+i, or nn) rather than 3; cross sign looks single-barred/closed like a 4; W raised. Cannot decide.
+156r.01	4	Je	K		[vous]	high	Long bar sloping from upper left into a small delta, then a small c. Image matches; a word sign the key does not hold (same group at 156r.21 w2).
+156r.01	5	HW+dmQ	K		pla[i]st	medium	Image matches sign order (H W + d-sign, minims, Q) but the 'd' is not a plain delta: delta with a small x/cross on top of its ascender. Reading needs i here. Minim count before Q looks like 4 (m+i or nn), unclear.
+156r.01	5	HW+dmQ	S		pla[i]st	high	d #1 in word: other: small delta loop with an x-shaped cross on top of the ascender; reading takes i. Same sign in 156r.26 w2 and w5.
+156r.01	2	i+	M		et	medium	The struck group before it ([x7]) is a 7 with a blotted/crossed head; the same mark stands unstruck-looking before i+ at 156r.20 w2 (transcribed there as '7x') and a 7 follows i+ at 156r.07 w8. Treat the three alike.
+156r.01	all	(code c)	S			high	The code c does not occur in the packet for this page (harmonised to e). Shapes seen under e: looped/tailed e-sign in 156r.08 w3, 10 w5, 20 w5, 21 w6, 24 w3 (reads y/i); plain c in 156r.22 w6 (reads a) and after the barred delta in Je (156r.01, 21).
+156r.02	all	z in: zox:iS, QS:zoioxSxm, Tzox	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.03	4	dS+rh	S		grand	high	d #1: delta (loop with curved ascender); reading takes g
+156r.04	1	f3xrnnxTzo+rfx	T	f{x+tail}rnnxTzo+rfx	c[o]nsequance	high	'3x' is one sign: x head with a loop swept below-left. Sequence f, sign, r, nn, x, T, zo, +, r, f, x = c-o-n-s-e-q-u-a-n-c-e. No separate x.
+156r.04	5	hxnnx3shSxm	T	hxnn{x+tail}shSxm	des[o]rdres	high	'x3' is the same single sign (x head, loop below). h x nn sign s h S x m = d-e-s-o-r-d-r-e-s. The key error here is a missing sign value (x+tail = o), not a wrong reading.
+156r.04	all	z in: Tzo in w1	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.05	all	z in: Tzox, f:rQDrzoxrQ	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.06	1	D:SrxWxppxrQ	K		jo[u]rnelement	high	Image matches the transcription; no sign for u. Scribe wrote 'jornelement'.
+156r.06	3	nnxnn	K		[c]es	high	Image matches: 4 minims, x, 4 minims = ses. Reading's c is an editorial respelling.
+156r.06	4	SxdxWWxm	S		rebelles	high	d #1: delta, ascender curving left; reading takes b
+156r.07	1	Qhxf+	T	{circled p}hxf+	[par]deça	medium	First sign is a large circle with a p-like stroke inside, written in the margin; not the usual Q (circled n, = t). A separate sign, probably 'par'.
+156r.07	4	dxm:Drd	S		besoing	medium	d #1: delta; reading takes b. d #2 (last sign): delta with a tall looped ascender; reading takes g
+156r.07	7	D	T	4	[roy]	high	Not the double-barred cross: a large open 4-shape (one slanted bar, long stem). It is the whole-word sign 4 = roy. Same at 156r.20 w1.
+156r.07	7	D	S		[roy]	high	D: 4-shape, single bar; reading takes 'roy' (word sign)
+156r.07	8	i+7	K		[et]	medium	v-like minim, small cross, then a 7 joined on and a dot after it. The 7 is on the image; i+ = et, the 7 looks like a line-end mark.
+156r.07	all	z in: Tzox	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.08	2	dS+rhxioS	S		grandeur	high	d #1: delta; reading takes g
+156r.08	all	z in: zo:nnQSx	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.09	2	W+xd+nSx	T	W+rd+ndx	la[n]ga[ig]e	medium	Sign 3 is the small round r (n), not x: clear. After the second + come two minims and then a delta-like looped sign with no long descender (not S), then x: l-a-n-g-a-(two minims)-g-e. Whether the two minims are n or i+i is unclear.
+156r.09	2	W+xd+nSx	S		la[n]ga[ig]e	high	d #1: delta; reading takes g
+156r.09	5	SxdxWWxm	S		rebelles	high	d #1: delta; reading takes b
+156r.09	6	QixrffeQ	T	QixrffrQ	tiene[n]t	high	Sign before the last Q is the small round r (n), same shape as the r earlier in the word; no loop below, not the e sign. Gives 'tienent'.
+156r.09	all	z in: Tzox	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.10	2	xioW3	K		eul[x]	high	Last sign is a z with a long tail curling below the line (3). Image matches; 3 at word end = x.
+156r.10	3	DppimDr	U		[ainsin]	low	Image shows double-barred cross, p, p, 3-4 small raised minims, double-barred cross, r. Matches the transcription as far as I can count; it does not spell ainsin with the key.
+156r.10	3	DppimDr	S		[ainsin]	medium	D #1: double-barred cross; reading takes a. D #2: double-barred; reading takes i
+156r.10	4	te	M	(delete)	qu[e] [j]'	high	No such word on the image: after DppimDr comes one slash and then Tzo+e directly.
+156r.10	5	Tzo+e	R		qu[e] [j]'ay	medium	Signs are theta, z, o, +, looped e-sign = q-u-a-y: 'qu'ay' ('ainsin qu'ay peu descouvrir'). The reading's 'que j'' has no signs behind it.
+156r.10	7	hxnnf:zoioSs	M	hxnnf:zoioSis	descouvr[i]r	low	A small minim-like stroke stands high between the two long-s signs; may be the i. Could also be the hook of the second s.
+156r.10	all	z in: Tzo+e, Hxzo, hxnnf:zoioSs	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.11	2	Ded	T	fed	[qu'ils]	medium	First sign is a tall straight stem with ONE crossbar (dagger), not the double-barred cross seen in w6 of the same line and not the curved-top f of w4 either. Then a c/e shape joined to it, then a tall narrow loop.
+156r.11	2	Ded	S		[qu'ils]	medium	d #3 in word: other: a tall narrow upright loop rising from the c-shape (like a looped l), followed by a slanted stroke that may be a hook or the word slash; no small base loop, not a delta; reading takes 'ils'
+156r.11	6	D	K		a	high	Clear double-barred cross standing alone. Reading takes a.
+156r.11	6	D	S		a	high	D: double-barred cross; reading takes a
+156r.11	7	d+idrxs	S		gaigner	high	d #1 and d #2: both delta; reading takes g, g
+156r.11	all	z in: Tzox, TzoxWTzox	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.12	8	Ded	T	fed	[qu'ils]	medium	Same group as 156r.11 w2: single-barred tall stem, c/e shape, tall narrow loop, then two slanted strokes.
+156r.12	8	Ded	S		[qu'ils]	medium	d #3: other: tall narrow loop, not a delta; reading takes 'ils'
+156r.12	all	z in: Hxzo, +zo:iS, mxf:zosm	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.13	4	hioxrd	T	hiord	d'ung	medium	Only one small sign between o and the delta, and it is the round r; no x. h io r d = d-u-n-g. Ink specks above the word.
+156r.13	4	hioxrd	S		d'ung	high	d #1: delta with tall looped ascender; reading takes g
+156r.13	all	z in: +mmxzoSxm	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.14	3	xmQS+rdixSm	S		estrangiers	high	d #1: delta; reading takes g
+156r.14	all	z in: TzoxWTzoxm, f:zomQx	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.15	2	dxrxiox	S		Geneve	high	d #1: delta; reading takes G
+156r.15	6	m:emimxnn	U		S[u]isses	low	Minims after the looped e-sign cannot be counted (looks like m, 1-2 minims, m, x, then 3-4 minims). The second sign is clearly the colon (o), so the scribe wrote So-, not Su-.
+156r.16	all	z in: hioTzoxW	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.17	3	hzxio3	T	lzxio3	deu[x]	medium	First sign is a short plain upright followed by a clear separate z, not an h with an arch: the unit lz (= d). lz x io 3 = d-e-u-x. The struck word before it begins the same way. Last sign is 3 (z with tail).
+156r.17	all	z in: zoDWWxm	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.17	3	hzxio3	S		deu[x]	medium	z #2 in word: on the line, no tail; part of the unit lz (d), see T row
+156r.18	4	7sx.rQixSx	T	7s{x+tail}rQixSx	fr[o]ntiere	low	Between the long s and r there is one small raised sign with a curl below it and a dot after; it looks like a small form of the x+tail sign (o), not x followed by a dot. Small and blurred.
+156r.19	1	dzoxxrrx	T	dzoyxrrx	Gu[y]enne	high	Sign after zo is not x: a small v/x head with a closed loop hanging below the line (y). Then x r r x. Gives G-u-y-e-n-n-e.
+156r.19	1	dzoxxrrx	S		Gu[y]enne	high	d #1: delta with very tall looped ascender; reading takes G
+156r.19	5	Tnx	K		q[u]e	medium	Theta, two minims, x. Image matches; the scribe wrote two minims (n) for u instead of zo.
+156r.19	all	z in: dzoxxrrx	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.20	1	D	T	4	[roy]	high	Open 4-shape with long stem, single bar: the roy sign, not the double-barred cross.
+156r.20	1	D	S		[roy]	high	D: 4-shape; reading takes 'roy'
+156r.20	2	7xi+	T	[x7] i+	[et]	medium	A 7 with a blot or cross on its head, then v-minim and small cross (i+ = et). Same mark as the struck [x7] before i+ in 156r.01; the 7x is not two letters of the word.
+156r.20	6	Zx:ex3	T	Zio:ex3	[pourvoient]	medium	After the Z sweep the small raised sign is i+o (io = u), not x. Then colon, looped e-sign, x, 3 with tail.
+156r.20	6	Zx:ex3	R		[pourvoient]	medium	Signs give pour-u-o-i-e + 3 (s/x/z): 'pourvoies' / 'pourvoiez', not 'pourvoient'. No n or t is written.
+156r.20	4	dS+rhxzoS	S		grandeur	high	d #1: delta; reading takes g
+156r.20	all	z in: zo:mQSx, dS+rhxzoS	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.21	1	hiWWidxppxrQ	S		diligement	high	d #1: delta; reading takes g
+156r.21	2	Je	K		[vous]	high	Barred delta then small c, as in 156r.01. Image matches; word sign.
+156r.21	4	TzoxW	U	TzoiW	qu'[i]l	low	Sign between o and W is very small, more like a short minim or tick than a full x (compare the clear TzoiW at 156r.24). Probably i.
+156r.21	all	z in: +mnnxzoS+rQ, TzoxW	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.22	3	dS+rh3	S		grands	high	d #1: delta; reading takes g. Final 3 has the tail below the line.
+156r.22	6	eioxf	K		[a]vec	high	First sign is a bold plain c with no loop below, unlike the looped e-sign (= i/y) of 156r.08 w3, 20 w5, 24 w3. It is a different sign and the reading takes a. The harmonising of c into e hides this.
+156r.22	6	eioxf	S		[a]vec	high	c-shape (transcribed e) #1: plain c, no loop or tail; reading takes a
+156r.23	1	DrQxWWidxrfxm	S		intelligences	high	d #1: delta with tall looped ascender; reading takes g
+156r.23	all	z in: Tzox	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.24	all	z in: TzoiW, H:zoSS+	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.25	2	Dzonnxs:enn	R		[o]serois	medium	Clear double-barred cross then zo: with D = a (as at 156r.11 w6) the signs give 'auserois', a regional spelling of oserois. Nothing is wrong with the transcription.
+156r.25	2	Dzonnxs:enn	S		[o]serois	medium	D #1: double-barred cross; reading takes o (signs: a + u)
+156r.25	all	z in: Dzonnxs:enn, HWzonn, +zo+rQ	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.26	2	dff	K		[je]	medium	First sign is a delta with a short cross stroke on its ascender (the sign of 156r.01 w5), then ff (e). With that sign = i/j the word is 'je'.
+156r.26	2	dff	S		[je]	medium	d #1: other: delta with a cross stroke on the ascender; reading takes j
+156r.26	5	sppdxzoW3	T	pp{delta+cross}xzoW3	m[i]eul[x]	medium	The leading 's' is the second stroke of a doubled word slash, not a sign. Then p, p, raised delta with cross on top, x, zo, W, 3 with tail = m-i-e-u-l-x.
+156r.26	5	sppdxzoW3	S		m[i]eul[x]	high	d #1: other: small raised delta with a cross/stroke on top; reading takes i
+156r.26	all	z in: Tzox, sppdxzoW3	S		(u, in zo)	medium	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.28	all	z in: pp:rnnDxzos, 7zoppxW, TzoxmQ	S		(u, in zo)	low	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.29	all	z in: zo:emiDr, +sssDzox, f:zosQ, Hzoem, Hxzo	S		(u, in zo)	low	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u
+156r.30	4	Hzoxm	T	Hzoem	pu[i]s	medium	Sign after zo has a loop below the line: the looped e-sign (i), as in Hzoem of 156r.29, not x. Lines 28-30 are fainter.
+156r.30	3	e+	U		et	low	First sign looks like a plain c/epsilon rather than the looped e-sign or the v-minim of i+; faint.
+156r.30	all	z in: D:zosm, Hzoxm, zoxrzox, zomx	S		(u, in zo)	low	every z here is the small flat z on the line (often like '='), no tail below; all inside the unit zo = u

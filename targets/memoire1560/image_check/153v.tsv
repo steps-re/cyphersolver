@@ -1,0 +1,75 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+153v.01	1	S+rhxzos	T	ds+rhxzos	[g]randeur	medium	Two separate signs at word start: a tall hooked S-curve with a foot curl (same build as the tall looped 'd' read g in gaigner l.21 / magesté l.23), then a long s descending below the line. 'S' is not one fused sign here: g + r, so 'grandeur' is fully written
+153v.01	1	(all zo)	S			medium	Every z of a 'zo' pair on the page sits on the line with no tail; tailed forms are all coded 3 already (8.1, 6.2, 7.2, 10.4, 13.3, 13.4, 17.6, 18.5, 22.2, 25.5, 26.1, 27.3, 27.4, 29.1 checked)
+153v.01	3	dx+zof:zoH	S		beaucoup	high	d #1: delta, curved ascender, no cross; reading takes b
+153v.01	6	f:.rQs3xr	U		contre	low	After f:.rQ s3 x there is a faint small r/y-like mark before the slash; cannot tell a sign from pen rest. Reading ignores it (key: contren)
+153v.02	1	f:.rQxrffrQ	K		conten[a]nt	high	Image matches: f :. r Q x r ff r Q = contenent; the reading normalised e to a
+153v.02	3	Ddzonn	K		abus	medium	Double-barred cross then delta: D taken as a, d as b; signs as transcribed
+153v.02	3	Ddzonn	S		abus	medium	d #2: delta (blurred); reading takes b. D #1: double-barred; reading takes a
+153v.02	4	c+	S		et	medium	c #1: small c-stroke before the cross (faint here); same at 7.4, 8.2, 11.2, 27.5; at 22.1 a large E-like c with a bar. Reading takes 'et'
+153v.03	1	zoxs3m+Qixrm	T	zoxs3m+Qi?rm	versati[o]ns	high	Sign after the minim is not plain x: an x-head with a CLOSED figure-8 loop hanging below the line. Not the open-hook y of 'luy' either. Same closed-loop sign opens 'ordinairement' (l.9); it reads o in both
+153v.05	1	Wxhird	U	Wxhii+ ?	Ledi[ct]	low	After h: two short minims, then a small cross-shaped sign (+ or t); no delta loop, no tall f, no circled sign. 'ledict' (h i f Q as in l.6) is not what is written; looks like a short form (ledit?). Final sign is not d
+153v.05	1	Wxhird	S		Ledi[ct]	low	d #6: other: small cross-shaped sign, no loop; reading takes ct
+153v.05	3	hxWxidzox	K		delegué	medium	h x W x, a short minim, tall looped delta, zo, x: the minim is there, d = g: 'deleigue'. Key letter u for d is wrong, reading's g fits the tall-loop form
+153v.05	3	hxWxidzox	S		delegué	high	d #6: delta, tall LOOPED ascender (g-form); reading takes g
+153v.06	3	mxidrxzosm	S		seigneurs	medium	d #4: delta, tall looped ascender; reading takes g
+153v.08	1	Wyxzo3	K		lieu[x]	high	Final sign is z with a long tail below the line (3); word-final 3 = x
+153v.08	4	fed	U		[qu'ils]	low	Heavily blotted: a c-shape with a long horizontal tail running into two tall crossed strokes; individual signs cannot be separated
+153v.08	4	fed	S		[qu'ils]	low	d #3: unclear (blot); cannot say delta or hook
+153v.08	5	Q	K		[tiennent]	medium	One wide circled sign with a long overline, alone between slashes; nothing else written. Looks like an abbreviation; 'tiennent' is a guess from sense
+153v.08	6	ffx	T	ffr	(omitted)	medium	Two tall joined f strokes and a small raised round r, identical to 'ffr' (en) in l.3 and l.20, not the hooked x. Reads 'en', which the reading drops: '... qu'ils t~ EN toutes lesquelles y a ...'
+153v.09	1	WxnnTzoxW.Wxnn	K		lesquelles	medium	A small dot does sit between the two W signs; the reading ignores it
+153v.09	4	yshir+isxppxrQ	T	?shir+isxppxrQ	[o]rdinairement	medium	First sign differs from the standalone y two words before: y has an open hook sweeping right below the line; this sign has a small CLOSED loop below (2-like), as in l.3. A separate sign with value o
+153v.09	5	pp4rdnnQs3xm	K		min[i]stres	medium	pp 4, small raised r, then a delta with a heavy stroke across its ascender, nn Q s3 x m. The stroked/crossed delta stands where i is needed (also l.14, l.16)
+153v.09	5	pp4rdnnQs3xm	S		min[i]stres	medium	d #5: other: delta with heavy stroke across the ascender, raised; reading takes i
+153v.10	5	bcx	K		[il]	medium	b with looped ascender, a small round c/o, then an e-like sign ending in a long horizontal stroke (not the usual hooked x). Same group at 14.3, 16.7, 18.6, 26.5, always where 'il' fits: a word sign missing from the key
+153v.10	5	bcx	S		[il]	medium	c #2: small closed round sign, o as much as c; same at 14.3, 16.7, 18.6, 26.5. Reading takes the group as 'il'
+153v.11	1	Dmm4mQx	K		assisté	high	Double-barred cross clear; D = a here
+153v.11	1	Dmm4mQx	S		assisté	high	D #1: double-barred cross; reading takes a
+153v.12	2	DnnmxppdWxx	K		assemblee	high	Double-barred cross = a (l.17 and l.25 write the same word with the plain +); delta with long straight ascender = b
+153v.12	2	DnnmxppdWxx	S		assemblee	high	d #8: delta with long straight ascender leaning left, not crossed; reading takes b. D #1 double-barred; reading takes a
+153v.12	4	s3xdxWWxm	S		rebelles	high	d #4: delta with long straight ascender, not crossed; reading takes b
+153v.13	7	mif+y	K		scai	medium	Three minims, a short extra minim/dot, f, +, open-hook y: the i is on the page (sicay); reading drops it
+153v.14	2	s+dnn:.r	T	s+?nn:.r	ra[i]son	high	The delta carries a clear X-shaped cross on top of its ascender: a different sign from the plain delta. Reads i
+153v.14	2	s+dnn:.r	S		ra[i]son	high	d #3: other: delta with X cross on the ascender; reading takes i
+153v.15	1	hxdzo:.is	R		devoir	medium	Plain delta (curved ascender, no cross) = b: the signs give 'debuoir' (debvoir), not devoir; no slip
+153v.15	1	hxdzo:.is	S		devoir	medium	d #3: delta, curved ascender; reading takes v (signs: b)
+153v.16	3	zoDs:.r	K		[B]iron	high	zo, double-barred cross, long s, dots, r: 'uiron/Viron'. No b sign; the B is the reading's (v for b)
+153v.16	5	zord	S		ung	medium	d #4: delta/d with tall upright ascender; reading takes g
+153v.16	6	pp:.rnn	K		mo[i]s	medium	pp, dots, a plain small r with nothing below the line, then minims: 'mons' as transcribed. No y/i sign visible; 'mois' not supported by the signs
+153v.16	8	7dnnQ	T	7?nnQ	fust	high	Delta with a clear X cross on its ascender, as in l.14: value i, so 'fist' (il fist une assemblee), not 'fust'. Reading and key both wrong here (class R as well)
+153v.16	8	7dnnQ	S		fust	high	d #2: other: delta with X cross on the ascender; reading takes u (sign elsewhere = i)
+153v.17	2	+nnnnxppdWxx	S		assemblee	medium	d #8: delta with long straight ascender; reading takes b
+153v.18	4	+s3f+d:.m4xs3m	K		arcabo[u]siers	high	Signs as transcribed: a r c a b o s i e r s; no u written, reading added it
+153v.18	4	+s3f+d:.m4xs3m	S		arcabo[u]siers	medium	d #6: delta with long straight ascender; reading takes b
+153v.19	1	hz4nn:.iQ	T	h4nn:.iQ	disoit	high	Tall stroke with its z-shaped arch (the ordinary h sign, same as in 'hx' and 'hio') then 4: there is only one z-shape, it belongs to the h. Gives 'disoit'. The code 'lz' (= d) in l.21 is this same h sign
+153v.19	1	hz4nn:.iQ	S		disoit	high	z #2: on the line, but it is the arch of the h sign, not a separate z
+153v.19	2	zo:.zoiWW:.is	K		vouloir	high	The minim before WW is there: 'vouilloir'; reading normalised
+153v.21	1	dsxdxys+f	R		Be[r]gerac	medium	Order on the page: crossed tall sign, long s, x, tall looped delta, x, loop-below y, long s, +, f = B r e g e y r a c. The r is written, after B: 'Bregeyrac'. Reading's bracket is misplaced
+153v.21	1	dsxdxys+f	S		Be[r]gerac	medium	d #1: other: tall upright stem with a horizontal cross-bar and a loop at the foot; reading takes B. d #4: delta, tall looped ascender; reading takes g
+153v.21	3	d+idrxs	S		gaigner	high	d #1 and d #4: both delta with tall looped ascender; reading takes g, g
+153v.21	6	lzifxWWx	S		d'icelle	medium	z #2: on the line; 'lz' is the same shape as h (stem + z-arch). Word runs into the gutter
+153v.22	2	x3xfzoQxs	K		e[x]ecuter	high	z with tail below (3) between two x: 3 = x here
+153v.22	5	g+diQ+rnn	S		habitans	high	d #3: delta with long straight ascender; reading takes b
+153v.23	5	pp+SxmQx	T	pp+dxmQx	ma[j]esté	medium	The sign coded S is the tall looped-ascender delta (loop at foot), the same shape read g in gaigner/chargé; no long s attached. 'magesté'
+153v.24	1	fg+sdx	S		chargé	medium	d #5: delta, tall looped ascender; reading takes g
+153v.24	2	Q:.zoQxnn7:.cnn	T	Q:.zoQxnn7:.enn	toutesfo[i]s	medium	Sign after the dots is larger than the c of 'c+' and has an inner tongue (e-like): the key's e = i. 'toutesfois'
+153v.24	2	Q:.zoQxnn7:.cnn	S		toutesfo[i]s	medium	c #12: e-like, with inner tongue, taller than the c of c+; reading takes i
+153v.25	1	+nnnnxppdWxx	S		assemblee	medium	d #8: delta with long straight ascender; reading takes b
+153v.25	2	DHs3xm	S		apres	high	D #1: double-barred cross; reading takes a
+153v.25	3	+zo:.s	M	+zo:.is	avo[i]r	medium	A small v-shaped tick/minim stands between the dots and the long s: the i is written
+153v.25	5	+zo3	K		au[x]	high	Final z with long tail (3) = x
+153v.26	1	Hs4rfiH+zoW3	K		principaul[x]	high	Final 3 with long tail = x
+153v.26	2	g+diQ+rm	S		habitans	high	d #3: delta with long straight ascender; reading takes b
+153v.26	3	hriolhifQ	T	hiohifQ	dudict	medium	h, minim+o, h, minim(s), f, circled sign: I see no r and no separate l; the 'l' is the stem of the second h. 'dudict'
+153v.26	4	ds3d3s+f	U	ds3xdx?s+f ?	[Bergerac]	low	Long-bar delta, long s with hook, a 3/x-like glyph, tall looped delta, an x-like glyph with tail, a faint dot or dash, long s, +, f. Probably the l.21 word (Bregeyrac) again but the middle is too faint to settle; the two '3' are doubtful
+153v.26	4	ds3d3s+f	S		[Bergerac]	medium	d #1: delta with long straight ascender (not the crossed stem of l.21); reading takes B. d #4: delta, tall looped ascender; reading takes g
+153v.27	4	m:.WhiQ3	U		sold[a]ts	low	Between h and the circled sign there is a cramped a-like or +-like sign, not a clean single minim; l.17 writes the word with a clear +. Cannot settle i versus +
+153v.27	7	s3	U		(omitted)	low	Long s with a 3-like sign and a long horizontal stroke at line end; resembles word 3 of l.29. Reading omits it
+153v.28	6	on	U		(omitted)	medium	o and two minims, both clear; a heavy diagonal stroke lies above-left of them and does not cross them. Not evidently deleted; reading skips the word
+153v.28	7	czoWQsx	K		[aultre]	high	First sign is a plain small c on the line, clear; then zo W Q s x. The reading's a is not the key's letter for c
+153v.28	7	czoWQsx	S		[aultre]	high	c #1: plain small c on the line; reading takes a
+153v.29	1	dx3xfzoQi:.r	T	x3xfzoQi:.r	e[x]ecution	medium	No delta: the word starts with x (its left hook is crossed by the tail of a long s from the line above), then z with a big tail (3). 'execution'; the key's leading u is an artefact
+153v.29	1	dx3xfzoQi:.r	S		e[x]ecution	medium	d #1: no such sign on the page (see T row)
+153v.29	3	sr	U		[qui]	low	Long s followed by an r/e-like sign that ends in a horizontal base stroke (same ending as the last sign of 'bcx'). Not a plain r; probably an abbreviation, value not shown by the page
+153v.29	7	Hsxmizoppxs	K		presumer	medium	Four minims between x and zo (m + i, or nn + nn): 'presiumer' or 'pressumer'; reading drops one

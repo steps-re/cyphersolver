@@ -1,0 +1,111 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+153r.01	7	pp:.exr	K		moien[s]	medium	pp, colon, looped e-sign, x, small r, then the word stroke: no sign for the final s; reading adds it
+153r.02	7	7+ioxxzos	U		faveur	low	after io a large blotted x, then a small x-like sign, then o: the small sign may be the z of zo (one x only = faueur) or a second x as transcribed
+153r.03	3	bcx	U		[a]	low	tall b/h-like sign with a bowl, a closed o-like sign, an x-like sign with a bar under it; reading skips the word ("ule" by key); not confirmed, not explained
+153r.03	3	bcx	S			low	c #2 in word: closed, looks like o rather than open c; reading takes nothing
+153r.03	4	c	K		[a]	high	lone small open c between word strokes; key l, reading a (verb "a")
+153r.03	4	c	S			high	c #1: clear open c on the line; reading takes a
+153r.04	1	Tzo+x	T	Tzo+y	[que]	high	last sign is x-headed with a loop below, identical to sign 2 of the next word (fyhxio+rQ): y not x
+153r.04	1	Tzo+x	R		[que] ... [ay]	medium	Tzo+y = q-u-a-i = "qu'ay": the reading's "que" plus a separate "[ay]" after cydevant is one word here; no separate sign group for "ay"
+153r.04	3	xmfs4HQxm	K		escript[es]	high	x m f s 4 H Q x m all present incl. final x m; key gives escriptes
+153r.04	4	c	K		[a]	high	lone open c; key l, reading a (preposition)
+153r.04	4	c	S			high	c #1: clear open c; reading takes a
+153r.05	1	ds+rhxios	S			high	d #1 in word: delta (loop, curled ascender, fused to the long s); reading takes g
+153r.05	3	cWWxs	K		aller	high	c W W x s as transcribed; first sign is a clear small c, key l, reading a
+153r.05	3	cWWxs	S			high	c #1: clear open c; reading takes a
+153r.05	4	dn	R		[de]	medium	round loop with a long heavy straight bar from upper left, then two minims: one group that recurs (lines 5, 21, 27, 31) always before an infinitive; "faire" fits all four (aller faire les remonstrances; leur faire taiser; luy faire rendre raison) better than "de"; likely a word sign, value not proven from the image
+153r.05	4	dn	S			high	d #1: other: uncial-d form, small round loop with a long heavy straight diagonal bar to upper left (not the curled delta); reading takes d
+153r.05	6	sxpp:.zomQs+rfxm	K		remo[n]strances	high	zo clear between :. and m; spelled remoustrances, no n sign
+153r.06	2	hi:WWx+zfxm	T	h:WWx+rfxm	dolea[n]ces	medium	no minim between h and the colon (the stroke there is a descender from line 5); the sign before f is the small round r as in +rf of line 5 word 6, not z; gives "dolleances"
+153r.06	2	hi:WWx+zfxm	S			medium	z #1: on the line, no tail; looks like small r (n) rather than z; reading takes n
+153r.06	5	QWxsm	T	Qixsm	t[i]ers	medium	after the circled sign: a minim joined to x, then long s, m; no double-loop W; gives "tiers"
+153r.07	2	h+dxrr:.em	S			high	d #1: delta; reading takes g
+153r.07	4	zord	S			high	d #1: delta; reading takes g. z is the z of zo, on the line
+153r.07	5	mfizhif	T	mfirhif	sy[n]dic	medium	sign between i and h is the small round r/x-like sign, not a z with flat strokes; gives "scindic"
+153r.07	5	mfizhif	S			medium	z #1: on the line, no tail, r-like; reading takes n
+153r.08	3	h+dxrr:.em	S			high	d #1: delta; reading takes g
+153r.08	5	d:.emm:.r+hx	K		Boissonade	medium	first sign is not the delta: round loop with a long straight stroke from upper left; key u, reading B
+153r.08	5	d:.emm:.r+hx	S			high	d #1: other: uncial-d form (loop with long straight bar to upper left); reading takes b
+153r.09	5	Hsxmxrq	T	HsxmxrQ	present	medium	last sign is the ordinary circled sign (Q); "q" is not a code in SIGNS.md; no effect on reading
+153r.10	1	fce	U		[qui]	low	tall f, then a small raised closed o-like sign and an x/epsilon-like sign with a bar beneath; same pair as in bcx (line 3); cannot confirm c e
+153r.10	1	fce	S			low	c #1: small, raised, looks closed (o-like); reading takes u (of qui)
+153r.10	2..3	c+	S			medium	c in c+ (et), here and in lines 2, 14, 16, 18, 22, 27: a small tick/v-like stroke joined to the cross, not the round open c of lines 3-5; reading takes "et"
+153r.10	4	hzDmmDppioWxs:.rQ	T	hDmmDppioWxs:.rQ	dissimuleront	medium	h (upright + its z-like arch) is followed directly by the double-barred cross; the transcribed z is the arch of h counted twice; gives "dissimuleront"
+153r.10	4	hzDmmDppioWxs:.rQ	S			medium	z #1: not a separate sign, it is the arch of h; reading takes nothing
+153r.11	6	?	U		[qui]	low	f-like stem with a heavy blot on its head; unreadable
+153r.11	7	Z	U		[qui]	medium	not the Z shape (looped pound-like Z of lines 3, 5, 6): a long-s-like stem with a z-shaped flourish to the right ending in a tick; one abbreviation with the blotted sign? reading "qui" cannot be checked
+153r.13	6	Dzodxpp+idx	K		juge mage	high	all signs as transcribed; D = consonantal i (j); the i before the second delta is present (maige), reading drops it
+153r.13	6	Dzodxpp+idx	S			high	d #1 and d #2: both delta; reading takes g, g. D #1: double-barred cross; reading takes j
+153r.14	3	pp+dDmQs+Q3	S			high	d #1: delta; reading takes g
+153r.14	5	mDxdx	S			high	d #1: delta; reading takes g
+153r.14	6	Hs3xmdh+W	T	Hs3xm?h+W	pres[i]dal	medium	the sign coded d is not a delta: two strokes crossing like an x on top, closing into a round loop on the line; same sign as in hdmf:.sxzo (line 24) where the reading also takes i; a third shape hidden under code d
+153r.14	6	Hs3xmdh+W	S			medium	d #1: other: x-crossed top with closed loop on the line; reading takes i
+153r.15	1	h+dzxr	U		d'Agen	low	a blot sits on the delta; after it one sign with a stroke below, a dash, small r; cannot tell whether a z stands between d and x (line 7 has h+dxrr without it)
+153r.15	1	h+dzxr	S			low	d #1: delta under a blot; reading takes g. z #1: unclear (blot), possibly not a separate sign
+153r.15	2	TzoiW	M	#o (above, before T)		high	interlinear double-barred H/# with small o above the word stroke before TzoiW; it is a reference mark tying the marginal note (153r.14m) to this point; not in cipher line
+153r.15	3	rxmQ:.Q	T	rxmQ:.iQ	n'esto[i]t	low	between the dot pair and the second circle a faint slanted minim is visible; gives "nestoit"
+153r.15	4	dxm:.ird	S			high	d #1: other: uncial-d form with heavy straight bar from upper left; reading takes b. d #2: delta; reading takes g
+153r.16	1	hxWxdzox	K		deleg[ué]	high	h x W x delta zo x all present; key deleuue
+153r.16	1	hxWxdzox	S			high	d #1: delta; reading takes g
+153r.16	3	mfDzhif	T	mfDrhif	sy[n]dic	medium	sign between the double cross and h is the small round r-like sign; gives "sciindic/scindic"
+153r.16	3	mfDzhif	S			medium	z #1: on the line, no tail, r-like; reading takes n
+153r.17	1	Q:.zoQ+WWx	K		totalle	high	zo present after :. ; key toutalle
+153r.17	2	zoxsQx	K		ver[i]té	medium	zo x long-s (with hook) circle x: no i/4/D sign between s and Q
+153r.17	6	xiss4Qxs	T	riss4Qxs	[n']irriter	medium	first sign is the small round r (same as first sign of line 19), not the large x; gives "nirriter" = n'irriter
+153r.18	7	pp+dxmQx	K		ma[j]esté	high	as transcribed; delta read g (magesté)
+153r.18	7	pp+dxmQx	S			high	d #1: delta; reading takes j (g)
+153r.18	8	fio+	M	[rx3xfio]+	[ne]	medium	the strike line runs through r x 3 x and on through f, i, o; only the final cross may stand outside it; the scribe wrote "nexecu.." , struck it and began again on line 19. Struck sign 3 has a tail below (3, not z)
+153r.18	8	fio+	R		[ne]	medium	no "ne" here: fio+ belongs to the cancelled start; the n-e is the r x that opens line 19
+153r.19	1	rxzxfzoQ+mQ	T	rx3xfzoQ+mQ	e[x]ecutast	high	third sign is a z with a large loop below the line (3)
+153r.19	1	rxzxfzoQ+mQ	R		e[x]ecutast	high	r x 3 x f zo Q + m Q = n-e-x-e-c-u-t-a-s-t "n'executast"; 3 = x; the reading's leading "e" is really "ne"
+153r.19	1	rxzxfzoQ+mQ	S			high	z #1: tail/loop below the line (= 3); reading takes x
+153r.19	3	sDdzoxzos	S			high	d #1: delta; reading takes g
+153r.20	2	h+dxrr:.em	S			high	d #1: delta; reading takes g
+153r.21	3	ds+rhxzos	S			high	d #1: delta; reading takes g
+153r.21	5	d:.r	S			high	d #1: other: uncial-d form with long straight bar; reading takes b
+153r.21	6	dn	R		[de]	medium	same barred group as line 5 word 4; "trouvoit bon faire ouir" possible; see 153r.05
+153r.21	6	dn	S			high	d #1: other: uncial-d form, loop with long heavy diagonal bar; reading takes d
+153r.22	3	mfDzhif	T	mfDrhif	sy[n]dic	medium	small round r-like sign between double cross and h, as in lines 7, 16, 26
+153r.22	3	mfDzhif	S			medium	z #1: on the line, no tail, r-like; reading takes n
+153r.22	4	hxWxdzox	S			high	d #1: delta; reading takes g
+153r.23	1	ss+Qxrhs3xm	T	ffrQxrhs3xm	[entendres]	medium	word opens with two thick crossed f-strokes joined at the top (as ff in line 1 word 2 "en") and one small sign partly hidden by a descender, then circle x r h s x m: ff r Q x r h s3 x m = e-n-t-e-n-d-r-e-s; not s s +
+153r.23	4	d:.zofgx	S			high	d #1: other: uncial-d form with straight bar; reading takes b
+153r.23	6	ds+rhx3	T	ds+rh3	grandes	low	after h (upright + arch) I see only the tailed 3, no x; gives "grands"; could be x and 3 fused
+153r.23	6	ds+rhx3	S			high	d #1: delta; reading takes g
+153r.24	2	hdmf:.sxzo	T	h?mf:.sxzo	[discouru]	medium	sign 2 is the x-crossed top with a closed loop (as in line 14 word 6), not a delta; with value i the word is d-i-s-c-o-r-e-u; reading's "ou...u" is not what stands: o r x zo = o-r-e-u
+153r.24	2	hdmf:.sxzo	S			medium	d #1: other: x-crossed top closing into a loop on the line; reading takes i
+153r.24	3	DzohifQ	K		audict	high	clear double-barred cross D, not the small plus; key i, reading a (compare +zohifQ with plain cross in line 28)
+153r.24	3	DzohifQ	S			high	D #1: double-barred cross; reading takes a
+153r.24	5	h+dxrr:.em	S			high	d #1: delta; reading takes g
+153r.25	2	Diodx??+id?xmQ	T	Diodxpp+idxxmQ	juge [mage] est	medium	under the smear two p descenders, a cross, a minim and a delta ascender can be made out, then x m circle clear after it; a word stroke before xmQ cannot be seen in the smear
+153r.25	2	Diodx??+id?xmQ	S			medium	d #1: delta, reading g; d #2: under smear, ascender and loop visible, probably delta, reading g. D #1: double-barred cross, reading j
+153r.25	6	+WWxsdhxW+	U		aller [par]dela	low	between long s and h: a tall arched K/h-like sign with a small looped x-like sign under its arm; not a delta; no H + s visible, so "par" is not confirmed
+153r.25	6	+WWxsdhxW+	S			low	d #1: other: K/h-like arched sign plus a small loop, not delta; reading takes "par"
+153r.26	1	3zHs3xmmxppxrQ	T	x3Hs3xmmxppxrQ	[ex]pressement	high	first sign is a plain large x, second a z with a long loop below (3); gives e-x-p-r-e-s-s-e-m-e-n-t with 3 = x; nothing irregular
+153r.26	1	3zHs3xmmxppxrQ	S			high	z #1 (second sign): long tail below the line (= 3); reading takes x
+153r.26	2	Z	U			low	very faint here (a pale = with a long flourish under it), possibly erased or offset; position of "pour"
+153r.26	3	smxWifQxs	U		s[ol]lic[i]ter	low	after the word stroke: three minims, a minim-plus-x sign with a long tail curling below, double loop W, a small hook, f, a tick, circle, x, long s. No initial long s seen (transcribed s may be the word stroke or the descender from line 25); a minim seems to follow f. Cannot give a firm corrected word
+153r.26	5	mfizhif	T	mfirhif	sy[n]dic	medium	small round r-like sign between i and h
+153r.26	5	mfizhif	S			medium	z #1: on the line, no tail, r-like; reading takes n
+153r.27	2	hxWxdzox	S			high	d #1: delta; reading takes g
+153r.27	5	dn	R		[de]	medium	barred group as lines 5, 21, 31: "pour leur faire taiser la verité"
+153r.27	5	dn	S			high	d #1: other: uncial-d form with very heavy long diagonal bar; reading takes d
+153r.28	3	hzDmif:.s3xioxm	T	hDmif:.s3xioxm	[discourues]	medium	h followed directly by the double cross, the z is the arch of h; then m, a minim, f, :. , s, x, i o, x, m = d-i-s-i-c-o-r-e-u-e-s; reading's "ou" not on the page
+153r.28	3	hzDmif:.s3xioxm	S			medium	z #1: not a separate sign (arch of h)
+153r.28	6	h+dxrr:.em	S			medium	d #1: delta (faint); reading takes g
+153r.29	2	ds+rhxios	S			high	d #1: delta; reading takes g
+153r.29	3	DhioDmmxs+	K		advisera	high	both crosses double-barred; first read a, second i; key iduissera
+153r.29	3	DhioDmmxs+	S			high	D #1: double-barred cross; reading takes a
+153r.29	6	d:.r	S			high	d #1: other: uncial-d form with long bar over it; reading takes b
+153r.31	4	3+	T	e+	[et]	low	sign is a small reversed-3/epsilon shape sitting on the line with no long tail, then the cross: closer to the e of H+em than to tailed 3; e+ = et is a listed word code
+153r.31	5	Wzoxedn	T	Wzoe dn	luy [..]	medium	W, z, o, then ONE x-headed sign with a loop below (e/y), then the heavy-barred uncial d and two minims: no separate x before the looped sign; "lui" + the dn group
+153r.31	5	Wzoxedn	R		luy [..]	medium	the unread [..] is the dn group: "luy faire rendre raison" if dn = faire (see 153r.05)
+153r.31	5	Wzoxedn	S			high	d #1: other: uncial-d form with heavy bar; reading leaves it unread
+153r.31	7	s+Dm:.g	K		raiso[n]	medium	last sign is a g/8-shaped sign with a lower loop, not the small r; key h, reading n
+153r.32	2	hxiois	K		dev[o]ir	high	h x i o i long-s: no dot pair; scribe wrote "deuir"
+153r.14m	1.1		M	+mxppdWxm		medium	margin line 1 (preceded by a small mark and stroke = the reference sign answering #o in line 15): cross, three minims, x with tail, p p, uncial-d form (straight bar), W, x, m = a-s-e-m-b-l-e-s 'assemblés'; sign 3 could be y
+153r.14m	2.1		M	?W+		medium	margin line 2 word 1: a small unclear mark at the edge, then double loop, cross = 'la' (the mark may be 'en' or nothing)
+153r.14m	2.2		M	fg+ppdsx		high	margin line 2 word 2: f, g, cross, p p, uncial-d form, long s, x = c-h-a-m-b-r-e 'chambre'; fixes the uncial-d shape as b
+153r.14m	3.1		M	hio		medium	margin line 3 word 1: h partly at the edge, minim, o = 'du'
+153r.14m	3.2		M	f:.rmxiW		medium	margin line 3 word 2: f, dot pair, small r, three minims, x, minim, W = c-o-n-s-e-i-l 'conseil'
+153r.all		zo	S			high	z inside the unit zo (all lines): small z on the line, no tail, throughout; reading takes u/v

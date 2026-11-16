@@ -1,0 +1,92 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+155v.01	2	+ppinnDx	T	+ppinnDr	[ainsi]	medium	"Signs seen: plus, p, p, 4-5 minims (i+nn or m+n, count unsure), tall double dagger, then a small raised round r-variant, not the big x. Key then gives ami/s/i/n, not ""ainsi"" (no order of these signs gives a-i-n-s-i) and not ""amisie""."
+155v.01	2	+ppinnDx	R		[ainsi]	low	"Reading ""ainsi"" is not supported by the signs: pp (m) is clear after the plus, and the word ends tall-dagger + r-variant."
+155v.02	2	xr	T	rx	[ne]	high	"Order is reversed in the transcription: first sign is the small round r-variant, second is the large x. Image gives n-e = ""ne"" as the reading has it."
+155v.02	7	Wzo+dnn	K		[mauvais]	medium	"Image matches the transcription sign for sign (double-loop W, z, o, plus, d, 4 minims). The d is the CROSS-TOPPED variant (see S row) which reads i elsewhere on this page, so the word is l-u-a-i-s; ""ma luais"" for ""mauvais"" looks like a scribe slip (W for a u-sign), not a transcription slip."
+155v.02	7	Wzo+dnn	S		[mauvais]	high	"d #1 in word: other: small loop whose ascender ends in a small x/cross at upper left (""cross-topped delta""); reading takes i (mauva-i-s)."
+155v.02	1	dS+rhxzoS	S		grandeur	high	d #1 in word: delta, the TALL form (large loop with a tall looped ascender, as tall as S); reading takes g.
+155v.04	2	DW+	S		a la	high	"D #1 in word: NOT the tall double dagger. A short sign: two long horizontal bars crossed by one short vertical, sitting on the line, no descender (""not-equal"" shape). Reading takes a. The tall descending double dagger in word 1 (SxQDSxS:Dm, twice) reads i."
+155v.04	2	DW+	K		a la	high	Image matches; the transcription code D covers two different signs (short barred = a, tall dagger = i). Key i is wrong for the short one.
+155v.05	5	QSxnngzoppdWx	S		treshumble	medium	d #1 in word: delta (small loop, ascender bar from upper left); reading takes b.
+155v.06	1	:dxdminn+rfx	S		obe[i]ssance	high	d #1 in word: delta with a straight bar from upper left; reading takes b.
+155v.06	1	:dxdminn+rfx	S		obe[i]ssance	high	d #2 in word: other: cross-topped delta (loop with a small x on top of the ascender), visibly different from d #1 two signs earlier; reading takes [i].
+155v.06	1	:dxdminn+rfx	K		obe[i]ssance	medium	"Signs as transcribed (minims 3+1+4 as far as can be counted). With cross-topped d = i the word is o-b-e-i-s-i-s-a-n-c-e; the bracketed i is on the image, the extra minim ""i"" between m and nn is a scribe spelling or a minim miscount."
+155v.06	2	D	S		a	high	D: short horizontal double-barred sign on the line (same as 04 word 2), not the tall dagger; reading takes a.
+155v.07	3	dS+rhxzoS	S		grandeur	high	d #1: delta, tall form with looped ascender; reading takes g.
+155v.07	4	Je	K		[me]	medium	"Image matches: long bar sloping down from upper left into a small delta loop, then a small c/e sign. Key ""si"" and reading ""me"" both unsupported. The J sign looks like the b-delta with a longer bar. Same group at 20 w5 and 22 w4; a single word-value fitting all three (e.g. ""vous"") is possible but not shown by the signs."
+155v.07	4	Je	S		[me]	medium	e #2 in word: small c/e-shape on the line, open to the right, no loop below seen.
+155v.08	2	Jn	K		"(dropped; reading has ""[co]"")"	medium	"Image matches: barred delta followed by two minims. The reading skips this word; its bracket [co] in ""commander"" is odd because f:pppp+rhxS (word 3) is fully there and gives ""commander""."
+155v.08	5	DzonnnnD	S		aussi	high	D #1 in word: short horizontal double-barred sign (a). D #2 at word end: tall descending double dagger (i). Both shapes in one word; reading takes a for the first.
+155v.08	6	dixr	S		bien	high	d #1: delta with a straight bar from upper left; reading takes b.
+155v.09	1	Dx+rQ	T	Dy+rQ	[estant]	high	Sign 2 is not x: it is the r/x-headed sign with a hooked tail well below the line (y = i). Sign 1 is the short double-barred sign (a). Image: a-i-a-n-t.
+155v.09	1	Dx+rQ	R		[estant]	high	"Signs give ""aiant"" (ayant): ""car aussi bien aiant lesdicts rebelles l auctorite de pardeca telle qu ils l ont, m ont ouste touts moyens"". ""estant"" is not on the page."
+155v.09	1	Dx+rQ	S		[estant]	high	D #1: short horizontal double-barred sign; value a.
+155v.09	3	SxdxWWxm	S		rebelles	medium	d #1: delta (small, bar from upper left); reading takes b.
+155v.09	4	W+zofQ:S7Qx	T	W+zofQ:SDQx	auctor[i]t[e]	medium	"The sign transcribed 7 has a cross bar through its stem and descends below the line: it looks like the tall double dagger (i), not the plain 7 of 12 w4 (+77+iSxm). Gives ""auctorite"". The final [e] of the reading is plainly on the image (x)."
+155v.10	2	H+Shxf+	M		de pardeca	low	Between hx and H+Shxf+ there is a looped double stroke (like two joined long s, or a doubled word slash) that the transcription does not show. Probably a separator or false start, not a letter.
+155v.10	3	QxWWx	M		telle	medium	A heavy ink blot sits between Qx and WWx (a cancelled sign); not marked in the transcription. Reading unaffected.
+155v.10	4	feS	K		[qu ils]	high	"Image matches: tall crossed f, small e/c loop, then a long s with a closed loop head. Three signs for a whole word; key ""cir"" is mechanical. Looks like a fixed group, not spelled letters."
+155v.10	4	feS	S		[qu ils]	medium	e #2 in word: small e/c loop on the line joined to the f. Third sign here is a looped long s, not a bare hook.
+155v.11	2	pp:xxrm	T	pp:yxrm	mo[y]ens	high	Sign 3 is the r-headed sign with a tail curling below the line (y), clearly unlike the x that follows it. Image: m-o-y-e-n-s.
+155v.11	6	s	U		[ny]	low	After the last word slash there is only a faint thin stroke and a horizontal line-filler dash. I cannot see a letter sign; possibly nothing is written there.
+155v.12	1	DzoWfzorxppxrQ	S		aulcunement	high	D #1: short horizontal double-barred sign, not the tall dagger; reading takes a.
+155v.13	1	+W+3+sh	R		[au] [h]asard	medium	"Signs are plus, W, plus, 3 (tail below), plus, looped long s, then the tall-stroke-plus-z sign (d): a-l-a-s-a-r-d = ""a l asard"". No u and no h on the image; the key output is the text."
+155v.13	1	+W+3+sh	T	+W+3+Sh	[au] [h]asard	low	The long s has a looped head (S rather than s); same key letter r. The last sign is the same tall stroke + z shape as the h of hx.
+155v.14	2	SxdxWWxnn	S		rebelles	medium	d #1: delta (small, bar from upper left); reading takes b.
+155v.15	4	f:ppH:nnDQixrm	T	f:ppH:nnDQi{xl}rm	compositi[o]ns	medium	The sign transcribed x after the minim is not the plain x: it is an x whose lower-left leg runs far below the line into a closed loop ({xl}). Same sign at 17 w2 and 18 w1. Here it stands where o is needed.
+155v.16	1	feS	K		[qu ils]	high	As 10 w4: f, e/c loop, looped long s.
+155v.16	1	feS	S		[qu ils]	medium	e #2 in word: small e/c loop on the line.
+155v.16	2	mixppxrQxppxm	M	mixppxrQ	[..]	high	"The image has only minims(3+1), x, p, p, x, r, circled sign, then the word slash and ""i+"". The five signs ""xppxm"" at the end of the transcribed word are not on the image at this place."
+155v.16	2	mixppxrQxppxm	R		[..]	medium	"What is on the image gives s-i-e-m-e-n-t = ""siement"" (sement): ""compositions qu ils sement et envoyent par tout ce pays""."
+155v.16	4	xrio:xxrQ	T	xrio:yxrQ	envo[y]ent	medium	Sign 6 has a loop/tail below the line (y), unlike the x after it. Image: e-n-v-o-y-e-n-t.
+155v.16	8	H+xm	T	H+ym	pa[y]s	medium	Sign 3 is r-headed with a tail below the line (y), not x. Image: p-a-y-s.
+155v.17	2	3xrnnQxS	T	{xl}rnnQxS	[..]	medium	The first two transcribed signs (3, x) look like ONE sign: an x whose lower-left leg descends into a closed loop ({xl}, as 15 w4 and 18 w1), not a z-headed 3 followed by a separate x. Then an r-like sign, 4 minims, circled sign, x, looped long s.
+155v.17	2	3xrnnQxS	U		[..]	low	"The sign after {xl} is blurred: r-variant or a compressed zo. If {xl} = o (as in compositions, bonne) the word is ""onster"" or ""ouster""; ""pour ouster le menu peuple de leur bonne voye"" would fit (cf. 10 w7 :zomQx ""ouste""), but I cannot confirm zo from the image."
+155v.18	1	dxrrx	T	d{xl}rrx	b[o]nne	medium	Sign 2 is the x with the long lower-left leg ending in a closed loop below the line ({xl}), not a plain x. With {xl} = o the word is b-o-n-n-e as the reading has it.
+155v.18	1	dxrrx	S		b[o]nne	high	d #1: delta with a long straight bar from the upper left into a small loop; reading takes b.
+155v.18	2	zo:xx	T	zo:yx	vo[y]e	medium	Sign 4 has a tail below the line (y); sign 5 is plain x. Image: v-o-y-e.
+155v.18	6	nndnnpp+QifTzoxnn	S		s[chi]smaticques	high	d #1: other: cross-topped delta (loop with a small x on the ascender); reading takes [chi].
+155v.18	6	nndnnpp+QifTzoxnn	R		s[chi]smaticques	medium	"Image matches the transcription. With cross-topped d = i the word is s-i-s-m-a-t-i-c-q-u-e-s, ""sismaticques""; no c or h is written."
+155v.19	3	dS+rhxzoS	S		grandeur	high	d #1: delta, tall form with looped ascender; reading takes g.
+155v.19	4	H:zosS4	T	H:zosS+	pourr[a]	medium	The last sign is a small plus on the line touching the loop of the second long s; I do not see a 4-shape (compare the large 4 = roy at the end of line 6). Image: p-o-u-r-r-a.
+155v.19	5	zox3iS	U		ve[o]ir	low	"Sign 3 is a heavier, larger x-like sign; I cannot see a z-head or a clear tail below the line, nor the closed loop of {xl}. Could be x, 3 or {xl}; if {xl} = o it would give ""ueoir""."
+155v.20	1	Q	K		[par]	medium	A large circle enclosing a crossed/x-like sign with a bar over it; larger than, and with a different inner sign from, the usual circled-minims Q (= t). Stands alone as a word. A separate sign or word-code, not t.
+155v.20	2	zord	S		ung	high	d #1: delta, tall form with a tall looped ascender; reading takes g.
+155v.20	3	h:zooWx	T	h:zodWx	dou[b]le	medium	"The second ""o"" has a long straight bar running into it from the upper left: it is the bar-delta (the b form, as in dixr and dxrrx), not a second o. Image: d-o-u-b-l-e."
+155v.20	5	Je	K		[j en]	medium	"Image matches: barred delta + small c/e sign, as 07 w4. Neither key ""si"" nor reading ""j en"" follows from the signs."
+155v.20	5	Je	S		[j en]	medium	e #2 in word: small c-shape on the line.
+155v.20	6	xrio:ex	S		envoie	medium	e #6 in word: small e-like sign with a short tail under the line; reading takes i.
+155v.20	7	feS	K		[qu ils]	high	As 10 w4: f, e/c loop, looped long s.
+155v.20	7	feS	S		[qu ils]	medium	e #2 in word: e/c loop joined to f.
+155v.20	8	DrQdQzoWxrQ	S		int[i]tulent	high	d #4 in word: other: cross-topped delta (loop with a small x on the ascender) between two circled signs; reading takes [i].
+155v.20	8	DrQdQzoWxrQ	K		int[i]tulent	high	Image matches the transcription; the fault is the key (d = u). This d shape reads i.
+155v.21	1	WxffhifQ	K		l edict	medium	Image matches (W, x, two tall f-strokes, h, minim, f, circled sign). Key and reading agree apart from the doubled e.
+155v.21	7	f:ppdixr	S		combien	medium	d #5 in word: delta with a bar from upper left; reading takes b.
+155v.22	2	fS:e	S		croi	medium	e #4 in word: e-like sign with a tail curling below the line; reading takes i.
+155v.22	4	Je	K		[s]	medium	Image matches: barred delta + small c sign, as 07 w4 and 20 w5.
+155v.22	4	Je	S		[s]	medium	e #2 in word: small c-shape on the line.
+155v.22	6	e	S		y	medium	e alone as a word: small e/c-shape; reading takes y.
+155v.22	7	xmQx	R		est	medium	"Image matches the transcription (x, minims, circled sign, x): ""este"" = este (past participle), ""en y este envoie"", not ""est""."
+155v.22	8	S[m]	T	[ffm]	[..]	medium	The strike line runs through the whole group including its first sign (an arched/looped tall sign, ff or S, I cannot tell which) and the minims. Nothing unstruck stands between xmQx and the last word, so the reading [..] is a deletion, not an unread word.
+155v.22	9	xrzo:e	T	xrzo:ex	envoi[e]	low	Faint, at the line end: after the dot pair I see an e-like sign followed by one more x-like sign. If so the final e of the reading is written.
+155v.22	9	xrzo:e	S		envoi[e]	low	e #6 in word: faint small e-shape; reading takes i.
+155v.25	2	+e	S		ay	medium	e #2 in word: e-like sign with a loop sweeping below the line; reading takes y.
+155v.25	5	WxSQSx	K		le[t]tre	medium	Image: W, x, a tall plain stroke without a loop head (s rather than S), circled sign, looped S, x. A long s where t is wanted: scribe slip; key r either way.
+155v.25	6	xmifS.HQx	K		escripte	low	Image matches as far as I can count: x, 3 minims, 1 minim, f, looped S, a small stroke, H, circled sign, x. The 3+1 minims may be one 4-minim group (nn = s), which would remove the stray i of the key output.
+155v.26	2	nnDdxxff	T	nnDdrxff	sig[n]ee	medium	The sign after the tall delta is the small round r-variant, then x, then the ff pair. Image: s-i-g-n-e-e.
+155v.26	2	nnDdxxff	S		sig[n]ee	high	d #4 in word: delta, tall form with looped ascender; reading takes g.
+155v.26	4	zordS	M	zord	ung	medium	After the tall delta there is the word slash and then a second separate thin stroke; I do not see a looped S sign as a fifth letter. Word is zord as at 20 w2.
+155v.26	4	zordS	S		ung	high	d #4 in word: delta, tall form with looped ascender; reading takes g.
+155v.26	5	d:zoSdx:dnn	S		bourgeo[i]s	high	d #1 in word: delta with a long bar from upper left (b form); reading takes b.
+155v.26	5	d:zoSdx:dnn	S		bourgeo[i]s	high	d #6 in word: delta, tall form with looped ascender; reading takes g.
+155v.26	5	d:zoSdx:dnn	S		bourgeo[i]s	high	d #9 in word: other: cross-topped delta (loop with small x on the ascender); reading takes [i]. All three d shapes occur in this one word.
+155v.26	5	d:zoSdx:dnn	K		bourgeo[i]s	high	Image matches the transcription; with cross-topped d = i the bracketed i is written.
+155v.27	2	h+dxr	S		d Agen	high	d #3 in word: delta, tall form with looped ascender; reading takes g.
+155v.27	3	g:ppx	K		ho[m]me	high	"Image matches: g, dot pair, p, p, x. One m sign only: ""home""."
+155v.27	4	hidrx	S		digne	high	d #3 in word: delta, tall form with looped ascender; reading takes g.
+155v.27	6	7:e	S		foi	medium	e #3 in word: e-like sign with a tail curling below the line; reading takes i.
+155v.28	2	dS+rhxzoS	S		grandeur	high	d #1: delta, tall form with looped ascender; reading takes g.
+155v.28	4	7	K		[f]-	medium	A single 7 at the line end followed by a dash; matches the transcription (word runs on to the next page).
+155v.page	0	(all zo)	S			medium	z: every z on this page is the first half of a zo unit; all sit on the line with no tail below. No free-standing z seen. 3 (tail below) occurs at 09 w2, 11 w1, 13 w1, 14 w1 and is correctly transcribed there.
+155v.page	0	(c)	S			high	c: the code c does not occur in the packet for this page (harmonised to e); the e occurrences are given in their own S rows.
+155v.page	0	(d, no hook)	S			medium	"d: no plain hook "")"" shape on this page; the fed group is written feS here (third sign a looped long s). The 23 d occurrences fall into three shapes: bar-delta (b), tall looped delta (g), cross-topped delta (i)."

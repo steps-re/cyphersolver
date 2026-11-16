@@ -1,0 +1,108 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+152r.01	1	lzxNNHzoxm	T	lzxNNHzoym	De[s]pu[i]s	high	sign 9 (after zo) is an x-head with a loop/tail below the line curling left = y, not x; gives depu-i-s
+152r.01	1	lzxNNHzoxm	K		De[s]pu[i]s	medium	NN = two reversed-N shapes, clearly as transcribed; the pair must stand for s like nn (key has N=n, so 'dennpues'). Same in 152r.07 Hs3xNNxrQ
+152r.01	1	lzxNNHzoxm	S		De[s]pu[i]s	medium	z #1 (in lz): on the line, no tail. 'lz' is the same glyph as h (tall stem + small zig at the foot), cf. hx in line 3; z in zo: on the line
+152r.02	2	xrio:.tm	U		envoi[ay]	low	x r i o :. then a tau-like sign with a hooked tail below the line (coded t; could be a y-type sign), then three minims written slightly raised. I cannot get 'ay' from it; ending looks like [tailed sign]+m
+152r.02	5	S+rhxzos	K		[g]randeur	medium	S is two signs written together: a delta with ascender curling up-right (the g-shape) + a long s with hook = g+r. Key S=r loses the g. One stem only
+152r.03	1	D77+isxm	S		affaires	medium	D #1: compact upright double-barred cross sitting on the line; reading takes a
+152r.03	2	hxH+shxft	T	hxH+shxf+	de pardeç[a]	high	last sign is a plain cross with a long right arm (+), not t; gives pardeca
+152r.03	3	yrQ	K		[ont]	medium	first sign is the o-form sign (X whose left leg runs down to a small closed loop at lower left; coded y, but not the same shape as the i/y sign = small x-head with a large open tail below); then small r, then Q. Signs as transcribed; value o not in key (y=i)
+152r.03	4	hDnnf:s3xzo	R		[couru]	high	h D nn f : s3 x zo all clear = d-i-s-c-o-r-e-u (discoreu/discouru); the reading drops 'dis'. D here is the long slanted form descending below the line (= i). ':' looks like three dots (:.)
+152r.04	2	Hym	S		pis	medium	y: small x-head with small loop below; reading i (not a d/z/c row, noted for the y/o-form contrast)
+152r.04	6	c+	S		et	high	c #1: tiny c/comma-like stroke joined to a cross with long right arm; looks like clear 'et'
+152r.05	1	+mmxppdWxffm	S		assemblees	high	d #7: delta, small loop with ascender leaning back to the upper LEFT; reading takes b
+152r.05	4	4+pp+dm	T	4+pp+ym	jama[i]s	medium	sign 5 is not a delta: a closed loop on the line with two arms spreading up (gamma/'8 open at top'), written raised; same shape in 152r.06 Hsxhdf+xQ where reading also has i. Probably a form of the y/i sign
+152r.05	4	4+pp+dm	S		jama[i]s	medium	d #5: other: closed loop on the line with two arms up (gamma-like), no ascender; reading takes i
+152r.05	5	c+	S		et	high	c #1: as line 4, looks like clear 'et'
+152r.05	6	cio3	K		[aux]	high	c i o 3 clear. c #1: plain small c on the line, reading takes a (key c=l). 3 has a long tail below the line, reading takes x
+152r.06	2	nn:WW:iQ	K		so[u]loit	medium	signs give s-o-ll-o-i-t; no sign for the u the reading inserts. Both o's look like three dots (:.)
+152r.06	3	Dio:is	S		avoir	medium	D #1: compact upright double-barred cross on the line; reading takes a
+152r.06	4	zoxd	T	zord	u[n]g	medium	sign 3 is the small compact dark r-form, not the long-tailed x; gives u-n-g
+152r.06	4	zoxd	S		u[n]g	high	d #4: delta, loop with tall ascender rising and curling to the upper RIGHT; reading takes g. z in zo on the line
+152r.06	5	Hsxhdf+xQ	T	Hsxhyf+rQ	pred[i]ca[n]t	medium	sign 5 is the gamma-like loop-with-two-arms (as in 4+pp+dm), not a delta; sign 8 looks like compact r rather than x (lower confidence)
+152r.06	5	Hsxhdf+xQ	S		pred[i]ca[n]t	medium	d #5: other: closed loop on the line with two arms up (gamma-like); reading takes i
+152r.06	6	Wx	T	box	[il]	medium	not the usual double-loop W: a b-like sign with a clear tall ascender, then o, then x with a long finishing stroke. Same in 152r.07 word 6, also read 'il'. Ordinary Wx = le (lines 14, 24) has no ascender
+152r.07	1	D	S		a	medium	D: compact upright double-barred cross on the line; reading takes a
+152r.07	2	Hs3xNNxrQ	K		pre[s]ent	medium	NN clear (two reversed-N shapes) = s, as in line 1; image matches transcription
+152r.07	3	hxio3	K		deu[x]	high	final 3 has a very long tail sweeping below the line; reading takes x. First sign is h written as stem + small z (same glyph as 'lz' of line 1)
+152r.07	4	ciomTzoxW3	K		ausquels	high	c #1: plain small c on the line, reading takes a. Final 3 with tail below, reading takes s
+152r.07	6	Wx	T	box	[il]	medium	b-like sign with tall ascender + o + x with long horizontal finishing stroke; not the double-loop W. See 152r.06 word 6
+152r.08	2	c	K		[a]	high	c: plain small c standing alone; reading takes a (key l). Image matches
+152r.08	3	hxio3	K		deu[x]	medium	final 3: z-head with a faint tail below the line; reading takes x
+152r.08	4	r:.Q+dWxm	S		notables	high	d #5: delta, small loop with ascender leaning to the upper LEFT; reading takes b
+152r.08	6	Tzox	K		qu[i]	high	last sign is a plain x (que); the reading's i is not on the page
+152r.08	8	DnnmDnnQxrQ	S		assistent	medium	D #1: compact upright double-barred cross on the line, reading a. D #5: taller, slanted, descending below the line (4-like), reading i. Two different shapes
+152r.09	1	yshDr+is3xppxrQ	K		[o]rdinairement	medium	first sign is the o-form sign (X whose left leg runs down to a small closed loop at lower left; coded y, but not the same shape as the i/y sign = small x-head with a large open tail below), as in yrQ = ont. Transcription fine; the sign needs its own code and value o
+152r.09	2	DioxfTzoxnn	S		avecques	medium	D #1: compact upright double-barred cross on the line; reading takes a
+152r.09	3	S+rh	K		[g]rand	medium	S = g-shaped delta + long s (g+r), as in line 2; then + r h. Image matches
+152r.09	4	nnzoxQQx	T	nnzoyQQx	su[y]te	high	sign after zo is an x-head with a large open loop below the line = y, not x
+152r.09	5	Tzox	K		qu[i]	high	plain x at the end (que)
+152r.10	6	c+	S		et	high	c #1: looks like clear 'et'
+152r.10	7	pp+h+pp:.?	U	pp+h+pp:.y	madamo[ise]lle	low	the ? sign is a small c/e-shaped head with a large open loop below the line, close to the y/i sign; WWx written above it. No separate s or e visible: looks like madamo-y-lle
+152r.11	2	d:xmmx	S		Boesse	high	d #1: delta, large, heavy ascender leaning to the upper LEFT; reading takes B. ':' is three dots
+152r.11	3	7Dfpppppx	M	7Dfppppx	f[e]mme	medium	I count four p stems, not five (pp pp = mm)
+152r.11	3	7Dfpppppx	U		f[e]mme	low	signs 2-3 are blotted/overwritten: a heavy crossed stroke then a crossed tall stroke with hook; could be ff (= e, giving f-e-mm-e) rather than D f, cannot decide
+152r.11	5	fiHHDQ+4rx	U		c[a]ppitaine	low	sign 2 looks like a short minim, but a white scratch in the film crosses exactly where the bar of a + would be
+152r.12	1	pp:.rQmxzoDdr+f	S		Montseignac	high	d #9: delta with tall ascender curling to the upper RIGHT; reading takes g
+152r.12	1	pp:.rQmxzoDdr+f	R		Montseignac	low	zo is clearly present after x: signs give Montse-u-ignac; the reading drops the u
+152r.13	5	s3xdxWWxm	S		rebelles	high	d #3: delta, small loop with ascender leaning to the upper LEFT; reading takes b
+152r.13	6	Dy+rQ	S		ayant	medium	D #1: compact upright double-barred cross on the line; reading takes a
+152r.14	4	ffrio:y:.Q	M	ffrio:y:.iQ	envoyo[i]t	medium	between the last dots and Q there is a small slanted/wavy stroke, read as a minim i; gives envoyoit
+152r.15	4	f:.ppH+idrDxm	S		compaignies	high	d #7: delta with tall ascender curling to the upper RIGHT; reading takes g
+152r.15	5	fz	U		[ont]	low	tall crossed f, then one or two small raised signs (z- or c-like), all over a long horizontal underline. Not legible. z: small, raised, no tail. The reading's 'ont' is really the next word (152r.16 yrQ), so this word has no counterpart in the reading
+152r.16	1	yrQ	K		[ont]	medium	first sign is the o-form sign (X whose left leg runs down to a small closed loop at lower left; coded y, but not the same shape as the i/y sign = small x-head with a large open tail below); then r, Q. Same word as 152r.03 word 3
+152r.16	2	Hs+QDfTzox	R		pra[c]tiqué	high	signs clear: p-r-a-t-i-c-q-u-e (praticque); the c stands before q, not before t
+152r.16	4	mxidrxzosm	S		seigneurs	high	d #4: delta with tall ascender curling to the upper RIGHT; reading takes g
+152r.16	5	x	U		[..]	low	an x with a long straight tail running down to the lower left; either a flourished x (e) or a y; no closed loop seen
+152r.16	6	on	T	dn	[..]	medium	the 'heavy diagonal stroke' is the ascender of a delta: round loop on the line with a long thick stroke rising to the upper LEFT, exactly the shape of d in m:zod3 (152r.18, soubz). So the word is left-leaning delta + two minims, not o n with a cancel stroke
+152r.17	4	pp+dxmQx	K		ma[j]esté	high	image matches. d #4: delta with ascender curling to the upper RIGHT (the g-shape); reading takes j
+152r.17	5	c+	S		et	high	c #1: looks like clear 'et'
+152r.17	6	Wzoy	K		lu[y]	high	last sign is x-head with large open tail below = y; image matches, key gives i
+152r.17	7	on	T	dn	[faire]	medium	as 152r.16 word 6: left-leaning delta with long heavy ascender + two minims. Nothing on the page spells 'faire'; reading is a guess from context (or the group is an abbreviation)
+152r.18	2	zoxd	R	zord	[veu]	medium	zo + compact r-form + delta with tall ascender curling RIGHT (g-shape) = u-n-g, the same word as 152r.06 and 152r.20: 'que ung chacun', not 'veu'
+152r.18	2	zoxd	S		[veu]	high	d #4: delta with tall ascender curling to the upper RIGHT (g-shape); reading takes u
+152r.18	7	m:zod3	K		soub[z]	medium	image matches. Final sign is 3-shaped, sits on the line with at most a very short tail; reading takes z
+152r.18	7	m:zod3	S		soub[z]	high	d #5: delta, round loop with long heavy ascender to the upper LEFT; reading takes b
+152r.19	1	W:dxDnnm+rf3x	S		l'obeissance	high	d #3: delta with ascender leaning to the upper LEFT; reading takes b. D #5 is the long slanted descending form (i)
+152r.19	1	W:dxDnnm+rf3x	T	W:dxDnnm+rfx	l'obeissance	low	the '3' between f and x is a round loop joining f's bar to x (an entry loop of x), not a z with tail; without it the key gives obeissance. Same in f3x (word 4) and Q3xris (152r.28)
+152r.19	4	f3x	T	fx	[ce]	low	tall crossed f, then x carrying a round entry loop on its left; no separate 3. Gives c-e
+152r.19	5	fed	R		[qui]	medium	same three signs as 152r.21 and 152r.28 where the reading has qu'ils; the verb that follows is plural (see word 6), so qu'ils here too
+152r.19	5	fed	S		[qui]	high	d #3: hook: tall narrow arch rising from the e and coming down on the right, no bottom loop; c-like sign #2 is a closed round e-loop
+152r.19	6	H:.zoss3WxQ	T	H:.zoss3yyxrQ	pourr[oit]	medium	after s3 I see: the o-form sign (X with left leg to a closed loop), then an x-head with open tail below (y), then x with a round entry loop, then compact r, then Q = pourr-o-y-e-n-t. No W. First y in my correction is the o-form
+152r.20	1	Dzo:ys	S		avoir	medium	D #1: compact upright double-barred cross on the line; reading takes a
+152r.20	3	fxzo	U		ce [qu'a]	low	a faint thin f-like stroke, then x written over a short heavy blot or cancelled sign with a hook below, then zo. Cannot say what is under the x; nothing visibly spells qu'a
+152r.20	5	Q+Q	K		ta[n]t	high	circled sign, cross, circled sign; no n. A dot stands above the cross (possible abbreviation mark)
+152r.20	7	zoxd	T	zord	[ung]	medium	sign 3 is the compact dark r-form; gives u-n-g
+152r.20	7	zoxd	S		[ung]	high	d #4: delta with very tall looped ascender curling to the upper RIGHT; reading takes g
+152r.21	1	Hs3x7isQ	T	Hs3y7ifQ	pr[of]it	high	sign after s3 is the o-form sign (X with left leg to a closed loop), not x; the sign before Q is a tall stem with a cross bar (f = c), not long s. Gives p-r-o-f-i-c-t (profict); the o-form is certain, f medium
+152r.21	2	H+sQDszoWxs	T	H+sQDfzoWixs	parti[c]ul[i]er	medium	sign after D has a cross bar (f = c), unlike the long s two signs earlier; a small minim stands between W and x. Gives particulier
+152r.21	3	fed	K		[qu'ils]	medium	tall crossed f, round e-loop, hook: as transcribed; a fixed group, not spelled by the key
+152r.21	3	fed	S		[qu'ils]	high	d #3: hook (tall narrow arch, no bottom loop)
+152r.22	1	ymQs3x	T	xmQs3x	[e]stre	low	first sign is an x with a long sweeping entry stroke from the far lower left; I see no closed loop and no tail under the head, so a flourished line-initial x rather than y
+152r.22	2	s3xmfxrQDm	K		res[s]entis	high	signs clear: r-e-s-c-e-n-t-i-s (rescentis); f is there, the reading normalises c to s
+152r.23	1	Widzox	S		ligue	high	d #3: delta with tall ascender curling to the upper RIGHT; reading takes g
+152r.23	2	hxnnhifQ3	S		desdicts	medium	final 3: 3-shaped, on the line, short tail; reading takes s
+152r.23	3	s3xdxWWxm	S		rebelles	high	d #3: delta, small loop with ascender leaning to the upper LEFT; reading takes b
+152r.24	1	D	S		A	medium	D: compact upright double-barred cross on the line; reading takes a
+152r.24	8	c+	S		et	high	c #1: looks like clear 'et'
+152r.25	1	S+xhxzos	K		[g]ra[n]deur	medium	S = g-shaped delta + long s (g+r), as line 2
+152r.25	1	S+xhxzos	T	S+rhxzos	[g]ra[n]deur	low	sign 3 looks like the compact r-form, as in the same word on line 2
+152r.25	4	fcs	S		car	high	c #2: plain small c on the line; reading takes a (key l)
+152r.26	5	on	T	dn	[..]	medium	third occurrence: left-leaning delta with long heavy ascender + two minims
+152r.26	6	3xsQ3	T	ysQ3	[..]	medium	the first two transcribed signs are one: the o-form sign (z-like top, closed loop below, X to its right), as in yrQ = ont. Then long s, Q, and a 3 on the line. Signs give o-r-t-s/z
+152r.26	7	+zodpfxrQxs	T	+zodppxrQxs	aug[m]enter	high	two p signs (each stem with a small bar, as pp in QxppHm on line 27), not p f; gives augmenter
+152r.26	7	+zodpfxrQxs	S		aug[m]enter	high	d #4: delta with tall ascender curling to the upper RIGHT; reading takes g
+152r.27	2	c+	S		et	high	c #1: looks like clear 'et'
+152r.27	3	S+idrxs	T	d+idrxs	[g]aigner	high	first sign is a g-shaped delta alone (loop with ascender curling right); there is no long s under it, unlike S in grand/grandeur. Gives g-a-i-g-n-e-r
+152r.27	3	S+idrxs	S		[g]aigner	high	d #4: delta with tall ascender curling to the upper RIGHT; reading takes g (and so does the first sign)
+152r.27	6	+zois	K		av[o]ir	high	+ zo i s only; no dots for o on the page
+152r.28	3	xmQs4rdyxsm	T	xmQs+rdyxsm	estr[a]ngiers	medium	the sign after the hooked long s is a small plain cross (+), not a 4-shape; gives estrangiers
+152r.28	3	xmQs4rdyxsm	S		estr[a]ngiers	high	d #7: delta with tall ascender curling to the upper RIGHT; reading takes g. The following 'y' is only a short tick
+152r.28	4	fed	K		[qu'ils]	medium	as transcribed; fixed group
+152r.28	4	fed	S		[qu'ils]	high	d #3: hook (tall narrow inverted-U arch, no bottom loop)
+152r.28	5	hD	M	hDnnxrQ	disent	medium	no word break: the stroke between hD and nnxrQ is the descender of a long s from line 27, not a separator
+152r.28	8	Q3xris	T	Qxris	tenir	medium	no 3: the x after Q carries a round entry loop; gives tenir
+152r.29	1	Dmmxios3xm	S		asseures	medium	D #1: compact upright double-barred cross on the line; reading takes a
+152r.all		zo / lz	S			medium	every z inside zo and lz on lines 1-29: small, on the line, no tail. Only tailed forms are the ones coded 3
+152r.all		D	S			medium	two shapes under D: compact upright double-barred cross on the line where the reading has a (lines 3,6,7,8,9,13,20,24,29); taller slanted 4-like cross descending below the line where it has i (hDnn, yshDr, W:dxD, fiHHDQ, H+sQD ...)
+152r.all		d	S			high	two delta shapes under d: ascender leaning upper LEFT = b (8 cases) and ascender curling upper RIGHT = g/j (12 cases), no exception on this page; plus the hook in fed (3) and a gamma-like i sign (2)

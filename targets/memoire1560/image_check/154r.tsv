@@ -1,0 +1,89 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+154r.01	3	d:.r	K		bon	high	signs as transcribed; d read b (key gives u)
+154r.01	3	d:.r	S		bon	high	d #1 in word: delta, b-type = small loop with a long STRAIGHT heavy ascender running to the upper left (no cross-stroke); reading takes b
+154r.01	6	Ddiom	K		abus	high	signs as transcribed; D (double-barred cross) read a, d read b
+154r.01	6	Ddiom	S		abus	medium	d #2 in word: delta, b-type (loop, ascender to upper left); reading takes b
+154r.01	6	Ddiom	S		abus	high	D #1 in word: clear double-barred cross; reading takes a
+154r.02	2	hx+ioWQ+rQ	M	h+ioWQ+rQ	d'aultant	medium	no x between h and +: image shows h (stem+arch) directly followed by +, io, W, Q, +, r, Q = "daultant"; transcription has one sign too many
+154r.02	4	D	R		y	medium	clear double-barred cross, the sign that is read a everywhere else on this page (11 times); signs give "quil a faict le semblable a Villeneufve", not "il y faict"
+154r.03	1	nnxppdW+dWx	K		semblable	high	as transcribed; both d read b
+154r.03	1	nnxppdW+dWx	S		semblable	high	d #1 (5th unit): delta b-type, loop + long straight heavy ascender to upper left; reading takes b
+154r.03	1	nnxppdW+dWx	S		semblable	high	d #2: same b-type delta; reading takes b
+154r.03	2	D	S		a	high	D: double-barred cross; reading takes a
+154r.03	4	pp:.rQ7W+4rTzo4r	T	pp:.rQ7W+rTzo4r	Montflanquin	medium	after W there is ONE crossed sign (a + crossed by the long descender of the f of line 2 above), then r, T, zo, 4, r. No separate 4 before r. Corrected word gives "montflanquin" exactly
+154r.03	5	?+	K		et	medium	a 2-/9-like curl followed by + with a long tail to the right; not a plain c; evidently a flourished form of the "et" group
+154r.04	1	czoWQs3xm	K		aultres	high	signs as transcribed (c zo W Q s 3 x m); key l is not the reading a
+154r.04	1	czoWQs3xm	S		aultres	high	c #1: plain small c on the line at word start; reading takes a
+154r.05	1	fa	K		Je	high	tall crossed f + small raised a, as transcribed; a two-sign word group read "je" (also 6.6, 12.2)
+154r.05	7	nnxm	R		ces	medium	image = nn x m as transcribed = "ses"; "sil a faict ses choses" makes sense, reading "ces" is not what the signs give
+154r.06	6	fa	K		je	high	same group as 5.1
+154r.07	1	zo:.WWxzo	K		voulleu	high	as transcribed: "uolleu", no second u-sign
+154r.07	2	7+iWWis3	T	7+iWWis	faillir	low	word ends in long s with its usual top hook; I see no separate 3 after it (same value r either way)
+154r.07	3	dc	R		d'en	low	a small loop with a very long heavy bar from the upper left, then a tiny c: same group as 21.3 where the reading has "je". A word code; context of both places ("faillir .. en donner advertissement", "dont cydevant .. ai envoie") fits one pronoun such as "vous", not d'en / je
+154r.07	3	dc	S		d'en	medium	d #1: other: small open loop with a very long straight heavy bar coming from the upper left (much longer than the b-type delta), meeting the word separator; reading takes a whole word
+154r.07	3	dc	S		d'en	medium	c #2: tiny c on the line after the barred loop
+154r.07	4	rx	U	xr	(en)	low	first glyph looks like the lighter x form without clear tail, second the compact dark r form (as in s4xr of line 1), i.e. possibly "xr" = en; not certain at this resolution
+154r.07	6	s+hioxsQDmmxppxQ	T	+hioxsQDmmxppxQ	advertissement	medium	between h:.rrx and + I see long s, a hooked 3-like stroke and the curved word separator: i.e. "h:.rrxs3 / +hiox...". No extra s begins this word
+154r.07	6	s+hioxsQDmmxppxQ	T	s+hioxsQdmmxppxQ	advertissement	medium	the sign coded D is not the double-barred cross: it is a small (ink-filled) loop with a curved ascender carrying a cross-stroke = the CROSSED delta seen at 11.2, 18.1, 18.6, 22.3, 23.2, always where the reading takes i
+154r.07	6	s+hioxsQDmmxppxQ	K		advertissem[en]t	high	end of word is x pp x with a circled n written above the line; no en signs: "aduertissemet" as written
+154r.08	1	H:.zos4x	T	H:.zosfx	pour [ce]	medium	after the hooked long s the crossed descending sign has a rounded top hooking right like f (compare the angular double-barred 4 followed by a separate f in 15.3); H :. zo s f x = "pource". No word separator between pour and ce
+154r.09	1	DzoxfTzoxnn	S		avecques	high	D #1: double-barred cross; reading takes a
+154r.09	2	xzoW3	K		eul[x]	high	as transcribed; last sign is a z with a clear tail below the line (3); reading takes x
+154r.09	3	fie	K		ils	medium	tall crossed f, dotted minim, then an x/r-headed sign with a long flat tail to the right (not a hook, not a c): a word group, the key cannot spell "ils" from it
+154r.10	1	Dppxrhxm	S		amendes	high	D #1: double-barred cross; reading takes a
+154r.10	2	DzoWfzorxppxrQ	S		aulcunement	high	D #1: double-barred cross; reading takes a
+154r.10	3	D4rm	S		ains	high	D #1: double-barred cross; reading takes a
+154r.11	2	7+pp?dnn	K		jamais	medium	first sign is a 7 with an extra cross-bar (not the plain 7 = f): a distinct sign, j fits; then +, pp, a heavy ink blot, crossed delta, two-minim group. With crossed delta = i (see 18.1, 22.3, 23.2) the word is "jam[blot]is" = jamais, the blot hiding one sign (a)
+154r.11	2	7+pp?dnn	S		jamais	medium	d: crossed delta (loop, curved ascender to upper left with a short cross-stroke at its top); reading takes i (of "ai")
+154r.12	1	Dzonnm4	S		aussi	high	D #1: double-barred cross; reading takes a
+154r.12	2	fa	K		je	high	same group as 5.1
+154r.12	8	c+	T	i+	et	low	first sign is a short back-slanted tick, not a c (key has i+ = et as well)
+154r.12	8	c+	S		et	medium	c #1: not c-shaped here: a short slanted tick before +
+154r.13	1	S+rhxzos	T	ds+rhxzos	[g]randeur	medium	the "S" is two signs: a loop with an ascender curling over to the RIGHT (the same g-shape as the d of 15.1 "ung"), then a hooked long s; then +. So the word is spelled g-r-a-n-d-e-u-r in full
+154r.13	2	xmQ3xnn	T	xmQxnn	estes	medium	x m circled-n x nn: no 3 between Q and x (a thin descender from line 12 passes the circle). Gives "estes"
+154r.13	6	Z	K		sieur	medium	one large looped and crossed sign, not the underlined Z of 1.4; a separate word code, reading "sieur" cannot be checked from the key
+154r.14	2	dis:.r	K		Biron	high	as transcribed; d read b
+154r.14	2	dis:.r	S		Biron	high	d #1: delta b-type, loop + long straight heavy ascender to the upper left; reading takes b
+154r.14	4	DWWyx	S		allie	high	D #1: double-barred cross; reading takes a
+154r.15	1	zord	K		ung	high	as transcribed; d read g
+154r.15	1	zord	S		ung	high	d #3: other: loop with an ascender that rises to the RIGHT and curls over (looped d, not the left-leaning delta); reading takes g
+154r.15	3	Hs4fiH+zoW3	K		pri[n]cipaul[x]	high	as transcribed (H, hooked s, angular double-barred 4, f, i, H, +, zo, W, 3 with tail). No n sign; final 3 read x
+154r.16	1	s3dxWWxm	T	s3xdxWWxm	r[e]belles	medium	between 3 and the delta there is a (smudged) x; the delta's long ascender runs back over it to the hook of s. s3 x d x W W x m = "rebelles" in full
+154r.16	1	s3dxWWxm	S		rebelles	medium	d: delta b-type (loop + long straight ascender to upper left, touching the s hook); reading takes b
+154r.17	6	f+zox	K		Ca[z]e	high	as transcribed: f + zo x = "caue"; no sign for z, the reading "La Caze" is not what the signs give ("La Caue/Cave")
+154r.18	1	f+HH4Q+drx	K		cappita[i]ne	high	as transcribed, but the d is the crossed delta, clearly unlike the 4 written in the same word at 17.4 and 19.7
+154r.18	1	f+HH4Q+drx	S		cappitaine	high	d: crossed delta (loop, curved ascender with a cross-stroke/fork at the top); reading takes i
+154r.18	6	f+HH4Q+drx	K		cappita[i]ne	high	same as 18.1
+154r.18	6	f+HH4Q+drx	S		cappitaine	high	d: crossed delta, as 18.1; reading takes i
+154r.19	2	d4shx	U	d+shx	B[o]rde	low	first sign is the right-curling looped d (g-shape of 15.1 and 13.1), not the b-delta: so not B. Second sign is a short cross with a diagonal lead-in (4-like) sitting on the line, unlike the long-stemmed 4 used elsewhere on the page; possibly +. Signs give "Girde" or "Garde"; "Borde" is unsupported
+154r.19	2	d4shx	S		Borde	medium	d #1: other: loop with ascender rising to the right and curling over (g-shape); reading takes B
+154r.19	4	zo4WWxrx	M	zo4WWxrxzo7zox	Villeneufve	low	no visible word separator between zo4WWxrx and zo7zox; looks like one word as on line 3
+154r.20	2	c+	S		et	medium	c #1: c-shaped curve with a small flag/serif at the top, then +
+154r.20	3	DzoWQs3xm	S		aultres	high	D #1: double-barred cross; reading takes a
+154r.20	6	s3dxWWxm	T	s3xdxWWxm	r[e]belles	medium	after the hooked s I see 3 joined to an x, then the delta, then x, W, W, x, m: three x in the word, "rebelles" in full
+154r.20	6	s3dxWWxm	S		rebelles	high	d: delta b-type, loop + straight heavy ascender to upper left; reading takes b
+154r.21	3	dc	R		je	low	same barred loop + c group as 7.3 (see there)
+154r.21	3	dc	S		je	high	d #1: other: small loop with a very long straight heavy bar from the upper left; reading takes a whole word
+154r.21	3	dc	S		je	high	c #2: tiny c on the line
+154r.21	7	h:.pp	T	r:.pp	[noms]	medium	first sign is the small compact r, not h: the tall stroke above it is the descender of a long s of line 20. r :. pp = "nom" (singular, no s sign)
+154r.22	2	Sphxf+	K		[par]deca	medium	a p-like sign enclosed in a large loop, then h x f +: the looped p is an abbreviation/code for "par"; not S + p
+154r.22	3	7+dnn+rQ	K		fa[i]sant	high	as transcribed; the d is the crossed delta
+154r.22	3	7+dnn+rQ	S		faisant	high	d: crossed delta (loop, ascender with a clear X-like cross-stroke at the top); reading takes i
+154r.23	1	Df:.nnQzoppxffnn	K		aco[u]stumees	high	as transcribed: "acostumees", no u sign
+154r.23	1	Df:.nnQzoppxffnn	S		acostumees	high	D #1: double-barred cross; reading takes a
+154r.23	2	s3xnndh+rnn	K		res[i]dans	high	as transcribed; the d is the crossed delta
+154r.23	2	s3xnndh+rnn	S		residans	high	d: crossed delta, loop + ascender with a clear cross-stroke; reading takes i
+154r.24	6	rxs4+f	T	rxs+f	Nerac	medium	r x, hooked long s, then directly a small + and f. The "4" is only the top hook of the s. Gives "nerac"
+154r.25	5	DHs3xmxrQ	S		a present	high	D #1: double-barred cross; reading takes a
+154r.26	1	c+	S		et	medium	c #1: c-shaped curve with a small flag at the top, then +
+154r.26	2	mx	T	my	se	medium	second sign has the large bowl/loop below the line like the y of mf+y (12.4): "my" = "s'y est faict conduire"
+154r.26	6	?h+rnn	K		[dans]	high	a heavy ink blot (deleted sign) stands before h + r nn; the word itself is "dans"
+154r.27	1	WxfQixs3x	R		l[i]ctiere	high	image has W x f Q i x s 3 x as transcribed = "lectiere"; the reading's i is not there
+154r.28	3	S+rhxzos	T	ds+rhxzos	[g]randeur	medium	as 13.1: right-curling looped d (g) followed by hooked long s, then +
+154r.28	4	Qs:.zoio:.Q	T	Qs:.zoio:.iQ	trouvo[i]t	medium	a small slanted minim/tick stands between :. and the final circled sign: "trouuoit"
+154r.28	5	d:.r	S		bon	high	d #1: delta b-type, loop + long straight heavy ascender to the upper left (meets the word separator); reading takes b
+154r.28	6	f	K		c[e]	medium	a short slanted stroke with a cross-bar, much smaller than the usual tall f; one sign only, no e
+154r.28	7	HxrhxrQ	K		pend[a]nt	medium	H x r h x r Q as transcribed = "pendent"; the vowel after h looks like x, not +
+154r.29	6	c+	T	i+	et	low	short back-slanted tick + plus, as at 12.8
+154r.29	6	c+	S		et	medium	c #1: not c-shaped: a short slanted tick before +
+154r.all	0	zo	S		u	high	z: every z on this page is the first half of a zo unit; all sit on the line with no tail. The tailed form (3) is correctly coded at 9.2, 15.3, 20.4 (word-final, read x/s) and in every s3

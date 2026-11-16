@@ -1,0 +1,288 @@
+# Mechanical decrypt: key.txt applied to transcription/*.txt sign by sign, nothing edited (mark_emendations.py).
+# Word codes in capitals; ? = a sign not in the key. Compare with reading_*.txt, where every departure is in [ ].
+152r.01	dennpuis les derniers aduertissemens
+152r.02	que enuois a uostre grandeur les
+152r.03	affaires depardeca ont discoreu de mal
+152r.04	en pis continuant les presches ET
+152r.05	assemblees plus que iamais ET lus uilles
+152r.06	ou solloit auoir ung predicaet ule en i a
+152r.07	a prennent deus lusquels presches ule
+152r.08	i l deus notables femmes que i assistent
+152r.09	ordinairement auecques grand suitte que
+152r.10	sont madame de castel pers ET madamo? lle
+152r.11	de boesse ficmme du cippitaine
+152r.12	montseuignac
+152r.13	urai est que les rebelles aiant entendu
+152r.14	que le ROY enuoioit pardeca le SIEUR de
+152r.15	termes auecques quelques compaignies cu
+152r.16	ont praticque quelques seigneurs e be
+152r.17	escripre a sa mageste ET lui be entendre
+152r.18	que ung chacun de pardeca uit soubs
+152r.19	lobeissancse du ROY cse ciu pourroient
+152r.20	auoir faict ceu rappourte tat POUR ung
+152r.21	profict particulier ciu se pourroient
+152r.22	istre rescentis que POUR estre de la
+152r.23	ligue desdicts rebelles
+152r.24	a quoi ne fault que le ROY ET uostre
+152r.25	graedeur sarreste aulcunement clr ne font
+152r.26	cella que POUR se be orts augmenter leurs
+152r.27	trouppes ET gaigner temps POUR auir secours
+152r.28	de quelques estrangiers ciu disent se tenir
+152r.29	asseures
+152v.01	ule est apresent facil les chastier ET POUR
+152v.02	laduenirr ce ne scli quil piurra estre POUR
+152v.03	les grandes factions ET menees ?r se i
+152v.04	briguent auecques beaucoup de qualite de
+152v.05	personnes
+152v.06	ta que soit urai pues peu de iours ule
+152v.07	cest faict une assemblee en la uille
+152v.08	de clairac ien ageneois denuiron deus
+152v.09	mil rebelles ou fust arreste ET
+152v.10	conclut que si le ROY enuoioit forrces
+152v.11	de pardeca ciu se mectroiient en deffence
+152v.12	disans ciu aiment mieuls mourir les
+152v.13	armes en main que si le ROY les faosoit
+152v.14	esecuter par ung borreau
+152v.15	leurs trouppes ET sectes augmenteit
+152v.16	touts les iours
+152v.17	uostre grandeur ne pourroit crore le
+152v.18	nombre de grands seigneurs ET noblesse r
+152v.19	ont intelligence auecques ceste canaille
+152v.20	urai est ciu ne se declairent poinct
+152v.21	mais cle i donnent toute la faueur
+152v.22	ET conseil ciu peuuent
+152v.23	le fraire du seigneur de caulmont est
+152v.24	SIEUR iiabbe dudict cleirac lesdicts de
+152v.25	caulmont nont seignurie place ni chasteau
+152v.26	ou cle ni aient de ministres ET quil ne
+152v.27	si face assemblee de rebelles
+152v.28	dequoi ai cideuant apeuerti uostre
+152v.29	grandeur
+152v.30	le iuge des terres dudict seigneur de
+152v.31	caulmont nomme reclus est parti POUR
+153r.01	aller en court lequel par les moien
+153r.02	desdicts de caulmont ET par la faueeur
+153r.03	du chief ule l este esleu POUR les raisons
+153r.04	quai cideuant escriptes l uostre
+153r.05	grandeur POUR lller be les remoustrances
+153r.06	des dolleances POUR le tiers estat du
+153r.07	pais dagennois auecques ung scindic
+153r.08	du pais dagennois nomme boissonade
+153r.09	lesquels sont a present pardela
+153r.10	cli pallieront ET dissimuleront la
+153r.11	uerite de toutes les choses ? POUR
+153r.12	sont passees pardeca
+153r.13	car fust arreste par le iugemaige
+153r.14	ET aultres magistrats du siege presidal
+153r.14m	asembles ?la chambre du conseil
+153r.15	daguen quil nestot besoing que lesdicts
+153r.16	delegue ET scindic remoustrassent la
+153r.17	toutalle uerte des choses POUR nirriter
+153r.18	le ROY ET euiter que sa mageste a
+153r.19	nesecutast sa rigueur sur ledict
+153r.20	pais dagennois
+153r.21	?si uostre grandeur trouuoit bon be ouir
+153r.22	particulierement lesdicts scindic ET delegue
+153r.23	entendres par leur bouche de grandes choses
+153r.24	quont discoreu audict pais dagennois
+153r.25	ledict iugemaigeest parti POUR sen allerudela
+153r.26	espressement POUR rselicter lesdicts scindic
+153r.27	ET delegue POUR leur be taiser la uerite
+153r.28	des choses disicoreues audict pais dagennois
+153r.29	uostre grandeur aduissera sil sera bon
+153r.30	de le surprendre sur le faict pendent
+153r.31	quil sera pardela sa lui be rendre raisoh
+153r.32	du deuir quil a faict en sa prouince uostre
+153v.01	grandeur a beaucoup de memoires contren lui
+153v.02	contenent les auus ET mal
+153v.03	uersations commises en son estat
+153v.04	de chief de prouince
+153v.05	ledinu reclus deleigue a la iudicature
+153v.06	POUR lesdicts seigneurs de caulmont dela
+153v.07	uille dethonens caulmont ET aultres
+153v.08	lieus ET places ciu t en toutes
+153v.09	lesqueliles i a ordinairement ministres
+153v.10	predicans au presche desquels ule a
+153v.11	assiste ET lui present se i est
+153v.12	faict assemblee de rebelles sil est
+153v.13	oui sur lesdicts faicts ie ne sicai
+153v.14	quelle raison ule pourra rendre du
+153v.15	debuoir de iustice quil i a faict
+153v.16	monsieur de uiron puis ung mons ule fist
+153v.17	une assemblee denuiron cinq cens soldats
+153v.18	la pluspart arcabosiers lesquels ule
+153v.19	disoit uouilloir conduire suiuant le
+153v.20	commandement du ROY en la uille de
+153v.21	uregeirac POUR gaigner le chasteau dicelle
+153v.22	ET esecuter sur les habitans quelque
+153v.23	commandement que sa mageste lauoit
+153v.24	charge toutesfois aiant faict ladicte
+153v.25	assemblee apres auoir communique aus
+153v.26	principauls habitans dudict brgsrac ule
+153v.27	en renuoia lesdicts soldits ET sen r
+153v.28	retourna en sa maison sans le lultre
+153v.29	esecution chose rn ne donne a presiumer
+154r.01	rien de bon POUR les abus que sei peuuent
+154r.02	commectre daultant quil a faict le
+154r.03	semblable a uilleneufue montflanquin ?a
+154r.04	lultres uilles suspectes de pardeca
+154r.05	ce ne scai sil a faict ses choses du
+154r.06	mandement du ROY ou uostre ce nai
+154r.07	uolleu faillir bl ne donner aduertissemet
+154r.08	pource que despuis quil a eu parlamente
+154r.09	auecques euls cii ne se sont
+154r.10	amendes aulcunement ains sont pis
+154r.11	que fam?is
+154r.12	aussi ce ne scai si le ROY ET uostre
+154r.13	grandeur estes aduertis que ledict POUR
+154r.14	de biron est allie de mesmi quest
+154r.15	ung des pricipauls cappitaines des
+154r.16	rebelles de pardeca
+154r.17	ledict mesmi le cappitaine la caue le
+154r.18	cappitaine iehan de mesmes le cappitaine
+154r.19	la girde de uillene ufue le cappitaine
+154r.20	chaulmont ET aultres chiefs des rebelles
+154r.21	dont cideuant bl ai enuoie leur nom
+154r.22	sont redeca faisant leurs menees
+154r.23	acostumees residans la pluspart du
+154r.24	temps en la uille de nerac mesmes
+154r.25	ledict mesmi i est apresent malade
+154r.26	ET si est faict conduire ?dans une
+154r.27	lectiere puis huict iours
+154r.28	si uostre grandeur trouuoit bon c pendent
+154r.29	que le chief est pardela ET quil se ueult dire
+154v.01	ignocent de la cospiration que le ROY luer
+154v.02	comandast de representer les susidicts
+154v.03	appitaines POUR lesse respondre t leur bouche attende
+154v.04	mesimes ciu sent reside cideuant aupres de la
+154v.05	personne dudict chief ET suite de sa court
+154v.06	en son gouuernement de guienne ET
+154v.07	resbdent apresent en sa uille de nerac
+154v.08	la pluspart du temps si sa mageste
+154v.09	faict ledict commandement se sera sien
+154v.10	le miien de les pouuoir recouurer
+154v.11	aultrement uie sera tresque difficil
+154v.12	aiants recouuerts les susdicts cappitai
+154v.13	iu ar le moiegs de la trouppe diceuls
+154v.14	la caue ET mesimi le ROY ara rscauir
+154v.15	parla entierement les conspirations
+154v.16	ET entreprinses faictes contresa
+154v.17	mageste s son roiaulme
+154v.18	monsieur de lbous fraire du SIEUR de montluc
+154v.19	sen ua en court uie est cimpose de mesme
+154v.20	humeur que seaucoup daultres que ueullent
+154v.21	seruir le ROY masques ce si en ai donne
+154v.22	cideuant aduertissement ET cui que le
+154v.23	ROY ET ustre grandeur ne si i fieres
+154v.24	ET aures entendu leurs menees ET
+154v.25	factions
+154v.26	ledict de liius pendent quil estoit
+154v.27	pardeca a faict de grands menassies a
+155r.01	ceuls qui font seruisse au ROY disant
+155r.02	quil nia personne quaie parle contre
+155r.03	le chief que iuant peu de temps ne lui
+155r.04	couste la uie
+155r.05	sa de pareilles menasses ET parolles
+155r.06	usent touts ceuls de la compaignie dudict
+155r.07	chief mesmes ceuls ri lauoient acompaigne
+155r.08	ison uoiaige de court lesquels sen
+155r.09	sont retournes de pardeca sa faisant
+155r.10	leur moustre dernier en la uille
+155r.11	dagen tenoient publiquement lesdicts
+155r.12	langdges
+155r.13	uie se font assemblees touts les
+155r.14	iours de rebelles dela pluspart desquelles
+155r.15	le cappitaine la caue est le conducteur
+155r.16	ET chief si le ROY nenuoie quelcun
+155r.17	pardeca POUR les chastier ce s ne faicts
+155r.18	doubte quil ni aie quelque grand trouble
+155r.19	ou inconuenient iladuenir
+155r.20	lesdicts rebelles mont rendu en tel
+155r.21	ostat que ce nause sourtir de ma
+155r.22	maison si ce nest de nuct ET font
+155r.23	courir le bruict que monsiueur de termes
+155r.24	ET ses compaignies que lons
+155r.25	disoit que uenoient pardeca ont este
+155r.26	contramandes POUR sen retourner chose
+155r.27	qua donne ung grand plaisir on
+155r.28	contentament ausdicts rebeles
+155r.29	eaia r POUR continuer leurs facti?s
+155v.01	si amisin es toit ET pensant que uostre
+155v.02	grandeur ne le trouua st ma luais POUR
+155v.03	la conseruation de ma uie ie me POUR
+155v.04	retirerois ala suicte de la court
+155v.05	POUR illec memploier en treshumble
+155v.06	obeisisance a tout ce que le ROY
+155v.07	ET uostre grandeur si plairoit
+155v.08	me se commander car aussi bien
+155v.09	aiant lesdicts rebelles lauctorite
+155v.10	de pardeca telle cir lont mont ouste
+155v.11	touts moiens de pouuoir pourueoir r
+155v.12	aulcunement a mes affaires si ce nest
+155v.13	alasard de ma uie
+155v.14	lesdicts rebelles continuent ET font
+155v.15	iournellement de nouuelles compositions
+155v.16	cir siement ET enuoient par tout ce pais
+155v.17	pour onster le menu peuple de leur
+155v.18	bonne uoie ET les rendre sismaticques
+155v.19	comme uostre grandeur pourra uesir
+155v.20	t ung double que si enuoie cir intitulent
+155v.21	leedict faict par dieu le pere combien
+155v.22	que croi quil si en i este enuoi
+155v.23	daillieurs
+155v.24	estant ce porteur prest a monter a
+155v.25	cheual ai receu une lertre esicripte
+155v.26	ET signee par ung bourgeois de la
+155v.27	uille dagen home digne de foi siurlaquele
+155v.28	uostre grandeur peult prendre f
+156r.01	fondement ET sil si plaist prendre
+156r.02	la peine de la ueoir trouueres que
+156r.03	contient aduertissemens de grand
+156r.04	consequance mesmes des desordres
+156r.05	que se commectent ET continuent
+156r.06	iornelement par ses rebelles de
+156r.07	tdeca il est besoing que le ROY iaf
+156r.08	uostre grandeur i pouruoie promptement
+156r.09	le langaeue que les rebelles tienent
+156r.10	entre euls amisin quai peu descouurr
+156r.11	est ciu ne taichent que a gaigner quelque
+156r.12	peu de temps POUR auoir le secours ciu
+156r.13	se tienent asseures dung prince ET
+156r.14	de quelques estrangiers du couste
+156r.15	de geneue ET cantons de soisises
+156r.16	entre les mains duquel prince
+156r.17	sasseurent mectre deus uilles
+156r.18	fortes ET de freintiere de ceste
+156r.19	guoenne il est tresnecessaire qee le
+156r.20	ROY ET uostre grandeur i auoies
+156r.21	dilligement si asseurant quel se i
+156r.22	faict de grands menees ET iuec telles
+156r.23	intelligences de tant dendroicts que
+156r.24	ie ne scai quil en pourra aduenir ie
+156r.25	nen auserois escripre plus auant
+156r.26	que ie ne sois mieuls certiore des
+156r.27	choses
+156r.28	monsieur de fumel quest mon prochain
+156r.29	uoisiin est arrriue de la court puis peu
+156r.30	de iours ET puis sadicte uenue il use
+156v.01	contre moi de grands menasses ie nai
+156v.02	peu scauoir les oeasiions ie auais
+156v.03	baille uu ung pacquet audict SIEUR de
+156v.04	fumel en sen allant ala court POUR le
+156v.05	faire tenir a uostre grandeur ou il
+156v.06	i auoit aduertissemens de grand
+156v.07	consequance ensemble une lectre
+156v.08	que le chief mauit escripte ie
+156v.09	supplie uostre grandeur me faire
+156v.10	aduertir si aues receu ledict
+156v.11	pacquet aduertissemens ET lectre
+156v.12	dudict chief
+156v.13	iai aussi receu presentement une
+156v.14	lectre du garde des sceauls du
+156v.15	sieue presidill de clhours laquelle
+156v.16	si enuoie ET k icelle uostre
+156v.17	grandeur pourra entendre les
+156v.18	desordres que se commectent
+156v.19	iournellement par les rebelles
+156v.20	es prouinces de pardeca
+157v.01	aduertissemens

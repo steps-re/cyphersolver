@@ -10,34 +10,38 @@
 #   3 is also used for a large z-like sign whose diagonal descends to an open loop at the lower left (lines 15, 17, 19)
 # Minim counts: the hand writes "uu" groups of 4 minims very often; these are given as "nn". A 3-minim group is "m".
 # Long ſ: "S" = ſ with a closed loop / ſ) / ſβ head; "s" = plain ſ with no loop.
-nnD +ppinnDx xnn Q:iQ i+ Hxrnn+rQ Tzox zo:nnQSx
-dS+rhxzoS xr Wx QS:zoio+ nnQ pp+ Wzo+dnn Z
+# 16 Nov 2026: every line re-checked against the full-resolution image (openapi.bnf.fr), one independent checker per page.
+# New codes (SIGNS.md): B = barred delta (b), G = tall curled delta (g), j = crossed delta (i), X = short double-barred
+# cross on the line (a), O = x-head on a closed loop or curl (o). d is kept for the hook of the group fed and for an
+# unclassified delta; D is now only the tall double dagger. Changes are listed in corrections_155v.tsv.
+nnD +ppinnDr xnn Q:iQ i+ Hxrnn+rQ Tzox zo:nnQSx
+GS+rhxzoS rx Wx QS:zoio+ nnQ pp+ Wzo+jnn Z
 W+ f:rmxSio+Qi:r hx pp+ zoDx Dx ppx Z
-SxQDSxS:Dm DW+ nnzoifQx hx W+ f:zoSQ
-Z DWWxf ppxppHW:ixS xr QSxnngzoppdWx
-:dxdminn+rfx D Q:zoQ fx Tzox Wx 4
-i+ zo:nnQSx dS+rhxzoS Je HW+iS:iQ
-ppx Jn f:pppp+rhxS f+S DzonnnnD dixr
-Dx+rQ WxnnhifQ3 SxdxWWxm W+zofQ:S7Qx
+SxQDSxS:Dm XW+ nnzoifQx hx W+ f:zoSQ
+Z DWWxf ppxppHW:ixS xr QSxnngzoppBWx
+:Bxjminn+rfx X Q:zoQ fx Tzox Wx 4
+i+ zo:nnQSx GS+rhxzoS Je HW+iS:iQ
+ppx Jn f:pppp+rhxS f+S XzonnnnD Bixr
+Xy+rQ WxnnhifQ3 SxBxWWxm W+zofQ:SDQx
 hx H+Shxf+ QxWWx feS W:rQ pp:rQ :zomQx
-Q:zoQ3 pp:xxrm hx H:zoio:iS H:zoSzox:iS s
-DzoWfzorxppxrQ + ppxm +77+iSxm mD fx rxmQ
+Q:zoQ3 pp:yxrm hx H:zoio:iS H:zoSzox:iS s
+XzoWfzorxppxrQ + ppxm +77+iSxm mD fx rxmQ
 +W+3+sh hx pp+ zoDx
-WxnnhifQ3 SxdxWWxnn f:rQDrzoxrQ i+ 7:rQ
-D:zoSrxWWxppxrQ hx r:zoioxWWxm f:ppH:nnDQixrm
-feS mixppxrQxppxm i+ xrio:xxrQ H+S Q:zoQ fx H+xm
-H:zoS 3xrnnQxS Wx ppxrio HxzoHWx hx WxzoS
-dxrrx zo:xx i+ Wxnn SxrhSx nndnnpp+QifTzoxnn
-f:ppppx zo:nnQSx dS+rhxzoS H:zosS4 zox3iS
-Q zord h:zooWx Tzox Je xrio:ex feS DrQdQzoWxrQ
-WxffhifQ 7+ifQ H+S hixzo Wx HxSx f:ppdixr
-Tzox fS:e TzoiW Je xr e xmQx S[m] xrzo:e
+WxnnhifQ3 SxBxWWxnn f:rQDrzoxrQ i+ 7:rQ
+D:zoSrxWWxppxrQ hx r:zoioxWWxm f:ppH:nnDQiOrm
+feS mixppxrQ i+ xrio:yxrQ H+S Q:zoQ fx H+ym
+H:zoS OrnnQxS Wx ppxrio HxzoHWx hx WxzoS
+BOrrx zo:yx i+ Wxnn SxrhSx nnjnnpp+QifTzoxnn
+f:ppppx zo:nnQSx GS+rhxzoS H:zosS+ zox3iS
+Q zorG h:zoBWx Tzox Je xrio:ex feS DrQjQzoWxrQ
+WxffhifQ 7+ifQ H+S hixzo Wx HxSx f:ppBixr
+Tzox fS:e TzoiW Je xr e xmQx [Sm] xrzo:e
 h+iWWixioSm
 ffmQ+rQ fx H:SQxzoS HSxmQ + pp:rQxS +
 fgxzo+W +e Sxfxzo zorx WxSQSx xmifS.HQx
-i+ nnDdxxff H+S zordS d:zoSdx:dnn hx W+
-zoDWWx h+dxr g:ppx hidrx hx 7:e mizoSW+TzoxWx
-zo:nnQSx dS+rhxzoS HxzoWQ HSxrhSx 7
+i+ nnDGrxff H+S zorG B:zoSGx:jnn hx W+
+zoDWWx h+Gxr g:ppx hiGrx hx 7:e mizoSW+TzoxWx
+zo:nnQSx GS+rhxzoS HxzoWQ HSxrhSx 7
 # line 1: "+ppinnDx" - a small tick before the minims, read as i
 # line 6: "minn" = a 3-minim group, a lone minim, then 4 minims; the ‡ is written alone between slashes
 # line 8: "DzonnnnD" - the minim run after "zo" is 7-8 strokes, count uncertain

@@ -1,0 +1,69 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+155r.01	1	fxzoWz	T	fxzoW3	ceul[x]	medium	last sign is a z whose lower stroke runs on into a long tail below the line (into the word slash): tailed z = 3, not z on the line; shape differs from the compact 3 of Q:zoQ3
+155r.01	1	fxzoWz	S		ceul[x]	medium	z #6: tail below the line; reading takes x
+155r.01	2	Tzod	T	TzoJ	qu[i]	medium	last sign is a delta whose ascender is crossed by a short stroke (x on top): same shape as the sign coded J in hJmm+rQ on this line; not the plain delta
+155r.01	2	Tzod	S		qu[i]	medium	d #4: other: delta with crossed ascender (= J shape); reading takes i
+155r.01	4	mxSzoDmmx	K		servi[c]e	medium	m x S zo D then about six minims and x: image matches; key gives seruisse, reading normalises ss to c
+155r.01	7	hJmm+rQ	T	hJnn+rQ	d[i]sant	medium	after the crossed delta only four minims (3+1), not six: nn (=s) rather than mm; with J=i gives disant
+155r.02	2	xW+	T	ry+	[n'a]	high	three signs: small r, then an x/epsilon-headed sign with a large open loop below the line (y, or the e sign), then +. No W double loop. Gives n-i-a = n'y a
+155r.03	4	Dio+rQ	K		avant	high	double-barred cross D clear, then i o + r Q; reading takes D as a
+155r.03	4	Dio+rQ	S		avant	high	D #1: clear double-barred cross; reading takes a
+155r.03	10	Wzoex	T	Wzoe	luy	medium	W z o then one epsilon sign with a tail flourish, then the slash; no separate x after it (compare zoex on line 4 where e and x are both written)
+155r.05	1	C+	K		[et]	high	large C with a small 2/z inside, then +: matches transcription; acts as a whole-word et (same again 155r.09); key has no C+ entry
+155r.06	3	fxioWz	T	fxioW3	ceul[x]	medium	final z has a clear tail curving below the line
+155r.06	3	fxioWz	S		ceul[x]	medium	z #6: tail below the line; reading takes x
+155r.06	6	f:ppH+idrDx	S		compaignie	medium	d #7: other: small loop at lower left with a tall arch rising and coming down on the right (not the left-curled delta); reading takes g
+155r.07	3	fxzoWz	T	fxzoW3	ceul[x]	medium	final z has a tail below the line
+155r.07	3	fxzoWz	S		ceul[x]	medium	z #6: tail below the line; reading takes x
+155r.07	4	Se	K		[qui]	medium	tall hooked S followed by an epsilon sign with a loop: matches transcription; two signs only, key gives ri; reading qui not given by the signs (possibly a word code)
+155r.07	6	+f:ppH+idrx	S		acompaigne	medium	d #8: other: loop with tall arch to the right (g form); reading takes g
+155r.08	1	Dm:r	K		[a] son	high	D m : r as transcribed; D clear double-barred cross, written slightly apart from m:r; reading takes D as the word a
+155r.08	1	Dm:r	S		[a] son	high	D #1: clear double-barred cross; reading takes a
+155r.08	2	zo:e+idx	S		voiaige	medium	d #6: other: loop with tall arch to the right (g form); reading takes g
+155r.09	1	mxrQ	U		s[o]nt	medium	m, then an x with a large closed loop hanging below the line (y-like), r, Q. Certainly no colon (o). Could be y (sint) or x with a flourish (sent); the same m+tailed-x is in zomxrQ 155r.06 (usent)
+155r.09	5	C+	K		[et]	high	large C with small z inside, then +: as transcribed; word code et
+155r.09	6	7+Jmm+rQ	T	7+Jnn+rQ	fa[i]sant	medium	7 + crossed delta, then four minims (3+1), + r Q: nn not mm; J = i gives faisant
+155r.10	2	pp:zomQSx	R		mo[n]stre	medium	pp : z o m Q S x as transcribed, zo clear: signs give moustre (a period spelling of monstre); the n of the reading is not in the cipher
+155r.11	1	h+dxr	S		d'Agen	high	d #3: other: small loop with tall arch over to the right, descending onto the x (g form); reading takes g
+155r.11	3	HzodWDTzoxppxrQ	S		publiquement	medium	d #4: delta, small loop with short ascender curled to the left; reading takes b
+155r.12	1	W+xdhdxm	T	W+rd+idxm	la[n]g[ai]ges	medium	sign 3 is the small boxy r, not x (fairly sure). Between the two g signs the transcribed h has no tall ascender: it looks like a + joined to a minim (+i), low confidence on that part. Gives langaiges
+155r.12	1	W+xdhdxm	S		la[n]g[ai]ges	high	d #4: other: loop with tall arch to the right (g form); reading takes g
+155r.12	1	W+xdhdxm	S		la[n]g[ai]ges	medium	d #6: other: small loop with a tall ascender hooked to the right at the top (g form variant); reading takes g
+155r.13	1	bex	U		[Q]ui	low	tall looped b-like sign, a small round c/e sign, then x or r; cannot tell what the first sign is; nothing like T (theta) is there
+155r.13	4	+mmxppdWxffm	S		assemblees	high	d #7: delta, small loop with ascender flicked up-left; reading takes b
+155r.14	3	SxdxWWxm	S		rebelles	high	d #3: delta with a long straight lead-in bar from the upper left (no cross on it); reading takes b
+155r.15	4	f+zox	K		Ca[z]e	high	f + z o x as transcribed (zo = u): signs give caue; z of the reading unsupported unless z and o are read as two signs
+155r.16	7	TzoxWfzox	T	TzoxWfzor	quelcu[n]	medium	last sign is the small boxy r without tail (compare the tailed x after Tzo in the same word): quelcun
+155r.17	4	fg+mQrS	T	fg+mQixS	chast[ie]r	medium	between Q and S there are two signs, a minim and a tailed x (ix), not one r; also 3+1 minims before Q (m, or nn). Gives chastier
+155r.17	5	fa	R		ce	medium	f with a small raised a: as transcribed. Same group in 155r.21 where the reading takes it as je; je fits here too (je ne faicts doubte)
+155r.17	6	Cx	T	C rx	se	medium	a large open bracket-like C (no small z inside, unlike C+), then two signs: small r and x. r is missing from the transcription. rx = ne: je ne faicts doubte qu'il n'y aie...
+155r.17	7	7+ifQ3	R		fai[ct]	high	7 + i f Q 3 all clear, 3 with tail: faicts; reading drops the s, which is right for first person (je ne faicts)
+155r.18	1	h:zodQx	S		doubte	high	d #5: delta with long lead-in bar from upper left; reading takes b
+155r.18	3	rx	T	ry	[n'y]	high	second sign is x/epsilon-headed with a large open loop below the line (same sign as in 155r.02 ry+): y = i, giving n'y
+155r.18	6	dS+rh	S		grand	medium	d #1: other: loop with tall ascender/arch (g form); reading takes g
+155r.18	7	QS:zodWx	S		trouble	medium	d #6: delta, small, left-curled (looks almost doubled with the preceding o); reading takes b
+155r.19	3	J	M		[a]	medium	the delta-like triangle is the end of the strike line through +W+ (struck +W+ plus a struck or cancelling delta); I do not see an independent word here. The a of the reading is the D that starts the next word
+155r.19	4	DW+hioxxeS	T	DW+hioxreS	l'adve[n]ir	medium	after io: tailed x, then small boxy r, then the epsilon sign, then S: x r e, not x x e. D clear double-barred cross = a: a l'advenir
+155r.19	4	DW+hioxxeS	S		[a] l'advenir	high	D #1: clear double-barred cross; reading needs a (a l'advenir)
+155r.20	2	SxdxWWxm	S		rebelles	medium	d #3: delta, small loop with left flick; reading takes b
+155r.20	4	Sxrhxio	T	Sxrhio	rendu	medium	S x r, tall h (upright plus its own small arch), then i o. The x after h in the transcription is the arch of the h; signs give rendu as the reading has it
+155r.21	3	fa	K		[je]	medium	f with raised a, as transcribed; a word code (je) not in the key
+155r.21	4	x+zomx	T	r+zomx	[n']ause	medium	first sign is the small boxy r, not x: n'ause
+155r.22	1	pp+Jnn:r	K		ma[i]son	high	pp + crossed delta, four minims, : r as transcribed; J = i (key has J = s)
+155r.22	7	rzofQ	K		nu[i]ct	medium	r z o f Q; only a short horizontal lead-in stroke of the f between o and f, no minim: signs give nuct
+155r.23	3	dSzoifQ	S		bruict	high	d #1: delta with long lead-in bar from upper left; reading takes b
+155r.23	5	pp:rmidxzoS	T	pp:rnnJxzoS	monsieur	low	after r: four minims (3+1) then a delta with a crossed top (J shape), x zo S. Read as nn J it gives monsieur exactly; as transcribed (m i d) it gives monsiueur
+155r.23	5	pp:rmidxzoS	S		monsieur	low	d #7: other: delta with crossed ascender (J shape); reading takes nothing extra (i if nn J)
+155r.24	3	f:ppH+Ddrixm	S		compaignies	medium	d #8: other: loop with tall arch (g form), preceded by a small sign crossed by a long diagonal bar (transcribed D); reading takes g
+155r.24	5	W:xm	T	W:rm	l'o[n]	medium	third sign is small boxy r, not x: W : r = l'on; it is followed by 3-4 short minims (m) that the reading ignores and I cannot explain
+155r.25	2	Tzox	R		qu[i]	high	T z o x clear, x with tail: que. Reading qui is not what is written
+155r.27	3	zord	S		ung	high	d #4: other: loop with tall arch (g form); reading takes g
+155r.27	4	dS+rh	S		grand	high	d #1: other: loop with tall arch (g form); reading takes g
+155r.27	5	HW+JnndS	T	HW+JnnJS	pla[i]s[i]r	medium	both delta signs carry a stroke across the ascender (the first blotted, the second with a bar from upper left crossing a short flick): J nn J = plaisir. Four minims between
+155r.27	5	HW+JnndS	S		pla[i]s[i]r	medium	d #7: other: delta with crossed ascender (J shape); reading takes i
+155r.27	6	:P	U		[et]	low	two dots (or a short dash with a dot), then a bar over two legs with a cross stroke; matches the transcription as far as it goes; cannot say what it is; not c+/i+
+155r.28	3	SdxiWxm	T	SxdxWxm	r[e]be[l]les	medium	S, a small x hooked to it, a dot, delta with long lead-in bar, x, one W, x, m: no minim i after the second x, and an x before the delta. Gives rebeles (one l)
+155r.28	3	SdxiWxm	S		r[e]be[l]les	high	d: delta with long lead-in bar from upper left; reading takes b
+155r.29	1	x+i+	T	i+	[..]	low	I see one group only: a small tick, a + with a dot above, possibly lightly struck; it looks like the et code i+ (as at 155r.16 and 155r.24 line starts), not four signs
+155r.29	2	S	M		[..]	medium	the struck word is W x zo + one more sign and the S stands at its end: looks like leur struck (S may belong to it), then Z (pour). So line = et [leur] pour continuer leurs factions
+155r.29	6	7+fQi?m	U		facti[on]s	medium	7 + f Q i then a blotted sign with a loop below the line, then m; the blot is not readable; room for one or two signs

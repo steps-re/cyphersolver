@@ -2,9 +2,9 @@
  "slug": "memoire1560",
  "anchor": "reading",
  "title": "Clairac, December 1560: two thousand rebels in arms",
- "caption": "BnF fr. 3157 f. 152v, lines 9-14, decoded sign by sign with the key rebuilt here. Each two-stroke unit (zo, pp, io, s3, lz) is one letter; Z, 4 and c+ are whole-word codes.",
+ "caption": "BnF fr. 3157 f. 152v, lines 9-14. Each tile shows the letter the key gives for the sign, with nothing edited. Amber tiles are where the published reading does not take that letter: a doubtful sign, a word sign read from context, or an emendation. The reading of these lines, with every departure in brackets: “mil rebelles, ou fust arresté et conclut que si le roy envoyoit forces de pardeça, [qu'ils] se mectroient en deffence, disans [qu'ils] aiment mieul[x] mourir les armes en main que si le roy les fa[i]soit e[x]ecuter par ung bo[u]rreau.”. Each two-stroke unit (zo, pp, io, s3, lz) is one letter; Z, 4 and c+ are whole-word codes.",
  "unit": "signs",
- "key_note": "Homophonic key rebuilt ciphertext-only (targets/memoire1560/key.txt); signs in words whose decrypt needs an emendation are marked uncertain.",
+ "key_note": "Homophonic key rebuilt ciphertext-only (targets/memoire1560/key.txt); amber marks each sign whose key letter the reading does not take.",
  "tokens": [
   {
    "g": "pp",
@@ -34,8 +34,8 @@
    "p": "e"
   },
   {
-   "g": "d",
-   "p": "u"
+   "g": "B",
+   "p": "b"
   },
   {
    "g": "x",
@@ -63,20 +63,13 @@
    "cls": "plain"
   },
   {
-   "g": "3",
-   "p": "s",
-   "cls": "unc",
+   "g": "O",
+   "p": "o",
    "w": 1
   },
   {
-   "g": "x",
-   "p": "e",
-   "cls": "unc"
-  },
-  {
    "g": "io",
-   "p": "u",
-   "cls": "unc"
+   "p": "u"
   },
   {
    "g": "",
@@ -250,48 +243,35 @@
   {
    "g": "x",
    "p": "e",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": "r",
-   "p": "n",
-   "cls": "unc"
+   "p": "n"
   },
   {
    "g": "zo",
-   "p": "u",
-   "cls": "unc"
+   "p": "u"
   },
   {
    "g": ":",
-   "p": "o",
-   "cls": "unc"
+   "p": "o"
   },
   {
-   "g": "r",
-   "p": "n",
-   "cls": "unc"
+   "g": "y",
+   "p": "i"
   },
   {
-   "g": "3",
-   "p": "s",
-   "cls": "unc"
-  },
-  {
-   "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "g": "O",
+   "p": "o"
   },
   {
    "g": "i",
-   "p": "i",
-   "cls": "unc"
+   "p": "i"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
+   "p": "t"
   },
   {
    "g": "",
@@ -301,13 +281,11 @@
   {
    "g": "7",
    "p": "f",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": ":",
-   "p": "o",
-   "cls": "unc"
+   "p": "o"
   },
   {
    "g": "s",
@@ -316,23 +294,19 @@
   },
   {
    "g": "s",
-   "p": "r",
-   "cls": "unc"
+   "p": "r"
   },
   {
    "g": "f",
-   "p": "c",
-   "cls": "unc"
+   "p": "c"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "m",
-   "p": "s",
-   "cls": "unc"
+   "p": "s"
   },
   {
    "g": "",
@@ -402,7 +376,7 @@
   {
    "g": "e",
    "p": "i",
-   "cls": "unc"
+   "w": 1
   },
   {
    "g": "d",
@@ -431,39 +405,27 @@
   {
    "g": "pp",
    "p": "m",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "f",
-   "p": "c",
-   "cls": "unc"
+   "p": "c"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
-  },
-  {
-   "g": "",
-   "p": " ",
-   "cls": "plain"
+   "p": "t"
   },
   {
    "g": "s",
-   "p": "r",
-   "cls": "unc",
-   "w": 1
+   "p": "r"
   },
   {
    "g": ":",
-   "p": "o",
-   "cls": "unc"
+   "p": "o"
   },
   {
    "g": "i",
@@ -472,23 +434,19 @@
   },
   {
    "g": "y",
-   "p": "i",
-   "cls": "unc"
+   "p": "i"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "r",
-   "p": "n",
-   "cls": "unc"
+   "p": "n"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
+   "p": "t"
   },
   {
    "g": "",
@@ -556,33 +514,27 @@
   {
    "g": "lz",
    "p": "d",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": "D",
-   "p": "i",
-   "cls": "unc"
+   "p": "i"
   },
   {
    "g": "m",
-   "p": "s",
-   "cls": "unc"
+   "p": "s"
   },
   {
    "g": "+",
-   "p": "a",
-   "cls": "unc"
+   "p": "a"
   },
   {
-   "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "g": "r",
+   "p": "n"
   },
   {
    "g": "m",
-   "p": "s",
-   "cls": "unc"
+   "p": "s"
   },
   {
    "g": "",
@@ -598,7 +550,7 @@
   {
    "g": "e",
    "p": "i",
-   "cls": "unc"
+   "w": 1
   },
   {
    "g": "d",
@@ -613,33 +565,27 @@
   {
    "g": "+",
    "p": "a",
-   "cls": "unc",
    "w": 1
   },
   {
-   "g": "r",
-   "p": "n",
-   "cls": "unc"
+   "g": "y",
+   "p": "i"
   },
   {
    "g": "pp",
-   "p": "m",
-   "cls": "unc"
+   "p": "m"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "r",
-   "p": "n",
-   "cls": "unc"
+   "p": "n"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
+   "p": "t"
   },
   {
    "g": "",
@@ -649,28 +595,23 @@
   {
    "g": "pp",
    "p": "m",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": "D",
-   "p": "i",
-   "cls": "unc"
+   "p": "i"
   },
   {
-   "g": "p",
-   "p": "e",
-   "cls": "unc"
+   "g": "x",
+   "p": "e"
   },
   {
    "g": "zo",
-   "p": "u",
-   "cls": "unc"
+   "p": "u"
   },
   {
    "g": "W",
-   "p": "l",
-   "cls": "unc"
+   "p": "l"
   },
   {
    "g": "3",
@@ -737,30 +678,25 @@
    "w": 1
   },
   {
-   "g": "D",
-   "p": "i",
-   "cls": "unc",
+   "g": "X",
+   "p": "a",
    "w": 1
   },
   {
    "g": "s",
-   "p": "r",
-   "cls": "unc"
+   "p": "r"
   },
   {
    "g": "pp",
-   "p": "m",
-   "cls": "unc"
+   "p": "m"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "m",
-   "p": "s",
-   "cls": "unc"
+   "p": "s"
   },
   {
    "g": "",
@@ -881,38 +817,32 @@
   {
    "g": "7",
    "p": "f",
-   "cls": "unc",
    "w": 1
   },
   {
    "g": "+",
-   "p": "a",
-   "cls": "unc"
+   "p": "a"
   },
   {
-   "g": "d",
-   "p": "u",
-   "cls": "unc"
-  },
-  {
-   "g": "m",
-   "p": "s",
-   "cls": "unc"
-  },
-  {
-   "g": ":",
+   "g": "O",
    "p": "o",
    "cls": "unc"
   },
   {
+   "g": "m",
+   "p": "s"
+  },
+  {
+   "g": ":",
+   "p": "o"
+  },
+  {
    "g": "i",
-   "p": "i",
-   "cls": "unc"
+   "p": "i"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
+   "p": "t"
   },
   {
    "g": "",
@@ -928,48 +858,36 @@
   {
    "g": "x",
    "p": "e",
-   "cls": "unc",
    "w": 1
   },
   {
-   "g": "z",
-   "p": "u",
+   "g": "3",
+   "p": "s",
    "cls": "unc"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "f",
-   "p": "c",
-   "cls": "unc"
+   "p": "c"
   },
   {
    "g": "zo",
-   "p": "u",
-   "cls": "unc"
+   "p": "u"
   },
   {
    "g": "Q",
-   "p": "t",
-   "cls": "unc"
+   "p": "t"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "s",
-   "p": "r",
-   "cls": "unc"
-  },
-  {
-   "g": "s",
-   "p": "r",
-   "cls": "unc"
+   "p": "r"
   },
   {
    "g": "",
@@ -1004,8 +922,8 @@
    "p": "n"
   },
   {
-   "g": "d",
-   "p": "u"
+   "g": "G",
+   "p": "g"
   },
   {
    "g": "",
@@ -1013,40 +931,33 @@
    "cls": "plain"
   },
   {
-   "g": "d",
-   "p": "u",
-   "cls": "unc",
+   "g": "B",
+   "p": "b",
    "w": 1
   },
   {
    "g": ":",
-   "p": "o",
-   "cls": "unc"
+   "p": "o"
   },
   {
    "g": "s",
-   "p": "r",
-   "cls": "unc"
+   "p": "r"
   },
   {
    "g": "s3",
-   "p": "r",
-   "cls": "unc"
+   "p": "r"
   },
   {
    "g": "x",
-   "p": "e",
-   "cls": "unc"
+   "p": "e"
   },
   {
    "g": "+",
-   "p": "a",
-   "cls": "unc"
+   "p": "a"
   },
   {
    "g": "zo",
-   "p": "u",
-   "cls": "unc"
+   "p": "u"
   },
   {
    "g": "",

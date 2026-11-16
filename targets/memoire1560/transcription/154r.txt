@@ -16,32 +16,36 @@
 # NEW code "y" (as on 152r/153v): x/r-headed sign whose stroke descends into a large loop below the line; it was coded "e" here.
 #   Reads i/y (s'y, sçay, n'ay, depuis, pis, allié, cydevant, envoyé, y est, conduire, puis). "e" is kept only where the image shows a
 #   different form: the e-shape with a long flat tail at the end of "ppxmppe" (Mesme, reads e) and the last sign of "fie" (line 9).
-s4xr hx d:.r Z Wxm Ddiom Tzox nnxy HxzoioxrQ
-f:.ppppxfQs3x hx+ioWQ+rQ TzoiW D 7+ifQ Wx
-nnxppdW+dWx D zo4WWxrxzo7zoff pp:.rQ7W+4rTzo4r ?+
+# 16 Nov 2026: every line re-checked against the full-resolution image (openapi.bnf.fr), one independent checker per page.
+# New codes (SIGNS.md): B = barred delta (b), G = tall curled delta (g), j = crossed delta (i), X = short double-barred
+# cross on the line (a), O = x-head on a closed loop or curl (o). d is kept for the hook of the group fed and for an
+# unclassified delta; D is now only the tall double dagger. Changes are listed in corrections_154r.tsv.
+s4xr hx B:.r Z Wxm XBiom Tzox nnxy HxzoioxrQ
+f:.ppppxfQs3x h+ioWQ+rQ TzoiW X 7+ifQ Wx
+nnxppBW+BWx X zo4WWxrxzo7zoff pp:.rQ7W+rTzo4r ?+
 czoWQs3xm zo4WWxm nnzonnHxfQxm hx H+shxf+
 fa rx mf+y m4W + 7+ifQ nnxm fg:.mxm hio
 pp+rhxppxrQ hio 4 :.zo zo:.mQs3x fa r+y
-zo:.WWxzo 7+iWWis3 dc rx h:.rrxs3 s+hioxsQDmmxppxQ
-H:.zos4x Tzox hxnnHzoynn TzoiW + xzo H+sW+ppxrQx
-DzoxfTzoxnn xzoW3 [??] fie rff nnx nn:.rQ
-Dppxrhxm DzoWfzorxppxrQ D4rm nn:.rQ Hynn
-Tzox 7+pp?dnn
-Dzonnm4 fa rx mf+y m4 Wx 4 c+ zo:.nnQs3x
-S+rhxzos xmQ3xnn +hioxsQ4m Tzox WxhifQ Z
-hx dis:.r xmQ DWWyx hx ppxmppe TzoxnnQ
-zord hxm Hs4fiH+zoW3 f+HH4Q+4rxm hxm
-s3dxWWxm hx H+shxf+
+zo:.WWxzo 7+iWWis3 Bc rx h:.rrxs3 +hioxsQjmmxppxQ
+H:.zosfx Tzox hxnnHzoynn TzoiW + xzo H+sW+ppxrQx
+XzoxfTzoxnn xzoW3 [??] fie rff nnx nn:.rQ
+Xppxrhxm XzoWfzorxppxrQ X4rm nn:.rQ Hynn
+Tzox 7+pp?jnn
+Xzonnm4 fa rx mf+y m4 Wx 4 c+ zo:.nnQs3x
+Gs+rhxzos xmQxnn +hioxsQ4m Tzox WxhifQ Z
+hx Bis:.r xmQ XWWyx hx ppxmppe TzoxnnQ
+zorG hxm Hs4fiH+zoW3 f+HH4Q+4rxm hxm
+s3xBxWWxm hx H+shxf+
 WxhifQ ppxmppe Wx f+HH4Q+4rx W+ f+zox Wx
-f+HH4Q+drx 4xg+r hx ppxmppxnn Wx f+HH4Q+drx
-W+ d4shx hx zo4WWxrx zo7zox Wx f+HH4Q+4rx
-fg+zoWpp:.rQ c+ DzoWQs3xm fgix73 hxm s3dxWWxm
-h:.rQ fyhxio+rQ dc +y xrio:.yx Wxzos h:.pp
-nn:.rQ Sphxf+ 7+dnn+rQ Wxzosnn ppxrxffnn
-Df:.nnQzoppxffnn s3xnndh+rnn W+ HWzomH+sQ hio
-QxppHnn xr W+ zo4WWx hx rxs4+f ppxnnppxnn
-WxhifQ ppxmppe y xmQ DHs3xmxrQ pp+W+hx
-c+ mx xnnQ 7+ifQ f:.rhioys3x ?h+rnn zorx
+f+HH4Q+jrx 4xg+r hx ppxmppxnn Wx f+HH4Q+jrx
+W+ G4shx hx zo4WWxrx zo7zox Wx f+HH4Q+4rx
+fg+zoWpp:.rQ c+ XzoWQs3xm fgix73 hxm s3xBxWWxm
+h:.rQ fyhxio+rQ Bc +y xrio:.yx Wxzos r:.pp
+nn:.rQ Sphxf+ 7+jnn+rQ Wxzosnn ppxrxffnn
+Xf:.nnQzoppxffnn s3xnnjh+rnn W+ HWzomH+sQ hio
+QxppHnn xr W+ zo4WWx hx rxs+f ppxnnppxnn
+WxhifQ ppxmppe y xmQ XHs3xmxrQ pp+W+hx
+c+ my xnnQ 7+ifQ f:.rhioys3x ?h+rnn zorx
 WxfQixs3x Hzoym gzo.fQ 4:.zosnn
-m4 zo:.mQs3x S+rhxzos Qs:.zoio:.Q d:.r f HxrhxrQ
+m4 zo:.mQs3x Gs+rhxzos Qs:.zoio:.iQ B:.r f HxrhxrQ
 Tzox Wx fgix7 xmQ H+shxW+ c+ TzoiW nnx zoxzoWQ his3x

@@ -10,25 +10,29 @@
 #   c = small ɛ-like sign (with or without a loop below the line)
 #   K = NEW: a large C/⊂-shaped curve enclosing an F/P-like sign (line 16, written alone between slashes;
 #       the same shape is cancelled on 156r line 20, transcribed there as [?])
-f:rQSx pp:e hx dS+rh3 ppxr+mmxnn Dx r+e
-Hxzo mf+zo:eS Wxm xff+miD:rm Dx Dzo+dnn
-d+iWWx zod zord H+fTzoxQ DzohifQ F hx
-7zoppxW xr nnxr DWW+rQ +W+ f:zoSQ Z Wx
-7+iSx QxrdS + zo:mQSx dS+rhxzoS :zo DW
-e Dzo:dQ +hioxSQDmmxppxrm hx dS+rh
-f:rmxTzo+rfx ffrmxppdWx zorx WxfQSx
+# 16 Nov 2026: every line re-checked against the full-resolution image (openapi.bnf.fr), one independent checker per page.
+# New codes (SIGNS.md): B = barred delta (b), G = tall curled delta (g), j = crossed delta (i), X = short double-barred
+# cross on the line (a), O = x-head on a closed loop or curl (o). d is kept for the hook of the group fed and for an
+# unclassified delta; D is now only the tall double dagger. Changes are listed in corrections_156v.tsv.
+f:rQSx pp:e hx GS+rh3 ppxr+mmxnn Dx r+e
+Hxzo mf+zo:eS Wxm Off+miD:rm Dx Xzo+jnn
+B+iWWx zod zorG H+fTzoxQ XzohifQ F hx
+7zoppxW xr nnxr XWW+rQ +W+ f:zoSQ Z Wx
+7+iSx QxrjS + zo:mQSx GS+rhxzoS :zo DW
+e Xzo:jQ +hioxSQDmmxppxrm hx GS+rh
+f:rmxTzo+rfx ffrmxppBWx zorx WxfQSx
 Tzox Wx fgix7 pp+zoiQ xmfSDHQx Dx
-[mmHH] nnzoHHWix zo:nnQSx dS+rhxzoS ppx 7+iSx
+[mmHH] nnzoHHWix zo:nnQSx GS+rhxzoS ppx 7+iSx
 +hioxSQDS mD +zox3 Sxfxzo WxhifQ
 H+fTzoxQ +hioxSQDmmxppxrm i+ WxfQSx
 hiohifQ fgix7
 D+e +zommD Sxfxzo HSxmxrQxppxrQ zorx
-WxfQSx hio d+Shx hxm mfx+zoW3 hzo
-nnDxdx HSxnnDhieW hx Deg:zoSm W+TzoxWWx
+WxfQSx hio G+Shx hxm mfx+zoW3 hzo
+nnDxdx HSxnnDhicW hx fcg:zoSm W+TzoxWWx
 Je xrio:ex e+ K DfxWWx zo:nnQSx
-dS+rhxzoS H:zoSS+ xrQxrhSx Wxm
+GS+rhxzoS H:zoSS+ xrQxrhSx Wxm
 hxm:ShSxm Tzox mx f:ppppxfQxrQ
-DxzoSrxWWxppxrQ H+S Wxm SxdxWWxm
+DOzoSrxWWxppxrQ H+S Wxm SxBxWWxm
 xm Hs:zoDrfxm hx H+Shxf+
 # line 1: in "dS+xh3" the h has a stroke through it; "ppxx+mmxnn": minim groups read as 3,3,(x),4
 # line 2: "xff+miD:xm" - a small tick after the three minims, read as i; a double slash "//" follows the word

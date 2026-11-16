@@ -45,3 +45,21 @@ Worked example, f.152r first lines (approximate):
     lzxNNHzoxmm [blot] Wxm hxsxDxsm +hioxsQDmmmxppsfxm
     Tzox xxio:zmm + [zox] zo:mmQsx Ss+xhxzos Wxnn
     D77+isxm hxH+shxft 3xxQ hDnnf:s3xzo hx pp+W
+
+## Codes added 16 Nov 2026 (image check of all ten pages)
+
+The first transcription used one code for signs that the manuscript keeps apart. They are now separate:
+
+| code | sign | value |
+|---|---|---|
+| B | barred delta: small loop with a long straight bar or ascender to the upper left | b |
+| G | tall delta whose ascender curls or loops over to the right, or a tall narrow S-shaped loop | g |
+| j | crossed delta: a loop whose ascender carries a small cross | i |
+| d | now only the plain hook of the group f-e-hook ("qu'ils"), and a delta that could not be classified | open |
+| X | short double-barred cross sitting on the line | a |
+| D | now only the tall double dagger that descends below the line | i |
+| O | x-head on a closed loop or over a z-like curl | o |
+| y | x- or r-headed sign with an open tail below the line | i |
+
+`Gs` replaces `S` where the sign is the tall delta followed by a separate long s ("gr"). On ff. 153r, 154r and 154v
+the checkers could not tell O from y; those pages keep y.

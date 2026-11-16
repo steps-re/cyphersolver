@@ -1,0 +1,65 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+156v.01	2	pp:e	S		moi	medium	e #4: epsilon-like sign with a long swash below the line; reading takes i
+156v.01	4	dS+rh3	S		grands	high	d #1 in word: other: tall narrow S-shaped ascender with a small hook/loop at the foot (no bar, not a ')' hook); reading takes g. The h has a blot/overwriting under its arch; final 3 has a clear tail
+156v.01	7	r+e	S		n'ai	high	e #3: epsilon-like sign with a long swash below running right; reading takes i
+156v.02	2	mf+zo:eS	S		scavoir	low	e #6: small epsilon-like sign, tail not clearly visible at this resolution; reading takes i
+156v.02	4	xff+miD:rm	T	<xt>ff+miD:rm	[occ]asions	medium	sign #1 is not a plain x: an x at line height whose lower-left leg drops into a tail ending in a flat loop/curl below the line. Same sign as 156v.19 word 1 sign 2, where the reading also takes o. It is NOT the compact X-on-a-loop sign (y = i) of lines 2, 5, 6. <xt> = x with long tail; proposed value o
+156v.02	4	xff+miD:rm	K		[occ]asions	high	the two f are two separate tall crossed f (c c), not the unit ff = e: o-c-c-a-s-i-i-o-n-s. Between m and D only a tiny dot-like minim (i); D here is tall and descending (i)
+156v.02	6	Dzo+dnn	T	Dzo+ynn	av[oi]s	high	sign #4 transcribed d is an X-shaped cross sitting directly on an open loop (the y sign = i), not a delta. With y = i and the short D = a the signs give a-v-a-i-s (avais); the reading's 'oi' is not there: sign #3 is a plain + (a)
+156v.02	6	Dzo+dnn	S		av[oi]s	high	d #4: other: X-head on an open loop (y); reading takes i (inside the bracket)
+156v.02	6	Dzo+dnn	S		av[oi]s	medium	D #1 reading a: short cross with two long horizontal bars, sitting on the line, not descending; clearly unlike the tall descending D of 'Dx' just before it
+156v.02	all	(zo units)	S			medium	z: 3 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.03	1	d+iWWx	S		baillé	high	d #1: other: barred delta, a long heavy bar sloping down from the upper left into a small loop; reading takes b
+156v.03	2	zod	R		[a]	low	the group is smeared (looks wiped while wet): z, a blurred o, then a small loop with a tall plain ascender slanting right. No clear slash between it and the next word. Looks like a false start of 'ung' (u+g) abandoned and rewritten; the reading's 'a' has no support in the signs
+156v.03	2	zod	S		[a]	low	d #3: other: small loop with a tall straight ascender slanting right (no curl at top), smudged
+156v.03	3	zord	S		ung	high	d #4: delta: small loop at the foot with a tall ascender ending in a loop/curl at the top; reading takes g
+156v.03	5	DzohifQ	S		audict	high	D #1 reading a: short cross with two long horizontal bars on the line, no descender (the same form as 156v.02 word 6)
+156v.03	5	DzohifQ	K		audict	medium	image matches the transcription apart from the D form; key gives i, reading a; the sign is the short on-line double-barred cross
+156v.03	all	(zo units)	S			medium	z: 4 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.04	4	DWW+rQ	S		allant	high	D #1 reading a: plus-minus shape, a small cross with a second bar below it, on the line, no descender; differs from the plain + (sign 4 of the same word, also a) only by the second bar
+156v.04	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.05	2	QxrdS	T	QxryS	ten[i]r	high	sign #4 transcribed d is an X-shaped cross on an open loop (y = i), not a delta: t-e-n-i-r as the reading has it
+156v.05	2	QxrdS	S		ten[i]r	high	d #4: other: X-head on an open loop (y); reading takes i
+156v.05	5	dS+rhxzoS	S		grandeur	high	d #1: other: tall narrow S-shaped ascender with small hook/loop at foot; reading takes g
+156v.05	all	(zo units)	S			medium	z: 3 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.06	1	e	S		y	high	e: epsilon-like sign with a large swash below the line; reading takes y
+156v.06	2	Dzo:dQ	T	Dzo:yQ	avo[i]t	medium	sign #4 transcribed d is the X-on-loop sign (y = i), blotted but the crossed head is visible; gives a-v-o-i-t as read
+156v.06	2	Dzo:dQ	S		avo[i]t	medium	d #4: other: X-head on a loop, heavily inked (y); reading takes i
+156v.06	2	Dzo:dQ	S		avo[i]t	medium	D #1 reading a: short double-barred cross, only a slight descender, much shorter than the D of 'Dx'
+156v.06	5	dS+rh	S		grand	high	d #1: other: tall narrow S-shaped ascender; reading takes g
+156v.06	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.07	2	ffrmxppdWx	S		ensemble	high	d #7: other: barred delta, long bar from the upper left into a small loop; reading takes b
+156v.07	4	WxfQSx	R		le[t]tre	high	image matches the transcription: W x f Q S x = l-e-c-t-r-e, the period spelling 'lectre'; the bracketed t is a modernisation, not a misfit
+156v.07	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.08	4	pp+zoiQ	U		m'av[o]it	low	between zo and the circled sign there is one small low wavy tick, neither two clear dots nor a clear minim; cannot tell i from a slurred ':' ; there is certainly only one sign, so 'oi' is not written
+156v.08	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.09	3	dS+rhxzoS	S		grandeur	high	d #1: other: tall narrow S-shaped ascender; reading takes g
+156v.09	all	(zo units)	S			medium	z: 3 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.10	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.11	4	WxfQSx	R		le[t]tre	high	as 156v.07: signs give 'lectre'
+156v.11	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.13	1	D+e	S		j'ai	high	e #3: epsilon-like sign with swash below; reading takes i
+156v.13	all	(zo units)	S			medium	z: 3 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.14	1	WxfQSx	R		le[t]tre	high	as 156v.07: signs give 'lectre'
+156v.14	3	d+Shx	S		garde	high	d #1: other: tall narrow S-shaped ascender with a small closed loop at the foot (the same sign as in dS+rh); reading takes g
+156v.14	5	mfx+zoW3	K		sceaul[x]	high	image matches: last sign is a z with a large tail swinging below the line (3); 3 at word end standing for x
+156v.14	5	mfx+zoW3	S		sceaul[x]	high	3 #8: z with a long tail below the line (not a z on the line)
+156v.14	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.15	1	nnDxdx	S		siege	medium	d #5: delta: small loop at the foot with a tall ascender rising to the right, smaller than the S-shaped form; reading takes g
+156v.15	2	HSxnnDhieW	T	HSxnnDhicW	presidi[a]l	medium	the sign before W is a plain small c on the line with no swash or loop below, unlike the swashed epsilon (e = i/y) of lines 1, 6, 13, 16. Reading takes a; the same plain c stands for a in word 4
+156v.15	2	HSxnnDhieW	S		presidi[a]l	medium	c/e #9: plain small c, on the line, no tail; reading takes a
+156v.15	4	Deg:zoSm	T	fcg:zoSm	[C]ahors	medium	sign #1 is a tall crossed stroke with ONE bar and a curl at the top, descending (an f = c), blotted, not the double-barred D. Sign #2 is a plain small c without tail (a). Gives c-a-h-o-u-r-s (Cahours)
+156v.15	4	Deg:zoSm	S		[C]ahors	medium	D #1 reading C: not a D, an f (single bar, curled top); c/e #2: plain small c, no tail; reading takes a
+156v.15	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.16	1	Je	U		[vous]	medium	sign #1 is the barred delta, the same form as the d read b in 156v.03, 156v.07 and 156v.19; sign #2 is a small o with a flick to the right, not the swashed epsilon. The signs do not give 'vous'; possibly a code word. Cannot say what it is
+156v.16	2	xrio:ex	S		envoie	high	e #6: epsilon-like sign with a large loop/swash below; reading takes i
+156v.16	3	e+	S		et	high	e #1: wide shallow epsilon/open curve on the line, no swash; whole-word 'et' with +
+156v.16	4	K	K		[par]	medium	image matches the description: a large C-shaped curve enclosing a P/F-like sign with a cross bar, alone between slashes. A single symbol, no letters; 'par' is a guess from context
+156v.16	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.17	1	dS+rhxzoS	S		grandeur	high	d #1: other: tall narrow S-shaped ascender; reading takes g
+156v.17	all	(zo units)	S			medium	z: 2 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.18	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.19	1	DxzoSrxWWxppxrQ	T	D<xt>zoSrxWWxppxrQ	j[o]urnellement	medium	sign #2 is not a plain x: an x whose lower leg drops into a tail with a 3-like curl below the line. Same sign as 156v.02 word 4 sign 1; in both places the reading takes o. So j-o-u-r-n-e-l-l-e-m-e-n-t fits if <xt> = o
+156v.19	4	SxdxWWxm	S		rebelles	high	d #3: other: barred delta, long bar from the upper left into a small loop; reading takes b
+156v.19	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.
+156v.20	all	(zo units)	S			medium	z: 1 occurrence(s) on this line, all inside the unit zo (u/v); each is a small z on the line with no tail below. No lone z on the line.

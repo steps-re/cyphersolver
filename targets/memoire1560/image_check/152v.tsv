@@ -1,0 +1,111 @@
+line	word_no	cipher_word	class	corrected_cipher_word	reading_word	confidence	what_you_see
+152v.01	1	bcx	U		[Il]	medium	b, a small raised c-like sign, x, then a short double horizontal stroke (z-like '=') joined to the x; the same four-part group recurs at 152v.06 w9 and, with f for b, at 152v.21 w2 and 152v.26 w2. Possibly bcxz; value not settled
+152v.01	3	+Hs3xmxxrQ	T	+Hs3xmxrQ	apresent	medium	after long-s+3 I count x, three minims, one tailed x, one small bold r, circle: one x fewer than transcribed; gives 'apresent' without the doubled e
+152v.01	1	bcx	S		[Il]	medium	c #2 in word: small raised c with a dot-like body, not the wave-shaped c of 'c+'; reading takes l (bracketed)
+152v.01	7	c+	S		et	medium	c #1 in word: low wave/tilde-like stroke before the cross, unlike the small raised c of bcx; whole-word et
+152v.02	2	fa	K		[je]	high	tall crossed f with a small raised a: matches transcription; key gives 'ce', reading 'je' is not what the signs give
+152v.02	4	mfce	K		[scai]	medium	three minims, tall f, small raised c, large e-sign with looped descender: matches; reading needs c = a here
+152v.02	4	mfce	S		[scai]	medium	c #3 in word: small raised c (same form as in bcx); reading takes a
+152v.02	6	H.zoss4	T	H.zoss+	p[o]urr[a]	medium	last sign is a small cross preceded by the hook of the second long s (the 's+' flag form), not a separate 4: gives ...rra; the tall stroke after H is the descender of f from line 1, one dot only before zo, so '.' stands where o is wanted
+152v.03	2	dSs+rhxm	T	ds+rhxm	grandes	medium	one tall looped ascender fused to one long s with the cross flag; d and S are the same stroke counted twice (same group as 152v.17 w2, 152v.29); removes the key's doubled r
+152v.03	2	dSs+rhxm	S		grandes	high	d #1 in word: other: tall narrow closed loop rising to the right (like a looped l), not a delta; reading takes g
+152v.03	4	c+	S		et	medium	c #1: wave-like stroke; et
+152v.03	6	?s3	K		[qui]	medium	ink blot, then a heavy long s with a 2-shaped stroke on a long horizontal foot attached at its base: one composite sign, identical to 152v.18 w8, both read qui; not in the key
+152v.03	7	nnx	T	mx	se	low	three minims before x rather than two pairs (same letter s either way)
+152v.04	1	dsidzoxrQ	R		[trouvent]	medium	signs are as transcribed: delta, long s, minim, tall loop, zo, x, r, circle; with delta = b and tall loop = g this is b-r-i-g-u-e-n-t 'briguent', not 'trouvent' (no circle-t at the start, no o)
+152v.04	1	dsidzoxrQ	S		[trouvent]	high	d #1 in word: delta, small bowl with a long straight ascender slanting up to the LEFT; reading takes t (signs suggest b)
+152v.04	1	dsidzoxrQ	S		[trouvent]	medium	d #4 in word: other: tall narrow loop rising to the right; reading takes u/v (signs suggest g)
+152v.04	2	Dzoxf	M	DzoxfTzoxm	avecques	medium	no divider stroke between f and theta: words 2 and 3 are one word 'avecques'
+152v.04	2	Dzoxf	S		avec	high	D #1: clear double-barred cross; reading takes a
+152v.04	4	ox+zof:zoH	T	dx+zof:zoH	[b]eaucoup	high	first sign is a delta: small bowl with a heavy straight ascender slanting up-left (taken as o, the stroke ignored); gives the b the reading wants
+152v.04	4	ox+zof:zoH	S		[b]eaucoup	high	d (transcribed o) #1: delta with heavy leftward ascender; reading takes b
+152v.05	1	Hxsm:xrxm	T	Hxsm:rrxm	perso[n]nes	medium	after the two dots: two small bold r-forms, then tailed x, then three minims; first of them is r not x: personnes
+152v.06	1	Q+	R		[..]	low	a large C-shaped flourish enclosing a 2/z-like stroke, then a cross: not a circled sign; looks like an enlarged paragraph-initial form of 'c+' = Et ('Et que soit vray')
+152v.06	4	zos+r	T	zos+y	vra[y]	high	last sign has the x-head with a curled tail below, same as the y of m:yQ just before it and the last sign of 152v.20 w1: vray/vrai
+152v.06	5	Hzoxm	K		pu[i]s	medium	H, zo, x, three minims as transcribed: the cipher has 'pues'
+152v.06	9	bcx	U		[il]	medium	same group as 152v.01 w1: b, small raised c, x with trailing double stroke
+152v.06	9	bcx	S		[il]	medium	c #2: small raised c
+152v.07	1	fxnnQ	K		[s]'est	high	tall crossed f clearly: cipher has c'est, the reading's s is not there
+152v.07	4	+mmxppd	M	+mmxppdWxff	assembl[ee]	medium	no divider between the delta and the double loop: words 4 and 5 are one word
+152v.07	5	W3ss	T	Wxff	assembl[ee]	medium	after the double loop: an x-like sign on the line with extra cross strokes (no tail below, not 3), then two downstrokes joined by an arch with a flag, the same build as the 'ff' (= e) that opens the next word: assemblee
+152v.07	4	+mmxppd	S		assemb	high	d #7: delta, bowl with a heavy straight ascender up-left (the 'cancel stroke' of the header note is this ascender); reading takes b
+152v.08	2	fW+rs+f	T	fW+ys+f	Cla[i]rac	high	4th sign has the x-head with a hooked tail below (y), not the small bold r: Clairac
+152v.08	3	.xr	K		en	medium	a dot stands before x r; no letter wanted there
+152v.08	4	+dxrx:rm	T	+dxrx:ym	Ageno[i]s	medium	sign after the two dots has a looped tail below (y), not r. The three small signs after the tall loop are unclear (x r r or x r x): one more sign than 'Agenois' needs
+152v.08	4	+dxrx:rm	S		Agenois	high	d #2: other: tall narrow closed loop rising right; reading takes g
+152v.08	5	lzxrioDs:x	T	lzxrioDs:r	enviro[n]	high	last sign is the small bold r-form without tail, not x
+152v.08	5	lzxrioDs:x	S		d'	high	z #2: on the line, a short double stroke; lz = d
+152v.08	6	hxzoz	T	hxzo3	deu[x]	high	last sign is z with a long tail swept below the line and to the right
+152v.08	6	hxzoz	S		deu[x]	high	z #5 (final): has a long tail below the line, i.e. 3; reading takes x. (z #3 in zo: on the line)
+152v.09	2	s3xdxWWxm	S		rebelles	high	d #4: delta, small bowl with ascender up-left; reading takes b
+152v.09	3	3xio	K		[ou]	medium	first two codes are one composite sign: an x-head standing on a large 2/3-shaped base with a tail to the left; the same sign at 152v.10 w6, 17 w4, 19 w1, 25 w1, 26 w1 always where o is wanted. Then minim + o (u): 'ou'. Not in the key as a unit
+152v.09	6	c+	S		et	medium	c #1: wave-like stroke; et
+152v.10	6	xrzo:r3xiQ	T	xrzo:y3xiQ	envo[yo]it	medium	sign after the two dots has a looped tail below (y), not r; then the composite x-on-3 sign (o), minim, circle: e-n-v-o-y-o-i-t. Part of the word is under a white spot
+152v.10	6	xrzo:r3xiQ	K		envo[yo]it	medium	'3x' here is the composite o-sign of 152v.09 w3, not s+e
+152v.11	1	lzx	S		de	high	z #2: on the line
+152v.11	3	fed	K		[qu'ils]	medium	three signs as transcribed in number, but none is the usual form: see shape rows; value not from key
+152v.11	3	fed	S		[qu'ils]	medium	d #3: hook: a tall ')' stroke starting above the middle sign and descending below the line, no closed loop. Sign 1 is not the usual f: a crossed upright whose top curls to the LEFT; sign 2 is an open c/e-shape
+152v.11	5	ppxfQ	M	ppxfQs:iyxrQ	mect[r]oient	medium	no divider between the circle and the long s: words 5 and 6 are one word mectroient (the r is in the cipher)
+152v.12	1	lzDm+xm	T	lzDm+rm	disa[n]s	high	6th sign is the small bold r-form without tail: disans
+152v.12	1	lzDm+xm	S		di	high	z #2: on the line
+152v.12	2	fed	S		[qu'ils]	medium	d #3: hook, tall narrow, rising above the c/e-shape and falling below the line; sign 1 again the left-curled crossed upright
+152v.12	4	ppDpzoW3	T	ppDxzoW3	mieul[x]	medium	4th sign is an x crossed by the descender of the long s of line 11, which makes it look like p: m-i-e-u-l
+152v.12	4	ppDpzoW3	K		mieul[x]	high	final sign is 3 with tail below, clear: 3 stands for x at word end
+152v.13	1	Dsppxm	K		armes	high	double-barred cross clear: D stands for a here
+152v.13	1	Dsppxm	S		armes	high	D #1: double-barred cross, same shape as D = i elsewhere; reading takes a
+152v.13	9	7+dm:iQ	T	7+ym:iQ	fa[i]soit	medium	3rd sign has two short arms above a closed loop (x/y-head with loop below), not a delta with one ascender: y = i, faisoit
+152v.13	9	7+dm:iQ	S		fa[i]soit	medium	d #3: other: two arms over a small closed loop, looks like the y sign; reading takes i
+152v.14	1	x3xfzoQxss	T	x3xfzoQxs	e[x]ecuter	medium	one long s with a large hook at the end, not two: executer
+152v.14	1	x3xfzoQxss	K		e[x]ecuter	high	2nd sign is 3 with a big tail below: 3 = x
+152v.14	3	zord	S		ung	high	d #4: other: tall narrow closed loop; reading takes g
+152v.14	4	d:ss3x+zo	K		bo[u]rreau	medium	signs as transcribed (b o r r e a u): no u after o in the cipher
+152v.14	4	d:ss3x+zo	S		bourreau	high	d #1: delta, small bowl with a straight ascender up-left; reading takes b
+152v.15	3	c+	S		et	medium	c #1: wave-like stroke; et
+152v.15	5	DzodppxrQxiQ	U		augmente[n]t	medium	before the last circle there is an x with a raised dot over it, no minim on the line: the 'i' is that dot. Whether it marks n I cannot tell. The o of zo is crossed by a long stray diagonal
+152v.15	5	DzodppxrQxiQ	S		augmentent	high	d #4: other: tall narrow closed loop; reading takes g. D #1 double-barred cross, reading takes a
+152v.17	2	ds+rhxzos	S		grandeur	high	d #1: other: tall narrow closed loop; reading takes g
+152v.17	4	H:zoss3xiQ	K		pourr[o]it	medium	after the two long s stands the composite x-on-3 o-sign (large, with 2-shaped base), not the 's3'+x of 'vostre': p-o-u-r-r-o-i-t. Three dots after H (':.')
+152v.17	5	fs:s3x	T	fs:.s3x	cro[i]re	medium	three dots, the third set apart and lower, between the first long s and the second: ':' + '.' (o + i): croire
+152v.18	1	r:ppd	M	r:ppds3x	nombre	medium	no divider between the delta and the long s: words 1 and 2 are one word nombre
+152v.18	1	r:ppd	S		nombre	high	d #5: delta with heavy straight ascender up-left; reading takes b
+152v.18	4	ds+rh3	S		grands	high	d #1: other: tall narrow closed loop; reading takes g
+152v.18	5	nnxidrxzosm	S		seigneurs	high	d #5: other: tall narrow closed loop; reading takes g
+152v.18	6	c+	S		et	medium	c #1: wave-like stroke; et
+152v.18	7	r:dWxmmx	S		noblesse	high	d #3: delta with long straight ascender up-left; reading takes b
+152v.18	8	s3	K		[qui]	medium	heavy long s with a 2-shaped stroke on a long foot: the same composite sign as 152v.03 w6; a whole-word sign for qui, not s+3
+152v.19	1	3xrQ	R		s[o]nt	medium	first sign is the composite x-on-3 o-sign, then small r, circle: 'ont' (qui ont intelligence), not 'sont'; there is no separate s
+152v.19	2	DrQxWWDdxrfx	S		intelligence	high	d #8: other: tall narrow closed loop with the x attached; reading takes g
+152v.20	3	fed	S		[qu'ils]	medium	d #3: hook, tall, open, descending below the line; sign 1 the left-curled crossed upright, sign 2 an e/c-shape
+152v.20	6	nnx	T	mx	se	low	three minims before x (same letter)
+152v.21	2	fce	T	fcx	[qu'ils]	medium	3rd sign is not the large looped e-sign (compare the next word): it is a small x with a trailing horizontal stroke, the same ending as bcx at 152v.01/06 and the group at 152v.26 w2
+152v.21	2	fce	S		[qu'ils]	medium	c #2: small raised c, as in bcx
+152v.22	1	c+	S		et	medium	c #1: wave-like stroke; et
+152v.22	3	fed	S		[qu'ils]	medium	d #3: hook, large, starts at the top of the e/c-shape, arches right and falls below the line; no closed loop
+152v.23	2	7s+is3x	K		fr[e]re	high	7, long s with cross flag, minim, long s+3, x: cipher has 'fraire'
+152v.23	4	nnxidrxzos	S		seigneur	high	d #5: other: tall narrow closed loop; reading takes g
+152v.24	2	ei+ddx	U		abbé	low	after the ornate sieur sign and a divider: a large e/C-shaped sign with a descender, a short upright that may be a minim or a short divider, then cross, two deltas, x. 'e' and the upright are not accounted for by 'abbé' (possibly e alone = y, or e+ = et)
+152v.24	2	ei+ddx	S		abbé	medium	d #4 and #5: both delta, small bowls with short ascenders up-left; reading takes b b
+152v.24	4	fWxrs+f	T	fWxys+f	Cl[ai]rac	high	4th sign has the x-head with looped tail below (y): c-l-e-i-r-a-c 'Cleirac'
+152v.25	1	f+zoWpp3xrQ	K		Caulm[o]nt	high	'3x' is the composite x-on-3 o-sign, clear here: Caulmont
+152v.25	2	x:xQ	T	r:.rQ	[ont]	medium	small bold r, three dots, r, circle: n-o-n-t
+152v.25	2	x:xQ	R		[ont]	medium	signs give 'n'ont' (n'ont seigneurie, place ni chasteau), not 'ont'
+152v.25	3	nnxidrzosDx	K		seign[e]urie	medium	no x between r and zo, as transcribed: cipher has 'seignurie'
+152v.25	3	nnxidrzosDx	S		seigneurie	high	d #5: other: tall narrow closed loop; reading takes g
+152v.25	5	xe	T	re	[et]	medium	first sign is the small bold r, second the x-head with looped tail: n-i
+152v.25	5	xe	R		[et]	medium	signs give 'ni' (place ni chasteau), not 'et'
+152v.25	6	fg+mQxzo	T	fg+mQx+zo	chaste[a]u	medium	a small cross stands between the x and the final pair at the line end: chasteau; the last pair is blurred (zo or io)
+152v.26	1	3xzo	R		[..]	medium	composite x-on-3 o-sign, then zo: 'ou' (où)
+152v.26	2	fxz	T	fcx	[..]	medium	f, small raised c, x with a trailing horizontal stroke: the same group as 152v.21 w2 (and bcx with f for b); the 'z' is that trailing stroke. Value not settled
+152v.26	2	fxz	S		[..]	medium	z #3: on the line, a short flat stroke joined to the x; no tail
+152v.26	3	rx	T	ry	ne	medium	second sign has a large looped tail below: n'y
+152v.26	4	+3xrQ	T	+yxrQ	a[y]ent	high	2nd sign is the x-head with a large looped tail (y), not 3; then x, r, circle: a-i-e-n-t 'aient'
+152v.26	7	c+	S		et	medium	c #1: wave-like stroke; et
+152v.26	9	xr	T	rx	[ne]	medium	small bold r first, then tailed x: 'ne', as the reading has it
+152v.27	3	DmnnxppdWxx	S		assemblee	high	d #6: delta with heavy straight ascender up-left; reading takes b. D #1 double-barred cross, reading takes a
+152v.27	5	sxdxWWxm	S		rebelles	high	d #3: delta with ascender up-left; reading takes b
+152v.28	4	+HxzoxsQi	U		a[d]verti	low	2nd sign has a tall first upright and a short second one joined by a bar (closer to the h-shape = d than to H = p); the next sign is a short minim, not x; then zo, x, long s, circle, small hook. I cannot fix the count
+152v.29	1	ds+rhxzos	S		grandeur	high	d #1: other: tall narrow closed loop; reading takes g
+152v.30	2	Dzodx	S		juge	high	d #4: other: tall narrow closed loop; reading takes g
+152v.30	6	nnxidrxios	S		seigneur	high	d #5: other: tall narrow closed loop; reading takes g
+152v.31	5	H+sQx	T	H+sQy	part[i]	high	last sign has the x-head with a large looped tail below (y): parti
+152v.all		zo	S		u	medium	z inside every zo on the page: on the line, written as a short double stroke like '='; none has a tail

@@ -9,34 +9,38 @@
 #   C = large open C curve with a small loop/2 inside at the top (lines 5, 9, 17)
 #   P = π-shape: a bar over two short legs (line 27, ":P")
 #   c = small ɛ-like sign with a loop sweeping below the line (Tzo+cx, zocx); SIGNS.md "c"
-fxzoWz Tzod 7:rQ mxSzoDmmx +zo 4 hJmm+rQ
-TzoiW xW+ HxSm:rrx Tzo+ex H+SWx f:rQSx
-Wx fgix7 Tzox Dio+rQ Hxzo hx QxppHm rx Wzoex
+# 16 Nov 2026: every line re-checked against the full-resolution image (openapi.bnf.fr), one independent checker per page.
+# New codes (SIGNS.md): B = barred delta (b), G = tall curled delta (g), j = crossed delta (i), X = short double-barred
+# cross on the line (a), O = x-head on a closed loop or curl (o). d is kept for the hook of the group fed and for an
+# unclassified delta; D is now only the tall double dagger. Changes are listed in corrections_155r.tsv.
+fxzoW3 Tzoj 7:rQ mxSzoDmmx +zo 4 hjnn+rQ
+TzoiW ry+ HxSm:rrx Tzo+ex H+SWx f:rQSx
+Wx fgix7 Tzox Dio+rQ Hxzo hx QxppHm rx Wzoe
 f:zomQx W+ zoex
 C+ hx H+SxiWWxm ppxr+mmxm i+ H+S:WWxm
-zomxrQ Q:zoQ3 fxioWz hx W+ f:ppH+idrDx hiohifQ
-fgix7 ppxmppxm fxzoWz Se W+zo:exrQ +f:ppH+idrx
-Dm:r zo:e+idx hx f:zoSQ WxmTzoxW3 mxr
-mxrQ SxQ:zoSrxm hx H+Shxf+ C+ 7+Jmm+rQ
+zomxrQ Q:zoQ3 fxioW3 hx W+ f:ppH+iGrDx hiohifQ
+fgix7 ppxmppxm fxzoW3 Se W+zo:exrQ +f:ppH+iGrx
+Dm:r zo:e+iGx hx f:zoSQ WxmTzoxW3 mxr
+mOrQ SxQ:zoSrxm hx H+Shxf+ C+ 7+jnn+rQ
 Wxzos pp:zomQSx hxSrDxs xr W+ zoiWWx
-h+dxr Qxr:exrQ HzodWDTzoxppxrQ WxmhifQ3
-W+xdhdxm
-bex mx 7:rQ +mmxppdWxffm Q:zoQ3 Wxm
-D:zoSm hx SxdxWWxm hxW+ HWzonnH+SQ hxmTzoxWWxm
+h+Gxr Qxr:exrQ HzoBWDTzoxppxrQ WxmhifQ3
+W+rGhGxm
+bex mx 7:rQ +mmxppBWxffm Q:zoQ3 Wxm
+D:zoSm hx SxBxWWxm hxW+ HWzonnH+SQ hxmTzoxWWxm
 Wx f+HHDQ+Drx W+ f+zox xmQ Wx f:rhiofQxioS
-i+ fgix7 mD Wx [?] 4 rxrio:ex TzoxWfzox
-H+Shxf+ Z Wxm fg+mQrS fa Cx 7+ifQ3
-h:zodQx TzoiW rx +ex TzoxWTzox dS+rh QS:zodWx
-:zo Drf:rioxrexrQ [+W+]J DW+hioxxeS
-WxmhifQ3 SxdxWWxm pp:rQ Sxrhxio xr QxW
-xmQ+Q Tzox fa x+zomx m:zoSQiS hx pp+
-pp+Jnn:r mD fx rxmQ hx rzofQ e+ 7:rQ
-f:zoSiS Wx dSzoifQ Tzox pp:rmidxzoS hx QxSppxm
-i+ mxm f:ppH+Ddrixm [:xQ] [xmQx] Tzox W:xm
+i+ fgix7 mD Wx [?] 4 rxrio:ex TzoxWfzor
+H+Shxf+ Z Wxm fg+mQixS fa C rx 7+ifQ3
+h:zoBQx TzoiW ry +ex TzoxWTzox GS+rh QS:zoBWx
+:zo Drf:rioxrexrQ [+W+J] DW+hioxreS
+WxmhifQ3 SxBxWWxm pp:rQ Sxrhio xr QxW
+OmQ+Q Tzox fa r+zomx m:zoSQiS hx pp+
+pp+jnn:r mD fx rxmQ hx rzofQ e+ 7:rQ
+f:zoSiS Wx BSzoifQ Tzox pp:rmidxzoS hx QxSppxm
+i+ mxm f:ppH+DGrixm [:xQ] [xmQx] Tzox W:rm
 hDm:iQ Tzox zoxr:exrQ H+Shxf+ :rQ xmQx
 f:rQS+pp+rhxm Z mxr SxQ:zoSrxS fg:mx
-Tzo+ h:rrx zord dS+rh HW+JnndS :P
-f:rQxrQ+ppffrQ +zomhifQ3 SdxiWxm
+Tzo+ h:rrx zorG GS+rh HW+jnnjS :P
+f:rQxrQ+ppffrQ +zomhifQ3 SxBxWxm
 x+i+ [Wxxxo]S Z f:rQirzoxS WxzoSm 7+fQi?m
 # line 16: [?] = a sign heavily scribbled out with several vertical and horizontal strokes (a cancelled ‡/H?)
 # line 18: the Q in "hrzodQx" has a stroke drawn across it (possibly a correction)
