@@ -13,7 +13,7 @@ François II. It is entirely in cipher, ten pages, 1,715 cipher words. It had no
 The cipher was broken here from the ciphertext alone: a homophonic substitution with two-stroke units and four
 code words. After the image check of 16 Nov 2026 (below) the transcription has 1,710 cipher words and the reading covers 1,699 of
 them (99.4%); 11 scattered words are left unread. Of the 1,703 words read on the ten pages, 1,474 (86.6%) are exactly what the key
-gives, with no sign allowed a second value, and 229 depart from it and are bracketed. (Before the image check: 1,347 of
+gives (the key has one value per sign), and 229 depart from it and are bracketed. (Before the image check: 1,347 of
 1,709, with three signs allowed two values; before the audit, 108 emendations were marked.)
 
 ## Where it is
